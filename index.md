@@ -7,7 +7,7 @@ title: Home
 <h2>{{ page.title }}</h2>
    
     {{ content }}
-    
+ ```html   
         <!-- Page Content -->
     <div class="container">
 
@@ -72,3 +72,4 @@ title: Home
 
     </div>
     <!-- /.container -->
+```
