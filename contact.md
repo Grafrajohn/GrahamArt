@@ -1,6 +1,6 @@
 layout: page
 title: Contact
-permalink: /contact/
+permalink: {{ site.baseurl }}/contact/
 ---
 
 Contact content goes here.
