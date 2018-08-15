@@ -5,3 +5,7 @@ body {
 nav {
  background-image: url("https://res.cloudinary.com/dtn9ari2r/image/upload/v1534340105/backgrounds/christmas-background-tiles118.gif");
 }
+
+html,body{
+    height: 100%
+}
