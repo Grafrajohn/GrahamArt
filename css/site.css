@@ -11,8 +11,14 @@ nav {
  background-image: url("https://res.cloudinary.com/dtn9ari2r/image/upload/v1534340105/backgrounds/5022.png");
 }
 
+@font-face { 
+	font-family: 'Archistico';
+	src: url('WebFont.eot');
+	src: url('Archistico_Simple-webfont.woff') format('woff');
+}
+
 .navbar-brand {
-  font-family: 'MyWebFont';
+    font-family: myFirstFont;
 }
 
 @font-face {
