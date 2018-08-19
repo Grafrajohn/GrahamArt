@@ -11,6 +11,10 @@ html, body {
     min-height: 100%;
 }
 
+.div-visible {
+ display: none; 
+}
+
 /*h1,
 h2,
 h3,
