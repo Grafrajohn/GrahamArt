@@ -30,6 +30,19 @@ nav {
 	font-size: 2.1em;
 }
 
+.navbar-nav {
+	.nav-link {
+		color: white;
+
+		@include hover-focus {
+		color: $navbar-dark-hover-color;
+	}
+
+	&.disabled {
+		color: $navbar-dark-disabled-color;
+	}
+}
+
 @font-face {
     font-family: 'archisticonormal';
     src: url('Archistico_Simple-webfont.eot');
