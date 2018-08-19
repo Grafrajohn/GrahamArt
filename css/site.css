@@ -21,8 +21,8 @@ nav {
 
 @font-face { 
 	font-family: 'Archistico';
-	src: url('fonts/WebFont.eot');
-	src: url('fonts/Archistico_Simple-webfont.woff') format('woff');
+	src: url('../fonts/WebFont.eot');
+	src: url('../fonts/Archistico_Simple-webfont.woff') format('woff');
 }
 
 .navbar-brand {
