@@ -18,7 +18,8 @@ nav {
 }
 
 .navbar-brand {
-    font-family: myFirstFont;
+	font-family: myFirstFont;
+	font-size: 2.5em;
 }
 
 @font-face {
