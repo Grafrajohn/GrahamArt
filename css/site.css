@@ -11,6 +11,10 @@ nav {
  background-image: url("https://res.cloudinary.com/dtn9ari2r/image/upload/v1534340105/backgrounds/5022.png");
 }
 
+.navbar-brand {
+  font-family: 'MyWebFont', Arial, sans-serif;
+}
+
 @font-face {
     font-family: 'archisticonormal';
     src: url('Archistico_Simple-webfont.eot');
