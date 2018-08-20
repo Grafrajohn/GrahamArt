@@ -39,6 +39,6 @@ nav {
 }
 
 .footer_body {
-    /*position: absolute;*/
+    position: absolute;
     bottom: 0;
 }
