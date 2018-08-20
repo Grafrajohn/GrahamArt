@@ -21,6 +21,7 @@ h6 {font-size: 1.4em;}
 
 nav {
  background-image: url("https://res.cloudinary.com/dtn9ari2r/image/upload/v1534340105/backgrounds/5022.png");
+	display: block!important;
 }
 
 @font-face { 
