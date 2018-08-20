@@ -37,3 +37,8 @@ nav {
 .div-invisible {
  display: none; 
 }
+
+.footer_body {
+    /*position: absolute;*/
+    bottom: 0;
+}
