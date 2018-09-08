@@ -1,0 +1,72 @@
+---
+layout: default
+description: Gallery of an English Artist. View original paintings.
+title: Gallery of an English Artist | Original paintings
+---
+ 
+<SCRIPT>
+var grid = document.querySelector('.grid');
+var msnry;
+
+imagesLoaded( grid, function() {
+  // init Isotope after all images have loaded
+  msnry = new Masonry( grid, {
+    itemSelector: '.grid-item',
+    columnWidth: '.grid-sizer',
+    percentPosition: true
+  });
+});
+</SCRIPT>
+
+   <!-- Page Content -->
+   <div class="container">
+
+      <!-- Portfolio Item Row -->
+      <div class="row">
+
+        <div class="col-md-8 mt-4">
+            <div class="grid">
+                <div class="grid-sizer"></div>
+                <div class="grid-item">
+                  <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/orange-tree.jpg" />
+                </div>
+                <div class="grid-item">
+                  <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/submerged.jpg" />
+                </div>
+                <div class="grid-item">
+                  <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/look-out.jpg" />
+                </div>
+                <div class="grid-item">
+                  <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/one-world-trade.jpg" />
+                </div>
+                <div class="grid-item">
+                  <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/drizzle.jpg" />
+                </div>
+                <div class="grid-item">
+                  <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/cat-nose.jpg" />
+                </div>
+                <div class="grid-item">
+                  <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/contrail.jpg" />
+                </div>
+                <div class="grid-item">
+                  <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/golden-hour.jpg" />
+                </div>
+                <div class="grid-item">
+                  <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/flight-formation.jpg" />
+                </div>
+              </div>
+        </div>
+
+        <div class="col-md-4">
+          <h1 class="my-3">Welcome to my gallery</h1>
+           <blockquote class="blockquote">
+           <p>"My online art gallery has been on the Internet since 1996 and has won several awards. I hope you enjoy my original paintings."</p> 
+              <cite><p>Graham</p></cite>
+           </blockquote>
+        </div>
+
+      </div>
+      <!-- /.row -->
+
+    </div>
+    <!-- /.container -->
