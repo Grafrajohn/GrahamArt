@@ -2,8 +2,48 @@
 layout: default
 description: Gallery of an English Artist. View original paintings.
 title: Gallery of an English Artist | Original paintings
+permalink: index-masonry.html
 ---
-   
+
+<style>
+* { box-sizing: border-box; }
+
+/* force scrollbar */
+html { overflow-y: scroll; }
+
+body { font-family: sans-serif; }
+
+/* ---- grid ---- */
+
+.grid {
+  background: #DDD;
+  background-image: url(https://res.cloudinary.com/dtn9ari2r/image/upload/v1534337032/backgrounds/tantweed.gif);
+}
+
+/* clear fix */
+.grid:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+/* ---- .grid-item ---- */
+
+.grid-sizer,
+.grid-item {
+  width: 33.333%;
+}
+
+.grid-item {
+  float: left;
+}
+
+.grid-item img {
+  display: block;
+  max-width: 100%;
+}
+</style>
+
    <!-- Page Content -->
    <div class="container">
 
@@ -11,11 +51,49 @@ title: Gallery of an English Artist | Original paintings
       <div class="row">
 
         <div class="col-md-8 mt-4">
-          <img class="img-fluid" src="https://res.cloudinary.com/dtn9ari2r/image/upload/v1533737154/banners/collage2.png" alt="">
+            <div class="grid">
+                <div class="grid-sizer"></div>
+                <div class="grid-item">
+                  <img src="https://res.cloudinary.com/dtn9ari2r/image/upload/v1533839294/oils/liondrn2.jpg" />
+                </div>
+                <div class="grid-item">
+                  <img src="https://res.cloudinary.com/dtn9ari2r/image/upload/v1533736843/oils/gainhall.jpg" />
+                </div>
+                <div class="grid-item">
+                  <img src="https://res.cloudinary.com/dtn9ari2r/image/upload/v1533736847/oils/gawsw3.jpg" />
+                </div>
+                <div class="grid-item">
+                  <img src="https://res.cloudinary.com/dtn9ari2r/image/upload/v1533736857/oils/hands.jpg" />
+                </div>
+                <div class="grid-item">
+                  <img src="https://res.cloudinary.com/dtn9ari2r/image/upload/v1533736841/oils/fruits.jpg" />
+                </div>
+                <div class="grid-item">
+                  <img src="https://res.cloudinary.com/dtn9ari2r/image/upload/v1533736871/oils/oxbor02.jpg" />
+                </div>
+                <div class="grid-item">
+                  <img src="https://res.cloudinary.com/dtn9ari2r/image/upload/v1533736845/oils/gatehse3.jpg" />
+                </div>
+                <div class="grid-item">
+                  <img src="https://res.cloudinary.com/dtn9ari2r/image/upload/v1533736921/watercolours/wc3v03.jpg" />
+                </div>
+                <div class="grid-item">
+                  <img src="https://res.cloudinary.com/dtn9ari2r/image/upload/v1533736879/oils/rose_garden3.jpg" />
+                </div>
+                <div class="grid-item">
+                  <img src="https://res.cloudinary.com/dtn9ari2r/image/upload/v1533736915/watercolours/morton_2_wc.jpg" />
+                </div>
+                <div class="grid-item">
+                  <img src="https://res.cloudinary.com/dtn9ari2r/image/upload/v1534677087/prints/DSC03132.jpg" />
+                </div>  
+                <div class="grid-item">
+                  <img src="https://res.cloudinary.com/dtn9ari2r/image/upload/v1534677090/prints/DSC03130.jpg" />
+                </div>                                
+              </div>
         </div>
 
         <div class="col-md-4">
-          <h1 class="my-3">Welcome to my gallery</h1>
+          <h1 class="my-3">Welcome to my online art gallery</h1>
            <blockquote class="blockquote">
            <p>"My online art gallery has been on the Internet since 1996 and has won several awards. I hope you enjoy my original paintings."</p> 
               <cite><p>Graham</p></cite>
