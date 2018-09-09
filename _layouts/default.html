@@ -13,7 +13,8 @@
 </body>
 	<!-- Bootstrap core JavaScript -->
 	<script src="js/jquery.min.js"></script>
-	<script src="js/bootstrap.bundle.min.js"></script>
+	<script src="js/bootstrap.bundle.min.js"></script>	
+	{% if page.masonry %}
 	<script src="js/masonry.pkgd.min.js"></script>	
 	<script src="js/imagesloaded.pkgd.min.js"></script>
 	<SCRIPT>
@@ -28,5 +29,6 @@
 			percentPosition: true
 		  });
 		});
-	</SCRIPT>		
+	</SCRIPT>	
+	{%endif%}	
 </html>
