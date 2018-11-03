@@ -62,28 +62,28 @@ main {
 }
 
 /* Small devices (landscape phones, 576px and up) */
-@media screen (min-width: 576px) and (max-width: 767px) { 
+@media screen and (min-width: 576px) and (max-width: 767px) { 
 	.navbar-brand {
 		font-size: 1.6em;
 	}
 }
 
 /* Medium devices (tablets, 768px and up) */
-@media screen (min-width: 768px) and (max-width: 991px) { 
+@media screen and (min-width: 768px) and (max-width: 991px) { 
 	.navbar-brand {
 		font-size: 1.6em;
 	}	
 }
 
 /* Large devices (desktops, 992px and up) */
-@media screen (min-width: 992px) and (max-width: 1199px) { 
+@media screen and (min-width: 992px) and (max-width: 1199px) { 
 	.navbar-brand {
 		font-size: 2.1em;
 	}	
 }
 
 /* Extra large devices (large desktops, 1200px and up) */
-@media screen (min-width: 1200px) { 
+@media screen and (min-width: 1200px) { 
 	.navbar-brand {
 		font-size: 2.1em;
 	}	
