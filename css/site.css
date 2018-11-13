@@ -78,7 +78,8 @@ main {
   /* end of grid */
 
   .list-group-item {
-	  background-color: none;
+	  background-color: transparent;
+	  border: 0;
   }
 
 .footer_body {
