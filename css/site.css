@@ -77,6 +77,10 @@ main {
 
   /* end of grid */
 
+  .list-group-item {
+	  background-color: none;
+  }
+
 .footer_body {
     position: absolute;
     bottom: 0;
