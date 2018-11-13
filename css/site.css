@@ -82,6 +82,10 @@ main {
 	  border: 0;
   }
 
+  .timeline-widget {
+	  max-height: 800px;
+  }
+
 .footer_body {
     position: absolute;
     bottom: 0;
