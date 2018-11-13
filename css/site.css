@@ -45,6 +45,38 @@ main {
  display: none; 
 }
 
+/* ---- grid ---- */
+
+.grid {
+	background: #DDD;
+	background-image: url(https://res.cloudinary.com/dtn9ari2r/image/upload/v1541355542/backgrounds/linenbkg.gif);
+  }
+  
+  /* clear fix */
+  .grid:after {
+	content: '';
+	display: block;
+	clear: both;
+  }
+  
+  /* ---- .grid-item ---- */
+  
+  .grid-sizer,
+  .grid-item {
+	width: 25%;
+  }
+  
+  .grid-item {
+	float: left;
+  }
+  
+  .grid-item img {
+	display: block;
+	max-width: 100%;
+  }
+
+  /* end of grid */
+
 .footer_body {
     position: absolute;
     bottom: 0;
