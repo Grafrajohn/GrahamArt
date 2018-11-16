@@ -15,7 +15,11 @@ h5 {font-size: 1.2em;}
 h6 {font-size: 1.0em;}
 
 .h1-smaller {
-	font-size: 1.6em;
+	font-size: 1.6em;	
+}
+
+.h2-smaller {
+	font-size: 1.4em;
 }
 
 nav {

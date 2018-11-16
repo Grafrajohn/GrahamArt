@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="container">
 
-    <h1>{{ page.title }}</h1>
+    <h1 class="h1-smaller">{{ page.title }}</h1>
     <time>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</time>
 
     {{ content }}
@@ -12,21 +12,21 @@ layout: default
         <p>{{ page.introduction }}</p>
         {% if page.h2-1 %}        
         <div class="col-12">
-            <h2>{{ page.h2-1 }}</h2>
+            <h2 class="h2-smaller">{{ page.h2-1 }}</h2>
             <img class="img-fluid" src="{{ page.image1 }}" alt="{{ page.alt-image1 }}" />
             <p>{{ page.text1 }}</p>           
         </div>
         {% endif %}        
         {% if page.h2-2 %}
         <div class="col-12">
-            <h2>{{ page.h2-2 }}</h2>
+            <h2 class="h2-smaller">{{ page.h2-2 }}</h2>
             <img class="img-fluid" src="{{ page.image2 }}" alt="{{ page.alt-image2 }}" />
             <p>{{ page.text2 }}</p>           
         </div>
         {% endif %}
         {% if page.h2-3 %}        
         <div class="col-12">
-            <h2>{{ page.h2-3 }}</h2>
+            <h2 class="h2-smaller">{{ page.h2-3 }}</h2>
             <img class="img-fluid" src="{{ page.image3 }}" alt="{{ page.alt-image3 }}" />
             <p>{{ page.text3 }}</p>           
         </div> 
