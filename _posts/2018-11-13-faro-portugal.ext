@@ -4,9 +4,13 @@ title:  "Visit to Faro, Portugal"
 description: "Visit to Faro, Portugal"
 date:   2018-11-12 21:43:33 +0100
 categories: faro portugal art
+introduction: I spent some time in Faro, Portugal, recently and this city has its fair share of beautiful things.
+h2-1: Faro Old City
+image1: https://res.cloudinary.com/dtn9ari2r/image/upload/v1542148050/IMG_1854.png
+alt-image1: Street sign in Faro Portugal
+text1: The Portuguese are famous for their tiles. The street signs are a pretty good example
+h2-2: Faro Museum
+image2: https://res.cloudinary.com/dtn9ari2r/image/upload/v1542147614/IMG_1782.png
+alt-image2: Roman mosaic in Faro Portugal
+text2: The Romans conquered southern Portugal and as always they left us some wonderful mosaics. This detail shows that dubious hairware goes back many centuries.
 ---
-<p>I spent some time in Faro, Portugal, recently and this city has its fair share of beautiful things.</p>
-<p>The Portuguese are famous for their tiles. The street signs are a pretty good example:</p>
-<img class="img-fluid" src="https://res.cloudinary.com/dtn9ari2r/image/upload/v1542148050/IMG_1854.png" alt="Street sign in Faro Portugal">
-<p>The Romans conquered southern Portugal and as always they left us some wonderful mosaics. This detail shows that dubious hairware goes back many centuries.</p>
-<img class="img-fluid" src="https://res.cloudinary.com/dtn9ari2r/image/upload/v1542147614/IMG_1782.png" alt="Roman mosaic in Faro Portugal">
