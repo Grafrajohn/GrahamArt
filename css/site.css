@@ -26,19 +26,20 @@ nav {
  background-image: url("https://res.cloudinary.com/dtn9ari2r/image/upload/v1542410020/backgrounds/Blue-Silk-Fabric-Texture.jpg");
 }
 
-@font-face { 
+/*@font-face { 
 	font-family: 'Archistico';
 	src: url('../fonts/WebFont.eot');
 	src: url('../fonts/Archistico_Simple-webfont.woff') format('woff');
-}
+}*/
 
-@font-face { 
+/*@font-face { 
 	font-family: 'Amatic';
 	src: url('../fonts/Amatic-Bold.ttf') format('ttf');
-}
+}*/
 
 .navbar-brand {
-	font-family: 'Amatic';
+	/*font-family: 'Amatic';*/
+	font-family: 'Rancho', cursive;
 	font-size: 2.1em;
 }
 
