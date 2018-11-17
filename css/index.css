@@ -3,4 +3,4 @@
 /* force scrollbar */
 html { overflow-y: scroll; }
 
-body { font-family: sans-serif; }
+body { font-family: 'PT Serif', serif; }
