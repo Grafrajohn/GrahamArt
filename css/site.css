@@ -37,6 +37,10 @@ nav {
 	src: url('../fonts/Amatic-Bold.ttf') format('ttf');
 }*/
 
+.navbar {
+	padding: 0.1em;
+}
+
 .navbar-brand {
 	/*font-family: 'Amatic';*/
 	font-family: 'Rancho', cursive;
