@@ -22,10 +22,22 @@
 	window.dataLayer = window.dataLayer || [];
 	function gtag(){dataLayer.push(arguments);}
 	gtag('js', new Date());
-
 	gtag('config', 'UA-23791652-1');
-
 	</script>
 	
+	<!-- Favicons -->
 	<link rel="shortcut icon" href="https://www.grahamart.com/favicon.ico" type="image/x-icon" />
+	
+	<!-- Facebook and Twitter tags -->
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="{{ page.title }}" />
+	<meta property="og:description" content="{{ page.description }}" />
+	<meta property="og:url" content="{{ page.url }}" />
+	<meta property="og:site_name" content="{{ site.title }}" />
+	
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:description" content="{{ page.description }}" />
+	<meta name="twitter:title" content="{{ page.title }}" />
+	<meta name="twitter:image" content="https://res.cloudinary.com/dtn9ari2r/image/upload/c_thumb,w_200,g_face/v1533736857/oils/hands.jpg" />
+
 </head> 
