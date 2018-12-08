@@ -10,11 +10,11 @@ layout: default
       <h1 class="h1-smaller">{{ page.work }}</h1>
       <p class="font-italic font-weight-light">{{ page.media }} {{ page.size }}</p>
       <h2 class="h2-smaller">Summary of the painting</h2>      
-      <p>{{ page.worktext1 }}</p>
-      {% if page.worktext2 %}<h2 class="h2-smaller">Artist's notes</h2>{% endif %}
-      <p>{{ page.worktext2 }}</p>
-      <p>{{ page.worktext3 }}</p>
-      <p>{{ page.worktext4 }}</p>
+      <p>{{ page.summary }}</p>
+      {% if page.artistnote1 %}<h2 class="h2-smaller">Artist's notes</h2>{% endif %}
+      <p>{{ page.artistnote1 }}</p>
+      <p>{{ page.artistnote2 }}</p>
+      <p>{{ page.artistnote3 }}</p>
       <h2 class="h2-smaller">Further Information</h2>
       <p>For further information <a href="{{ page.link-info }}" target="_blank">click here</a> (opens a new browser window)</p>      
     </div>
