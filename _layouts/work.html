@@ -11,7 +11,7 @@ layout: default
       <p class="font-italic font-weight-light">{{ page.media }} {{ page.size }}</p>
       <h2 class="h2-smaller">Summary of the painting</h2>      
       <p>{{ page.worktext1 }}</p>
-      <h2 class="h2-smaller">Artist's notes</h2>
+      {% if page.worktext2 %}<h2 class="h2-smaller">Artist's notes</h2>{% endif %}
       <p>{{ page.worktext2 }}</p>
       <p>{{ page.worktext3 }}</p>
       <p>{{ page.worktext4 }}</p>
