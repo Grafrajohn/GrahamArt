@@ -4,13 +4,13 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.title }}{% endif %}">
 
-	<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+	<title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
 
 	<meta name="google-site-verification" content="zWW566JaXEpczdDPDKV591UZ6LLV6Luos7eRWTjIWsQ" />
 	
     <!-- Bootstrap core CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">	
-	<link rel="stylesheet" href="/css/site.css">
+	<link rel="stylesheet" href="/css/site.min.css">
 	<link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
 	<link href="https://fonts.googleapis.com/css?family=PT+Serif" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Rancho" rel="stylesheet">
@@ -22,10 +22,28 @@
 	window.dataLayer = window.dataLayer || [];
 	function gtag(){dataLayer.push(arguments);}
 	gtag('js', new Date());
-
 	gtag('config', 'UA-23791652-1');
-
-	<link rel="shortcut icon" href="https://www.grahamart.com/favicon.ico" type="image/x-icon" />
 	</script>
 	
+	<!-- Favicons -->
+	<link rel="shortcut icon" href="https://www.grahamart.com/favicon.ico" type="image/x-icon" />
+	<link href="https://res.cloudinary.com/dtn9ari2r/image/upload/c_fill,h_120,w_120/v1533736857/oils/hands.jpg" rel="apple-touch-icon" />
+	<link href="https://res.cloudinary.com/dtn9ari2r/image/upload/c_fill,h_152,w_152/v1533736857/oils/hands.jpg" rel="apple-touch-icon" sizes="152x152" />
+	<link href="https://res.cloudinary.com/dtn9ari2r/image/upload/c_fill,h_167,w_167/v1533736857/oils/hands.jpg" rel="apple-touch-icon" sizes="167x167" />
+	<link href="https://res.cloudinary.com/dtn9ari2r/image/upload/c_fill,h_180,w_180/v1533736857/oils/hands.jpg" rel="apple-touch-icon" sizes="180x180" />
+	<link href="https://res.cloudinary.com/dtn9ari2r/image/upload/c_fill,h_192,w_192/v1533736857/oils/hands.jpg" rel="icon" sizes="192x192" />
+	<link href="https://res.cloudinary.com/dtn9ari2r/image/upload/c_fill,h_128,w_128/v1533736857/oils/hands.jpg" rel="icon" sizes="128x128" />
+	
+	<!-- Facebook and Twitter tags -->
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="{{ page.title }}" />
+	<meta property="og:description" content="{{ page.description }}" />
+	<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+	<meta property="og:site_name" content="{{ site.name }}" />
+	
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:description" content="{{ page.description }}" />
+	<meta name="twitter:title" content="{{ page.title }}" />
+	<meta name="twitter:image" content="https://res.cloudinary.com/dtn9ari2r/image/upload/c_thumb,w_200,g_face/v1533736857/oils/hands.jpg" />
+
 </head> 
