@@ -10,6 +10,13 @@
 		</article>
 		{% include footer.html %}
 	</main>
+	<!-- Markup microformat data -->
+		<div itemscope itemtype="http://schema.org/WebSite">
+			<meta itemprop="name" content="{{ site.name }}"/>
+			<meta itemprop="alternateName" content="{{ page.title }}"/>
+			<meta itemprop="url" content="{{ site.url page.url }}"/>
+		</div>
+		<!-- /.markup data -->
 </body>
 	<!-- Bootstrap core JavaScript -->
 	<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
@@ -33,4 +40,15 @@
 		});
 	</SCRIPT>	
 	{%endif%}	
+		    <!-- Markup structured data -->
+				<script type="application/ld+json">
+					{
+						"@context": "http://schema.org/",
+						"@type": "WebSite",
+						"name": "{{ site.name }}",
+						"alternateName": "{{ page.title }}",
+						"url": "{{ site.url page.url }}"
+					}
+					</script>
+					<!-- /.markup data -->
 </html>
