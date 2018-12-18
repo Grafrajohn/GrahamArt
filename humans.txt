@@ -1,12 +1,12 @@
 /* TEAM */
-Your title: Your name.
-Site: email, link to a contact form, etc.
-Twitter: your Twitter username.
-Location: City, Country.
+Artist: Graham.
+Site: artystuff@gmail.com.
+Twitter: @GrahamArts.
+Location: East Yorkshire, England.
 /* THANKS */
-Name: name or url
+Name: Graham
 /* SITE */
-Last update: YYYY/MM/DD 
-Standards: HTML5, CSS3,..
-Components: Modernizr, jQuery, etc.
-Software: Software used for the development
+Last update: 2018/12/18 
+Standards: HTML5, CSS3
+Components: Bootstrap 4, JavaScript, JQuery
+Software: Microsoft Code, GitHub, Git, GIMP
