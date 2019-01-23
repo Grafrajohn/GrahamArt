@@ -47,6 +47,6 @@
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:description" content="{{ page.description }}" />
 	<meta name="twitter:title" content="{{ page.title }}" />
-	<meta name="twitter:image" content="https://res.cloudinary.com/dtn9ari2r/image/upload/c_thumb,w_200,g_face/v1533736857/oils/hands.jpg" />
+	<meta name="twitter:image" content="{% if page.image %}{{ page.image }}{% else %}{{ site.image }}{% endif %}" />
 
 </head> 
