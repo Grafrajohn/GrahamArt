@@ -4,7 +4,10 @@ layout: default
 <div class="container" style="padding-top: 10px;">
   <div class="row my-4">
     <div class="col-sm-6">
-      <img class="img-fluid" src="{{ page.image }}" alt="{{ page.alt-image }}" />
+      <figure class="figure">
+          <img src="{{ page.image }}" class="figure-img img-fluid" alt="{{ page.alt-image }}">
+          <figcaption class="figure-caption">{{ page.caption }}</figcaption>
+        </figure>
     </div>
     <div class="col-sm-6">
       <h1 class="h1-smaller">{{ page.work }}</h1>
