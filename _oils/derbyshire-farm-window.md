@@ -1,16 +1,6 @@
 ---
-layout: work
-title: Derbyshire farm window | Original oil painting
-description: Derbyshire farm window. Original oil painting.
-image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1533736877/oils/paint003.jpg
+image: https://res.cloudinary.com/dtn9ari2r/image/upload/c_thumb,w_200,g_face/v1533736877/oils/paint003.jpg
 alt-image: Derbyshire farm window
-work: Derbyshire farm window
-media: Oil on canvas
-size: 20 x 36 inches approx
-summary: I was fascinated by the Derbyshire stone from which this barn was built, which gave it a particularly pretty patterned appearance.
-artistnote1: Derbyshire stone is very colourful don't you think? A range of warm colours can be found in the stones in this picture, which give the work the appearance of an abstract pattern, with structure from the form of the building.
-artistnote2: Sometimes I think that I am really an abstract painter interested in colour and line, and that I pick subjects because they have colour and line. Also there is an element of repetition in the work, which signifies the patterns and repetition of our lives.
-artistnote3: The window here is dark and blue, which to me hints at a inner world invisible to the viewer but nonetheless tantalising. The cobwebs in the window suggest an errie emptiness. Who knows? 
-link-info: 'https://www.visitpeakdistrict.com/'
+caption: Derbyshire farm window
 permalink: /oil-paintings/derbyshire-farm-window
 --- 

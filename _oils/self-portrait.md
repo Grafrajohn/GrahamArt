@@ -1,15 +1,6 @@
 ---
-layout: work
-title: Self Portrait with stuff
-description: Self portrait with other stuff
-image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1539363528/self-portrait-with-things.png
+image: https://res.cloudinary.com/dtn9ari2r/image/upload/c_thumb,w_200,g_face/v1539363528/self-portrait-with-things.png
 alt-image: Self Portrait
-work: Self portrait
-media: Oil on canvas
-size: 20 x 12 inches
-summary: Every artist paints the occasional self-portrait and this is a great way to learn how to paint portraits.
-artistnote1: When I painted this I was less worldly than I am now. I was still an idealistic socialist, before I lapsed into liberalism. My favourite painter was Van Gogh. I don't listen to the Sex Pistols much now. I still like football. I still play guitar.   
-artistnote2: I have more regular haircuts than when I looked in the mirror to make this picture.
-artistnote3: The fish is a prehistoric fish, palaeontology being something that has always fascinated me. The whale represents my continuing belief that we have a duty to preseve the natural world.
+caption: Self portrait
 permalink: /oil-paintings/self-portrait
 --- 
