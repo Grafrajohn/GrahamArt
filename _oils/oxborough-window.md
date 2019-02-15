@@ -1,15 +1,6 @@
 ---
-layout: work
-title: Oxborough Hall window | Original oil painting
-description: Oxborough Hall window. Original oil painting.
-image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1533736873/oils/oxbrhall.jpg
+image: https://res.cloudinary.com/dtn9ari2r/image/upload/c_thumb,w_200,g_face/v1533736873/oils/oxbrhall.jpg
 alt-image: Oxborough Hall painting
-work: Oxborough Hall window
-media: Oil on canvas
-size: nn x nn inches
-summary: This beautiful old window sits just above the water at Oxborough Hall. I love these old English houses and my ambition is to visit the all.
-artistnote1: I think the Catholic priest who once hid here must have looked out of this window with trepidation.
-artistnote2: The hall was built in 1482 by the Catholic Bedingfeld family, who survived years of religious persecution and great danger. The hall comes with 500 years of history as each generation modified and enhanced the hall.
-link-info: 'https://www.nationaltrust.org.uk/oxburgh-hall'
+caption: Oxborough Hall window
 permalink: /oil-paintings/oxborough-window
 --- 
