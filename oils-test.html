@@ -4,11 +4,14 @@ title: Oil Paintings | Original oil paintings by an English artist
 description: Oil paintings. View original oil on canvas paintings.
 heading: Oil paintings
 permalink: /oil-test
----  
+--- 
+<!-- Page Content -->
+<div class="row text-center text-lg-left"></div>
 {% for oil in site.oils %}
-<li>
-  <h2>{{ oil.image }}</h2>
-  <h3>{{ oil.alt-image }}</h3>
-  <p>{{ oil.permalink }}</p>
-</li>
+    <div class="col-lg-3 col-md-4 col-xs-6">
+      <a href="{{ oil.permalink }}" class="d-block mb-4 h-100">
+        <img class="img-fluid img-thumbnail" src="{{ oil.image }}" alt="{{ oil.alt-image }}">
+      </a>
+    </div> 
 {% endfor %}
+</div>
