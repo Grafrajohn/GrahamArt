@@ -1,15 +1,6 @@
 ---
-layout: work
-title: Blue hand | Original oil painting
-description: Blue hand. Original oil painting.
-image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1533736565/oils/final-orange-hand.jpg
+image: https://res.cloudinary.com/dtn9ari2r/image/upload/c_thumb,w_200,g_face/v1533736565/oils/final-orange-hand.jpg
 alt-image: Blue hand painting
-work: Blue hand
-media: Oil on canvas
-size: 20 x 16 inches
-summary: Essentially a two colour picture of my hand here in orange and blue.
-artistnote1: The hand of the artist. The instrument of creation. The instrument of self expression.
-artistnote2: I wanted to experiment with colour and reproduce the structure and texture of the hand in a high strangeness sort of way.
-artistnote3: This picture was fun to paint. Orange and blue are of course contrasting colours on the opposite sides of the colour wheel. The orange makes the blue look more intense and vice versa. I liked the overall effect.
+caption: Blue hand
 permalink: /oil-paintings/orange-hand
 ---  

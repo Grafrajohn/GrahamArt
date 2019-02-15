@@ -2,7 +2,7 @@
 layout: work
 title: Oxborough Hall | Original oil painting
 description: Oxborough Hall. Original oil painting
-image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1533736871/oils/oxbor02.jpg
+image: https://res.cloudinary.com/dtn9ari2r/image/upload/c_thumb,w_200,g_face/v1533736871/oils/oxbor02.jpg
 alt-image: Oxborough Hall painting
 work: Window at Oxborough Hall, Norfolk.
 media: Oil on canvas

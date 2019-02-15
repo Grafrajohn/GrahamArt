@@ -2,7 +2,7 @@
 layout: work
 title: Face in the wall at Newstead Abbey
 description: Face in the wall at Newstead Abbey. Original oil painting.
-image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1533736838/oils/facewall.jpg
+image: https://res.cloudinary.com/dtn9ari2r/image/upload/c_thumb,w_200,g_face/v1533736838/oils/facewall.jpg
 alt-image: Newstead Abbey oil painting
 work: Face in the wall, Newstead Abbey, Nottinghamshire, England.
 media: Oil on canvas
