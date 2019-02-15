@@ -1,16 +1,6 @@
 ---
-layout: work
-title: Gawsworth Hall | Original oil painting
-description: Gawsworth Hall. Original oil painting.
-image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1533736847/oils/gawsw3.jpg
+image: https://res.cloudinary.com/dtn9ari2r/image/upload/c_thumb,w_200,g_face/v1533736847/oils/gawsw3.jpg
 alt-image: Gawsworth Hall painting
-work: Gawsworth Hall, Cheshire, England.
-media: Oil on canvas
-size: 30 x 42 inches
-summary: I love the geometric shapes and patterns and the stark contrasting colors of the timbers in these magnificent old English timber framed houses.
-artistnote1: I found the patterns in the wood here to be quite mesmerising. Not just the herring bone pattern of the timbers but the decorative features of the petal like features in the wood. And the black and white just looks great as a pattern. Again this is a structured abstract picture. 
-artistnote2: In general this picture is about the beauty of art - here obviously the house is the art. Or rather architecture is applied art. Also this picture speaks of how we like to beautify the things which are important to us, such as our homes. And why not? Beauty never harmed anyone. Ugliness is simply guilty of envy. 
-artistnote3: This Tudor half-timbered manor house was once the residence of the Earl of Macclesfield, who warded over the then extensive broadleaf forests much favoured by Royalty for hunting. Mary Fitton also lived here, the maid of honour at the court of Elizabeth I and allegedly the 'dark lady' of Shakespeare's sonnets. Now the home of Mr and Mrs Timothy Richards.
-link-info: https://www.gawsworthhall.com/
+caption: Gawsworth Hall, Cheshire, England.
 permalink: /oil-paintings/gawsworth-hall
 ---  
