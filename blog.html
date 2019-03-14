@@ -20,7 +20,7 @@ permalink: /blog
                     <div class="card-body">
                         <h5 class="card-title"><a href="{{ post.url }}">{{ post.title }}</a></h5>
                         <p class="card-text">{{ post.description }}</p>
-                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        <p class="card-text"><small class="text-muted">{{ page.date | date: "%-d %B %Y"}}</small></p>
                     </div>
                     </div>
                 </div>
