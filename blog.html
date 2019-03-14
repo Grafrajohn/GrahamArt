@@ -10,22 +10,22 @@ permalink: /blog
 <div class="row">
     <div class="col-md-8">
         <p>I like to blog about the things I get up to in the world of the arts. So feel free to read some of the entries in my blog.</p>
-            {% for post in site.posts %}
-            <div class="card mb-3" >
-                <div class="row no-gutters">
-                    <div class="col-md-4">
-                        <img src="{{ post.image1 }}" alt="{{ post.title }}" class="img-thumbnail" style="max-width: 150px" >
-                    </div>
-                    <div class="col-md-8">
-                    <div class="card-body">
-                        <h5 class="card-title"><a href="{{ post.url }}">{{ post.title }}</a></h5>
-                        <p class="card-text">{{ post.description }}</p>
-                        <p class="card-text"><small class="text-muted">{{ page.date | date: "%-d %B %Y"}}</small></p>
-                    </div>
-                    </div>
+        {% for post in site.posts %}
+        <div class="card mb-3" >
+            <div class="row no-gutters">
+                <div class="col-md-4">
+                    <img src="{{ post.image1 }}" alt="{{ post.title }}" class="img-thumbnail" style="max-width: 150px" >
                 </div>
-            </div>         
-            {% endfor %}
+                <div class="col-md-8">
+                <div class="card-body">
+                    <h5 class="card-title"><a href="{{ post.url }}">{{ post.title }}</a></h5>
+                    <p class="card-text">{{ post.description }}</p>
+                    <p class="card-text"><small class="text-muted">{{ page.date | date: "%-d %B %Y"}}</small></p>
+                </div>
+                </div>
+            </div>
+        </div>         
+        {% endfor %}
     </div>
     <div class="col-md-4" style="overflow-y: auto;">
         <a class="twitter-timeline" href="https://twitter.com/GrahamArts?ref_src=twsrc%5Etfw">Tweets by TwitterDev</a> 
