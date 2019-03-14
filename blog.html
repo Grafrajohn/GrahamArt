@@ -13,7 +13,7 @@ permalink: /blog
         <ul class="list-group">
             {% for post in site.posts %}
             <li class="list-group-item">
-            <a href="{{ post.url }}"><img src="{{ post.image1 }}" alt="{{ post.title }}" class="img-thumbnail" style="max-height: 150px" >{{ post.title }}</a>
+            <a href="{{ post.url }}"><img src="{{ post.image1 }}" alt="{{ post.title }}" class="img-thumbnail" style="max-width: 150px" >{{ post.title }}</a>
             </li>
             {% endfor %}
         </ul>
