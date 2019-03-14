@@ -10,13 +10,22 @@ permalink: /blog
 <div class="row">
     <div class="col-md-8">
         <p>I like to blog about the things I get up to in the world of the arts. So feel free to read some of the entries in my blog.</p>
-        <ul class="list-group">
             {% for post in site.posts %}
-            <li class="list-group-item">
-            <a href="{{ post.url }}"><img src="{{ post.image1 }}" alt="{{ post.title }}" class="img-thumbnail" style="max-width: 150px" >{{ post.title }}</a>
-            </li>
+            <div class="card mb-3" style="max-width: 540px;">
+                <div class="row no-gutters">
+                    <div class="col-md-4">
+                        <img src="{{ post.image1 }}" alt="{{ post.title }}" class="img-thumbnail" style="max-width: 150px" >
+                    </div>
+                    <div class="col-md-8">
+                    <div class="card-body">
+                        <h5 class="card-title"><a href="{{ post.url }}">{{ post.title }}</a></h5>
+                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    </div>
+                    </div>
+                </div>
+            </div>         
             {% endfor %}
-        </ul>
     </div>
     <div class="col-md-4" style="overflow-y: auto;">
         <a class="twitter-timeline" href="https://twitter.com/GrahamArts?ref_src=twsrc%5Etfw">Tweets by TwitterDev</a> 
