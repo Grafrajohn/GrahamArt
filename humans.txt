@@ -1,12 +1,12 @@
 /* TEAM */
 Artist: Graham.
-Site: artystuff@gmail.com.
+Site: graham.art.uk@gmail.com.
 Twitter: @GrahamArts.
 Location: East Yorkshire, England.
 /* THANKS */
 Name: Graham
 /* SITE */
-Last update: 2018/12/18 
+Last update: 2019/09/03 
 Standards: HTML5, CSS3
-Components: Bootstrap 4, JavaScript, JQuery
-Software: Microsoft Code, GitHub, Git, GIMP
+Components: Bootstrap 4, JavaScript, JQuery, Masonry
+Software: Microsoft Code, GitHub, Git, GIMP, Jekyll
