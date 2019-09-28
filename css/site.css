@@ -119,6 +119,7 @@ main {
 @media screen and (max-width: 575px) { 
 	.navbar-brand {
 		font-size: 1.2em;
+		margin-left: 0.2em;
 	}
 	body {
 	 	margin-top: 55px;	
