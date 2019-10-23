@@ -1,0 +1,65 @@
+---
+layout: default
+---
+<article class="container" style="padding-top: 10px;">
+
+    <h1 class="h1-smaller">{{ page.title }}</h1>
+    <time>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</time>
+
+    {{ content }}
+
+    <div class="row my-4">
+        <p>{{ page.introduction }}</p>
+        {% if page.h2-1 %}   
+        <div class="offset-1 col-10">     
+            <h2 class="h2-smaller">{{ page.h2-1 }}</h2>
+            <figure>
+                <img class="img-fluid" src="{{ page.image1 }}" alt="{{ page.alt-image1 }}" />
+                <figcaption>{{ page.alt-image1 }}</figcaption>
+            </figure>  
+            <p>{{ page.text1 }}</p>         
+        </div>
+        {% endif %}        
+        {% if page.h2-2 %}
+        <div class="offset-1 col-10">
+            <h2 class="h2-smaller">{{ page.h2-2 }}</h2>
+            <figure>
+                <img class="img-fluid" src="{{ page.image2 }}" alt="{{ page.alt-image2 }}" />
+                <figcaption>{{ page.alt-image2 }}</figcaption>
+            </figure>
+            <p>{{ page.text2 }}</p>           
+        </div>
+        {% endif %}
+        {% if page.h2-3 %}        
+        <div class="offset-1 col-10">
+            <h2 class="h2-smaller">{{ page.h2-3 }}</h2>
+            <figure>
+                <img class="img-fluid" src="{{ page.image3 }}" alt="{{ page.alt-image3 }}" />
+                <figcaption>{{ page.alt-image3 }}</figcaption>
+            </figure>   
+            <p>{{ page.text3 }}</p>            
+        </div> 
+        {% endif %}      
+        {% if page.h2-4 %}        
+        <div class="offset-1 col-10">
+            <h2 class="h2-smaller">{{ page.h2-4 }}</h2>
+            <figure>
+                <img class="img-fluid" src="{{ page.image4 }}" alt="{{ page.alt-image4 }}" />
+                <figcaption>{{ page.alt-image4 }}</figcaption>
+            </figure>
+            <p>{{ page.text4 }}</p>
+        </div> 
+        {% endif %}  
+        {% if page.h2-5 %}        
+        <div class="offset-1 col-10">
+            <h2 class="h2-smaller">{{ page.h2-5 }}</h2>
+            <figure>
+                <img class="img-fluid" src="{{ page.image5 }}" alt="{{ page.alt-image5 }}" />
+                <figcaption>{{ page.alt-image5 }}</figcaption>
+            </figure>  
+            <p>{{ page.text5 }}</p>         
+        </div> 
+        {% endif %}                         
+    </div>
+
+</article>
