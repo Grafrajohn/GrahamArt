@@ -8,12 +8,11 @@ F1 then select minify command
 
 body {
  font-size: 1.2em;
- font-family: Poppins;
 }
 
 html, body {
 	min-height: 100%;
-	font-family: 'PT Serif', serif;
+	font-family: 'Poppins', sans-serif;
 }
 
 h1 {font-size: 1.8em;}
