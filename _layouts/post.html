@@ -9,22 +9,12 @@ layout: default
     {{ content }}
 
     <div class="row my-4">
-        <p>{{ page.introduction }}</p>
-        {% if page.h2-0 %}   
-        <div class="offset-1 col-10">     
-            <h2 class="h2-smaller">{{ page.h2-0 }}</h2>
-            <figure>
-                <img class="img-fluid" src="{{ page.image }}" alt="{{ page.alt-image }}" />
-                <figcaption>{{ page.alt-image }}</figcaption>
-            </figure>  
-            <p>{{ page.text }}</p>         
-        </div>
-        {% endif %}          
+        <p>{{ page.introduction }}</p>         
         {% if page.h2-1 %}   
         <div class="offset-1 col-10">     
             <h2 class="h2-smaller">{{ page.h2-1 }}</h2>
             <figure>
-                <img class="img-fluid" src="{{ page.image1 }}" alt="{{ page.alt-image1 }}" />
+                <img class="img-fluid" src="{{ page.image }}" alt="{{ page.alt-image1 }}" />
                 <figcaption>{{ page.alt-image1 }}</figcaption>
             </figure>  
             <p>{{ page.text1 }}</p>         
