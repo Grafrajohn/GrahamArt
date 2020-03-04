@@ -9,5 +9,4 @@ title: Quick Blog Test
 description: Quick Blog Test
 image:
 ---
-
 Some test material here.
