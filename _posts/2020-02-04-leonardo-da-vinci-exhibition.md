@@ -31,6 +31,8 @@ Of course the major attraction of the Musee d’Orsay is it’s collection of ar
 
 After all that art we visited a cafe – the famous Cafe de Flora as frequented by Jean Paul Sartre and Simone de Beauvoir. Good coffee.
 
+![Cafe De Flora Paris](https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1583263291/blog/68AEF509-7686-4CAF-8A6F-B633BC254285.jpg)
+
 Finally in the evening a trip to a Parisian vegetarian restaurant called Apeti
 
 The real reason for my trip to Paris is to see the Leonardo Da Vinci exhibition. This is a once in a lifetime event.
