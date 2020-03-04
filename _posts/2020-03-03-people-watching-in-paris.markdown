@@ -3,8 +3,8 @@ layout: post-quick
 published: true
 categories:
   - blog
-  - Paris
-date: 2020-03-03 20:45:00
+  - paris
+date: 2020-02-03T20:45:00.000Z
 title: People watching in Paris
 description: People watching in the great metropolitan city of Paris
 image: >-
