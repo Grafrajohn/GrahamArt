@@ -108,6 +108,10 @@ main {
 	  max-height: 800px;
   }
 
+  image {
+	  m-bottom: 1;
+  }
+
 .footer_body {
     position: absolute;
     bottom: 0;
