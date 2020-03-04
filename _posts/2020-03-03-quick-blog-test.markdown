@@ -7,7 +7,6 @@ categories:
 date: 2020-03-03 20:45:00
 title: Quick Blog Test
 description: Quick Blog Test
-introduction:
 image:
 ---
 
