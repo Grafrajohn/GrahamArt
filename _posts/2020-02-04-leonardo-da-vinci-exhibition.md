@@ -17,6 +17,8 @@ Recently I had the privilege of visiting Paris to view the Leonardo Da Vinci Exh
 
 After a pleasant rail journey from Yorkshire to Paris via London we settled into our rooms in the comfortable hotel Le Saint Gregoire near Montparnasse.
 
+![Montparnasse by night](https://res.cloudinary.com/dtn9ari2r/image/upload/v1583263179/blog/6AF7A511-8185-4D20-925A-D3C6B8C8D8EC.jpg)
+
 We ate in Montparnasse at an Italian restaurant called Terra Mia, which was recommended to us.
 
 The next day we visited the Musee d’Orsay.
