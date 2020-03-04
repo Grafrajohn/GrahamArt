@@ -9,7 +9,7 @@ date: '2020-02-24 21:45:00 +0100'
 title: Leonardo Da Vinci Exhibition in Paris
 description: Leonardo Da Vinci Exhibition in Paris
 image: >-
-  https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1583263218/blog/F345B03A-D36E-4F24-B5B2-1982BE7A1A67.jpg
+  https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1583263321/blog/FE1331EB-ACD0-4EB2-92D5-ECA1B4782F27.jpg
 image-alt: Leonardo Da Vinci Exhibition Paris
 image-caption: Leonardo Da Vinci Exhibition Paris
 ---
