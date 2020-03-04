@@ -5,7 +5,7 @@ categories:
   - blog
   - paris
   - leonardo-da-vinci
-date: {}
+date: '2020-02-24 21:45:00 +0100'
 title: Leonardo Da Vinci Exhibition in Paris
 description: Leonardo Da Vinci Exhibition in Paris
 image: >-
