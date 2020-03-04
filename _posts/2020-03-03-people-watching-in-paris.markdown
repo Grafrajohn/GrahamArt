@@ -1,6 +1,6 @@
 ---
 layout: post-quick
-published: false
+published: true
 categories:
   - blog
   - test
