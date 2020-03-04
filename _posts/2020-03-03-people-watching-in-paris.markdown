@@ -9,8 +9,8 @@ title: People watching in Paris
 description: People watching in the great metropolitan city of Paris
 image: >-
   https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1583263218/blog/F345B03A-D36E-4F24-B5B2-1982BE7A1A67.jpg
-image-alt:
-image-caption:
+image-alt: People watching in Paris
+image-caption: People watching in Paris
 ---
 
 Arguably Paris is the world’s greatest city for people watching. Students of human behaviour will think it is almost as if the city was made for them. The great tree lined boulevards, the geographical position of the city as a natural confluence for interesting people from across Europe to congregate and its pavement cafes designed to facilitate the noble activity of people watching.
