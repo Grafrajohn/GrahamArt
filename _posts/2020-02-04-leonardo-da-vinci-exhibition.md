@@ -23,7 +23,7 @@ We ate in Montparnasse at an Italian restaurant called Terra Mia, which was reco
 
 The next day we visited the Musee d’Orsay.
 
-![Symbolist art](https://res.cloudinary.com/dtn9ari2r/image/upload/v1583263272/blog/E99EA835-959E-409B-BF73-FEC0A160032B.jpg)
+![Symbolist art](https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1583263272/blog/E99EA835-959E-409B-BF73-FEC0A160032B.jpg)
 
 Right away I liked the paintings of the Symbolists, a group of painters about whom I know little. I plan to learn a lot more about them. I was struck by the beauty and artistry of the painting above.
 
