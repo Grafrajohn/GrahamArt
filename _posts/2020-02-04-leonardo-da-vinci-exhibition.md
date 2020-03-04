@@ -37,6 +37,8 @@ Finally in the evening a trip to a Parisian vegetarian restaurant called Apeti
 
 The real reason for my trip to Paris is to see the Leonardo Da Vinci exhibition. This is a once in a lifetime event.
 
+![Leonardo Da Vinci](https://res.cloudinary.com/dtn9ari2r/image/upload/v1583263321/blog/FE1331EB-ACD0-4EB2-92D5-ECA1B4782F27.jpg)
+
 In addition to paintings by the maestro there were also many examples of his drawings. In an age before science as we know it, Leonardo was curious about nature and expressed this in his drawings.
 
 The exhibition did not disappoint. But then Leonardo never does. After viewing the Leonardos we were free to enjoy the rest of the Louvre collections. Which also did not disappoint.
