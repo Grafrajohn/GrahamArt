@@ -4,7 +4,7 @@ published: true
 categories:
   - blog
   - paris
-date: {}
+date: 2020-02-24 21:45:00 +0100
 title: People watching in Paris
 description: People watching in the great metropolitan city of Paris
 image: >-
