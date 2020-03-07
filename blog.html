@@ -28,9 +28,11 @@ permalink: /blog
         {% endfor %}
     </div>
     <aside class="col-md-4" style="overflow-y: auto;">
-        {% for category in site.categories limit: 35 %}
-            <a href="{{site.url}}/categories/#{{category|slugize}}">{{ category }}</a>
+        <ul>
+        {% for category in site.categories %}
+            <li><a href="{{category.url}}"><strong>{{category|first}}</strong></a></li>
         {% endfor %}
+        </ul>
         <a class="twitter-timeline" href="https://twitter.com/GrahamArts?ref_src=twsrc%5Etfw">Tweets by TwitterDev</a> 
         <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         <a class="twitter-timeline" href="https://twitter.com/GrahamArts?ref_src=twsrc%5Etfw">Tweets by TwitterDev</a> 
