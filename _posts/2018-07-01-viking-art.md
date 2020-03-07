@@ -3,7 +3,7 @@ layout: post
 title:  "Viking art"
 description: "Viking art - example of Viking stone carving"
 date:   2018-04-11 21:43:33 +0100
-categories: blog inverness viking
+categories: inverness viking
 image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1541538875/blog_DSC02969.jpg
 introduction: This fascinating carving is in Inverness museum and is thought to have been carved by Vikings.
 ---

@@ -5,7 +5,7 @@ description: >-
   Christmas sand sculpture of Joseph, Mary and Jesus at St Mary's Church
   Beverley
 date: '2019-12-27 21:45:00 +0100'
-categories: blog beverley art
+categories: beverley art
 introduction: 'Joseph, Mary and baby Jesus commemorated in sand sculpture.'
 h2-1: 'Sand sculpture of Joseph, Mary and Jesus to celebrate Christmas'
 image1: >-

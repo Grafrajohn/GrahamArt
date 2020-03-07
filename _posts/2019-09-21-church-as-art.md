@@ -3,7 +3,7 @@ layout: post
 title:  "An English church as a work of art"
 description: "St Marys Church Beverley - an English church as a work of art"
 date:   2019-09-21 21:45:00 +0100
-categories: blog church art
+categories: church art
 introduction: I have often been struck by the beauty of historic churches and mosques such as Lincoln Cathedral in England and the Sultanahmet in Istanbul, Turkey. St Marys is a particularly beautiful parish church in Beverley, East Yorkshire.  
 
 h2-1: St Marys Church  

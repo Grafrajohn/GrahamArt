@@ -3,7 +3,7 @@ layout: post
 title:  "Fine Arts in Buxton, England"
 description: "Fine Art Gallery in Buxton, England"
 date:   2019-08-31 17:13:00 +0100
-categories: blog Buxton art
+categories: Buxton art
 introduction: Buxton in the heart of England is a spa town and local arts centre. The arts and culture scene in this town is quite lively, and I was able to see some good art in municipal and private venues.  
 
 h2-1: Buxton museum art exhibitions

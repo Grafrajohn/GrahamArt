@@ -3,7 +3,7 @@ layout: post
 title:  "Lent installation in Beverley Minster"
 description: "Lent installation in Beverley Minster: Risen, Ascendeed, Glorified. Artist Mervyn King shows his latest work."
 date:   2019-03-09 15:45:33 +0100
-categories: blog beverley lent christian art-installation
+categories: beverley lent christian art-installation
 introduction: Risen, Ascended, Glorified. This specially commissioned Lent installation in Beverley Minster was the work of artist Mervyn King.
 
 h2-1: St John of Beverley

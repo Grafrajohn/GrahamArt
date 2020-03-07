@@ -3,7 +3,7 @@ layout: post
 title: 'Girona, Spain - city of the arts'
 description: 'Art and culture in Girona, Spain'
 date: '2019-10-27 21:45:00 +0100'
-categories: blog girona spain art
+categories: girona spain art
 introduction: >-
   Girona is an ancient city in the Catalonia region of Spain. The city has long
   had a flourishing arts and culture scene and the many works from this long

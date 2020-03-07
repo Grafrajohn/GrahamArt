@@ -3,7 +3,7 @@ layout: post
 title:  "East Riding Artists Open Studios 2019"
 description: "East Riding Artists Open Studios 2019"
 date:   2019-09-22 17:13:00 +0100
-categories: blog East-Riding art
+categories: East-Riding art
 introduction: I always visit some of the East Riding Artists studios when they hold their annual autumn Open Studios events. This year, 2019, I only managed to visit one studio but it was well worth it. The studio was of Eleanor Tomlinson and we saw a fine representation of her work an as illustrator.
 
 h2-1: Plates

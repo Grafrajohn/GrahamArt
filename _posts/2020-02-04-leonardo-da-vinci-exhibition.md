@@ -2,7 +2,6 @@
 published: true
 layout: post-quick
 categories:
-  - blog
   - paris
   - leonardo-da-vinci
 date: '2020-02-24 21:45:00 +0100'
