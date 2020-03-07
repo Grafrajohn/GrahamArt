@@ -30,7 +30,7 @@ permalink: /blog
     <aside class="col-md-4" style="overflow-y: auto;">
         <ul>
         {% for category in site.categories %}
-            <li class="category-list"><a href="{{categories}}">{{category|first}}</a></li>
+            <li class="category-list"><a href="{{category.url}}">{{category|first}}</a></li>
         {% endfor %}
         </ul>
         <a class="twitter-timeline" href="https://twitter.com/GrahamArts?ref_src=twsrc%5Etfw">Tweets by TwitterDev</a> 
