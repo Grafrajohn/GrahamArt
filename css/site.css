@@ -112,6 +112,10 @@ main {
 	  m-bottom: 1;
   }
 
+  category_list {
+	list-style-type: none;
+  }
+
 .footer_body {
     position: absolute;
     bottom: 0;
