@@ -25,17 +25,13 @@ collections:
   oil_thumbnails:
   watercolour_thumbnails:
   print_thumbnails:
+  posts:
+    permalink: blog/:categories/:year/:month/:day/:title/
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
 url: https://www.grahamart.com
 
 #### Under the Hood Stuff #####
-
-defaults:
-  scope:
-    type: "posts"
-  values:
-    permalink: blog/:categories/:year/:month/:day/:title/
 
 # Makes pretty (descriptive) permalinks. See Jekyll docs for alternatives.
 permalink: pretty
