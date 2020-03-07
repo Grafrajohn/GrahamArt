@@ -28,7 +28,7 @@ permalink: /blog
         {% endfor %}
     </div>
     <aside class="col-md-4" style="overflow-y: auto;">
-        {% for category in site.categories.category limit: 35 %}
+        {% for category in site.categories limit: 35 %}
             <a href="{{site.url}}/categories/#{{category|slugize}}">{{ category }}</a>
         {% endfor %}
         <a class="twitter-timeline" href="https://twitter.com/GrahamArts?ref_src=twsrc%5Etfw">Tweets by TwitterDev</a> 
