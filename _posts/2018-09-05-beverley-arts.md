@@ -2,6 +2,7 @@
 layout: post
 title:  "Beverley Flower Festival"
 description: "Beverley Flower Festival delights audiences in the historic church of St Mary"
+introduction: "Beverley Flower Festival delights audiences in the historic church of St Mary"
 date:   2018-09-15 21:43:33 +0100
 categories: blog beverley flower-festival
 image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1541539398/blog/20180808_184737905_iOS.jpg
