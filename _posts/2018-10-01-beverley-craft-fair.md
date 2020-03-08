@@ -2,8 +2,9 @@
 layout: post
 title:  "Beverley Minster Craft Fair"
 description: "Local artisans show their work in the Beverley Minster Craft Fair"
+introduction: "Local artisans show their work in the Beverley Minster Craft Fair"
 date:   2018-09-15 21:43:33 +0100
-categories: blog beverley craft-fair
+categories: beverley craft-fair
 image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1541540900/blog/20180929_133940435_iOS.jpg
 ---
 <h2>Home crafts</h2>

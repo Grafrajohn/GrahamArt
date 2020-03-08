@@ -3,7 +3,7 @@ layout: post
 title:  "Hereford Cathedral, England"
 description: "Christian art in Hereford Cathedral, England"
 date:   2019-08-28 17:13:00 +0100
-categories: blog Hereford cathedral
+categories: hereford cathedral
 introduction: The city of Hereford is famed for its beauty and character. In particular <a href="https://www.herefordcathedral.org/">Hereford Cathedral</a> is a superb example of the Norman, Romanesque and Gothic styles mixed together.   
 
 h2-1: Altar painting in Hereford Cathedral

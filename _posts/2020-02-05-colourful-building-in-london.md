@@ -2,7 +2,6 @@
 published: true
 layout: post-quick
 categories:
-  - blog
   - london
 date: '2020-02-05 21:45:00 +0100'
 description: Colourful building in London

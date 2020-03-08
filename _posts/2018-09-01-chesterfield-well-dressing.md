@@ -2,8 +2,9 @@
 layout: post
 title:  "Chesterfield Well Dressing"
 description: "Chesterfield Well Dressing - a pagan custom updated for faith in a modern age"
+introduction: "Chesterfield Well Dressing - a pagan custom updated for faith in a modern age"
 date:   2018-09-01 21:43:33 +0100
-categories: blog chesterfield well-dressing
+categories: chesterfield well-dressing
 image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1541540176/blog/20180907_130121223_iOS.jpg 
 ---
 <h2>The Derbyshire tradition of well dressing</h2>

@@ -2,7 +2,6 @@
 layout: post-quick
 published: true
 categories:
-  - blog
   - paris
 date: 2020-02-24 21:45:00 +0100
 title: People watching in Paris
