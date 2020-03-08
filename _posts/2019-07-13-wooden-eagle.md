@@ -3,7 +3,7 @@ layout: post
 title:  "Wooden eagle at Burton Agnes Hall"
 description: "Wooden carving of an eagle at Burton Agnes Hall"
 date:   2019-07-13 18:40:33 +0100
-categories: East-Yorkshire wood-carving
+categories: east-yorkshire wood-carving
 introduction: This wood carving of an eagle is pretty exquisite and can be found in the grounds at Burton agnes Hall, East Yorkshire. 
 h2-1: Wood carving at Burton Agnes Hall
 image1: https://res.cloudinary.com/dtn9ari2r/image/upload/v1567877741/blog/IMG_2600.jpg
