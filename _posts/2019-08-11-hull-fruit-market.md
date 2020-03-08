@@ -5,6 +5,7 @@ description: "Hull Fruit Market - fine arts on display"
 date:   2019-08-11 15:13:00 +0100
 categories: east-yorkshire hull fruit-market
 introduction: Hull Fruit Market is a district of Hull which, once almost derelict, has been redeveloped into an arts, cafe and entertainment district in the city of Hull. 
+image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1567895706/blog/IMG_0008.jpg
 h2-1: Street art in Hull
 image1: https://res.cloudinary.com/dtn9ari2r/image/upload/v1567895706/blog/IMG_0008.jpg
 alt-image1: Street mural painting in Hull
