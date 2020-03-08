@@ -34,17 +34,6 @@ nav {
  background-image: url("https://res.cloudinary.com/dtn9ari2r/image/upload/v1542410020/backgrounds/Blue-Silk-Fabric-Texture.jpg");
 }
 
-/*@font-face { 
-	font-family: 'Archistico';
-	src: url('../fonts/WebFont.eot');
-	src: url('../fonts/Archistico_Simple-webfont.woff') format('woff');
-}*/
-
-/*@font-face { 
-	font-family: 'Amatic';
-	src: url('../fonts/Amatic-Bold.ttf') format('ttf');
-}*/
-
 .navbar {
 	padding: 0.1em;
 }
@@ -71,7 +60,6 @@ main {
 
 .grid {
 	background: #DDD;
-	background-image: url(https://res.cloudinary.com/dtn9ari2r/image/upload/v1541355542/backgrounds/linenbkg.gif);
   }
   
   /* clear fix */
