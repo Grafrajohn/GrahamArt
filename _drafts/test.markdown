@@ -4,7 +4,7 @@ published: false
 categories:
   - art
   - paris
-date: 2020-03-01 00:30:00
+date: 2020-03-01T00:30:00.000Z
 title: Visit to the Musee d'Orsay in Paris
 description: Visit to the Musee d'Orsay in Paris
 introduction: >-
@@ -93,4 +93,3 @@ text4: >-
   painting, as it has been debated by modern philosophers. More of this when I
   have made some progress…
 ---
-
