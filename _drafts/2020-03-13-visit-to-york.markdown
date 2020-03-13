@@ -93,3 +93,4 @@ text4: >-
   painting, as it has been debated by modern philosophers. More of this when I
   have made some progress…
 ---
+A visit to the city of York in England is always a pleasure.
