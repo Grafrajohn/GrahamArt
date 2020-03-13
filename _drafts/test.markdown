@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: post-quick
 published: false
 categories:
-  - aesthetics
   - art
-date: 2020-03-14 00:30:00
-title: Test
-description: Reflections on the philosophy of aesthetics
+  - paris
+date: 2020-03-01 00:30:00
+title: Visit to the Musee d'Orsay in Paris
+description: Visit to the Musee d'Orsay in Paris
 introduction: >-
   Since Plato wrote on what we now call the philosophy of aesthetics, many
   philosophers have discussed the nature of art and beauty. They have
