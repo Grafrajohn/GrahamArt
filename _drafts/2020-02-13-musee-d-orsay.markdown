@@ -95,4 +95,4 @@ text4: >-
 ---
 I was recently fortunate enough to visit the fine city of Paris including the Musee d'Orsay, which is an art museum located in a former railway station. This works out much better than you might expect.
 
-The railway station used was a fine old station from the nineteenth century, designed to accomodate the great steam engines of that era. Consequently is has high arch-shaped roofs which let in plenty of light.
+The railway station used was a fine old station from the nineteenth century, designed to accomodate the great steam engines of that era. Consequently is has high arch-shaped roofs which let in plenty of light and also the sheer size of the place somehow enhances many of the great statues and paintings displayed there.
