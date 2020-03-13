@@ -100,3 +100,5 @@ The railway station used was a large old station from the nineteenth century, de
 ![The Musee d'Orsay has a grandeur of its own which enhances the art](https://res.cloudinary.com/dtn9ari2r/image/upload/v1583263287/blog/1720DB2D-E443-4523-95B4-B4BCEC62F627.jpg)
 
 The museum is organised into different eras, as is the way with large colllections of works, and these span everything from classical art through to modern art. On the ground floor there is a central isle of sculpture. There are plenty of places to sit down and contemplate which is very important in a collection of this scope and quality.
+
+![The central isle of sculptures](https://res.cloudinary.com/dtn9ari2r/image/upload/v1583263482/blog/DSC_0219.jpg)
