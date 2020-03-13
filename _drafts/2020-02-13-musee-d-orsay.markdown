@@ -14,7 +14,7 @@ introduction: >-
   beautiful is not always art, for example a rose. What is art is not always
   beautiful, for example Picasso‘s “Guernica”.
 image: >-
-  https://res.cloudinary.com/dtn9ari2r/image/upload/v1583273033/blog/96E6718D-CE5A-4D47-A191-8FFB7788BFC0.jpg
+  https://res.cloudinary.com/dtn9ari2r/image/upload/v1583263486/blog/DSC_0220.jpg
 h2-1: Definition of Art
 image1: >-
   https://res.cloudinary.com/dtn9ari2r/image/upload/v1583272469/blog/Crown_Jewels_of_the_United_Kingdom_1952-12-13_1.jpg
