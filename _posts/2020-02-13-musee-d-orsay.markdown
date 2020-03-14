@@ -4,7 +4,7 @@ published: true
 categories:
   - art
   - paris
-date: {}
+date: '2020-02-13 21:43:33 +0100'
 title: Visit to the Musee d'Orsay in Paris
 description: Visit to the Musee d'Orsay in Paris
 introduction: >-
