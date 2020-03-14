@@ -102,3 +102,11 @@ The railway station used was a large old station from the nineteenth century, de
 The museum is organised into different eras, as is the way with large colllections of works, and these span everything from classical art through to modern art. On the ground floor there is a central isle of sculpture. There are plenty of places to sit down and contemplate which is very important in a collection of this scope and quality.
 
 ![The central isle of sculptures](https://res.cloudinary.com/dtn9ari2r/image/upload/v1583263482/blog/DSC_0219.jpg)
+
+Here a lot of works are on show from Carpeaux, Preaulx, Guillaume and others. Overall it has a very French feel. On either side of the aisle of sculptures are impressive collections of paintings by Manet, Courbet   Bazille, Cezanne, Degas, Bonnad, Vuillard and others. The Courbets were particularly fascinating to me as I have seen very little of his work before.
+
+On higher floors there were many works of impressionism, post impressionism and early twentieth century modern movements, though nothing one could really call avante garde.
+
+The symbolist pictures of Moreau and others made a big impression on me as I have not really studied works by this group of artists, or indeed taken a great interest in them. I do now.
+
+
