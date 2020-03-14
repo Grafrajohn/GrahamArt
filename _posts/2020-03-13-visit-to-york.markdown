@@ -4,7 +4,7 @@ published: true
 categories:
   - art
   - York
-date: '2020-03-14 21:43:33 +0100'
+date: '2020-03-14 18:43:33 +0100'
 title: Visit to York
 description: Reflections on the philosophy of aesthetics
 introduction: >-
@@ -27,5 +27,3 @@ Interestingly the window has been repaired by medieaval craftsmen who signed the
 ![Great East Window of York Minster](https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1584212387/blog/19827511-AC43-4AE5-8F89-A8B8B51FD738.jpg)
 
 At a time of stress and tension caused by the CoronaVirus pandemic, the Minster featured an art installation which speaks for itself. As the pandemic worsens we all have a lot to hope for.
-
-
