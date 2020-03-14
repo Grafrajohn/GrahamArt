@@ -109,6 +109,8 @@ On higher floors there were many works of impressionism, post impressionism and 
 
 The symbolist pictures of Moreau and others made a big impression on me as I have not really studied works by this group of artists, or indeed taken a great interest in them. I do now.
 
+![Symbolist painting by Gustave Moreau](https://res.cloudinary.com/dtn9ari2r/image/upload/v1583263265/blog/4E22E6FB-6E09-45EC-B24D-0BE7DC9716B5.jpg)
+
 Another pleasant surprise was the Art Nouveau exhibiton, where delightful furniture and paintings were on display together.
 
 In fact there was a lot of furniture at the Musee d'Orsay, so if you see art in a broader context you will particularly enjoy this museum. It is really also a museum of design.
@@ -116,3 +118,5 @@ In fact there was a lot of furniture at the Musee d'Orsay, so if you see art in 
 I was fascinated by how Art Nouveau influenced the popular art, culture and fashion of the 1960s.
 
 Whatever your tastes the Musee d'Oray should delight your senses.
+
+![Clock remnant of the railway station origin of the Musee d'Orsay](https://res.cloudinary.com/dtn9ari2r/image/upload/v1583263490/blog/DSC_0227.jpg)
