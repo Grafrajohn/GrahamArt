@@ -24,4 +24,8 @@ Of particular interest to me is the medieval York Minster, which has in its stai
 
 Interestingly the window has been repaired by medieaval craftsmen who signed their names and dates of birth on the glass. But medieaval craftsmen were supposed to be illiterate weren't they? Maybe not.
 
+![Great East Window of York Minster](https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1584212387/blog/19827511-AC43-4AE5-8F89-A8B8B51FD738.jpg)
+
+At a time of stress and tension caused by the CoronaVirus pandemic, the Minster featured an art installation which speaks for itself. As the pandemic worsens we all have a lot to hope for.
+
 
