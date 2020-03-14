@@ -8,11 +8,8 @@ date: '2020-03-14 18:43:33 +0100'
 title: Visit to York
 description: Reflections on the philosophy of aesthetics
 introduction: >-
-  Since Plato wrote on what we now call the philosophy of aesthetics, many
-  philosophers have discussed the nature of art and beauty. They have
-  ascertained art and beauty to be two different but related things. What is
-  beautiful is not always art, for example a rose. What is art is not always
-  beautiful, for example Picasso‘s “Guernica”.
+  The city of York is always a delightful destination for lovers of history, art
+  and architecture
 image: >-
   https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1584212387/blog/19827511-AC43-4AE5-8F89-A8B8B51FD738.jpg
 ---
