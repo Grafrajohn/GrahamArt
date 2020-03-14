@@ -109,7 +109,7 @@ On higher floors there were many works of impressionism, post impressionism and 
 
 The symbolist pictures of Moreau and others made a big impression on me as I have not really studied works by this group of artists, or indeed taken a great interest in them. I do now.
 
-![Symbolist painting by Gustave Moreau](https://res.cloudinary.com/dtn9ari2r/image/upload/v1583263265/blog/4E22E6FB-6E09-45EC-B24D-0BE7DC9716B5.jpg)
+![Symbolist painting by Gustave Moreau](https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1583263265/blog/4E22E6FB-6E09-45EC-B24D-0BE7DC9716B5.jpg)
 
 Another pleasant surprise was the Art Nouveau exhibiton, where delightful furniture and paintings were on display together.
 
