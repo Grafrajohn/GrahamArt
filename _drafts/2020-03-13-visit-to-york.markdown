@@ -4,8 +4,8 @@ published: false
 categories:
   - art
   - York
-date: {}
-title: ' Visit to York'
+date: 2020-03-14 21:43:33 +0100
+title: 'Visit to York'
 description: Reflections on the philosophy of aesthetics
 introduction: >-
   Since Plato wrote on what we now call the philosophy of aesthetics, many
