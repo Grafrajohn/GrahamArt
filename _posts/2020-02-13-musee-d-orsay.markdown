@@ -8,11 +8,8 @@ date: '2020-02-13 21:43:33 +0100'
 title: Visit to the Musee d'Orsay in Paris
 description: Visit to the Musee d'Orsay in Paris
 introduction: >-
-  Since Plato wrote on what we now call the philosophy of aesthetics, many
-  philosophers have discussed the nature of art and beauty. They have
-  ascertained art and beauty to be two different but related things. What is
-  beautiful is not always art, for example a rose. What is art is not always
-  beautiful, for example Picasso‘s “Guernica”.
+  The Musee d Orsay in Paris is home to some of the loveliest art and scultpure
+  in the world. I was lucky enough to visit the meseum recently.
 image: >-
   https://res.cloudinary.com/dtn9ari2r/image/upload/v1583263486/blog/DSC_0220.jpg
 ---
