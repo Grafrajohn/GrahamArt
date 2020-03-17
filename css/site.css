@@ -118,9 +118,6 @@ main {
 	body {
 	 	margin-top: 55px;	
 	}
-	.blog-image {
-		max-width: 560px;
-	}
 }
 
 /* Small devices (landscape phones, 576px and up) */
@@ -131,9 +128,6 @@ main {
 	body {
 		margin-top: 55px;	
    }
-   .blog-image {
-		max-width: 750px;
-	}
 }
 
 /* Medium devices (tablets, 768px and up) */
@@ -143,10 +137,7 @@ main {
 	}
 	body {
 		margin-top: 55px;	
-   }
-   .blog-image {
-	max-width: 980px;
-	}   	
+   }  	
 }
 
 /* Large devices (desktops, 992px and up) */
@@ -157,9 +148,6 @@ main {
 	body {
 		margin-top: 75px;	
    }
-   .blog-image {
-	max-width: 1180px;
-	}	
 }
 
 /* Extra large devices (large desktops, 1200px and up) */
