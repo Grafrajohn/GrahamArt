@@ -12,6 +12,7 @@ introduction: >-
   and architecture
 image: >-
   https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1584212387/blog/19827511-AC43-4AE5-8F89-A8B8B51FD738.jpg
+alt-image: The Great East Window of York Minster
 ---
 A visit to the city of York in England is always a pleasure. It is a beautiful city and rightfully one of the most visited destinations in the United Kingdom.
 
