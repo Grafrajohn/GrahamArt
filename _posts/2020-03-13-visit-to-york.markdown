@@ -30,4 +30,4 @@ At a time of stress and tension caused by the CoronaVirus pandemic, the Minster 
 
 ![Message of hope in York Minster](https://res.cloudinary.com/dtn9ari2r/image/upload/v1584718343/blog/DSC_0262.jpg){:.img-fluid}
 
-![Message of hope in York Minster](https://res.cloudinary.com/dtn9ari2r/image/upload/v1584718340/blog/DSC_0263.jpg){:.img-fluid}
+![Message of hope in York Minster](https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1584718340/blog/DSC_0263.jpg){:.img-fluid}
