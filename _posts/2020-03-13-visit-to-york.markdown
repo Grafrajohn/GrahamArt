@@ -26,11 +26,13 @@ The Great East Window is considered to be the British Sistine Chapel.
 
 ![Message of hope in York Minster](https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1584212384/blog/DCE135B2-C974-4404-BEC4-E3AD1E54190E.jpg){:.img-fluid}
 
-At a time of stress and tension caused by the CoronaVirus pandemic, the Minster featured an art installation which speaks for itself. As the pandemic worsens we all have a lot to hope for.
+At a time of stress and tension caused by the CoronaVirus pandemic, the Minster featured an art installation which speaks for itself. As the pandemic worsens we all have a lot to hope for. 
+
+I first published this post on 14th March the situation with the pandemic has worsened. Keep safe!
 
 ![Anglo-Saxon crving in York](https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1584718341/blog/DSC_0261.jpg){:.img-fluid}
 
-This carving is from the Anglo-Saxon era and shows how the original site of York Minster was a missionary church to bring the Christian faith to the Anglo Saxons. One is tempted to say 'Well good luck with that', but the missionaries did succeed eventually.
+This carving is from the Anglo-Saxon era and shows how the original site of York Minster was a missionary church to bring the Christian faith to the Anglo-Saxons. One is tempted to say 'Well good luck with that', but the missionaries did succeed eventually. The Anglo-Saxons became devoutly religious and their kings, such as King Aethelberct, became evangelists for Christinaity.
 
 ![Viking carving in York](https://res.cloudinary.com/dtn9ari2r/image/upload/v1584718343/blog/DSC_0262.jpg){:.img-fluid}
 
@@ -38,4 +40,4 @@ This csrving shows the tree of life as understood by the Vikings, a people capab
 
 ![Message of hope in York Minster](https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1584718340/blog/DSC_0263.jpg){:.img-fluid}
 
-This figure decorated the wall of the officer's quarters in the Roman military garrison which lays beneath the foundations of York Minster. 
+This figure decorated the wall of the officer's quarters in the Roman military garrison which lays beneath the foundations of York Minster.
