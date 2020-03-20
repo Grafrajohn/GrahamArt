@@ -22,6 +22,8 @@ Of particular interest to me is the medieval York Minster, which has in its stai
 
 Interestingly the window has been repaired by medieaval craftsmen who signed their names and dates of birth on the glass. But medieaval craftsmen were supposed to be illiterate weren't they? Maybe not.
 
+The Great East Window is considered to be the British Sistine Chapel.
+
 ![Message of hope in York Minster](https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1584212384/blog/DCE135B2-C974-4404-BEC4-E3AD1E54190E.jpg){:.img-fluid}
 
 At a time of stress and tension caused by the CoronaVirus pandemic, the Minster featured an art installation which speaks for itself. As the pandemic worsens we all have a lot to hope for.
