@@ -36,7 +36,7 @@ This carving is from the Anglo-Saxon era and shows how the original site of York
 
 ![Viking carving in York](https://res.cloudinary.com/dtn9ari2r/image/upload/v1584718343/blog/DSC_0262.jpg){:.img-fluid}
 
-This csrving shows the tree of life as understood by the Vikings, a people capable of making elaborate art.
+This carving shows a tree of life as understood by the Anglo-Saxons, a people capable of making elaborate art.  
 
 ![Message of hope in York Minster](https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1584718340/blog/DSC_0263.jpg){:.img-fluid}
 
