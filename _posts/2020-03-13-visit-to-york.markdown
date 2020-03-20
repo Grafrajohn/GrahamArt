@@ -24,3 +24,9 @@ Interestingly the window has been repaired by medieaval craftsmen who signed the
 ![Message of hope in York Minster](https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1584212384/blog/DCE135B2-C974-4404-BEC4-E3AD1E54190E.jpg){:.img-fluid}
 
 At a time of stress and tension caused by the CoronaVirus pandemic, the Minster featured an art installation which speaks for itself. As the pandemic worsens we all have a lot to hope for.
+
+![Message of hope in York Minster](https://res.cloudinary.com/dtn9ari2r/image/upload/v1584718341/blog/DSC_0261.jpg){:.img-fluid}
+
+![Message of hope in York Minster](https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1584212384/blog/DCE135B2-C974-4404-BEC4-E3AD1E54190E.jpg){:.img-fluid}
+
+![Message of hope in York Minster](https://res.cloudinary.com/dtn9ari2r/image/upload/v1584718340/blog/DSC_0263.jpg){:.img-fluid}
