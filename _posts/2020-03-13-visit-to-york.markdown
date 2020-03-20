@@ -26,7 +26,7 @@ Interestingly the window has been repaired by medieaval craftsmen who signed the
 
 At a time of stress and tension caused by the CoronaVirus pandemic, the Minster featured an art installation which speaks for itself. As the pandemic worsens we all have a lot to hope for.
 
-![Message of hope in York Minster](https://res.cloudinary.com/dtn9ari2r/image/upload/v1584718341/blog/DSC_0261.jpg){:.img-fluid}
+![Message of hope in York Minster](https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1584718341/blog/DSC_0261.jpg){:.img-fluid}
 
 ![Message of hope in York Minster](https://res.cloudinary.com/dtn9ari2r/image/upload/v1584718343/blog/DSC_0262.jpg){:.img-fluid}
 
