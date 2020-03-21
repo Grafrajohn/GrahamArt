@@ -29,4 +29,4 @@ Many provincial artists and crafts folk rely on craft fairs to sell prints, pain
 
 ## Galleries closed
 
-Finally there are art galleries which are themselves businesses and provide a lifeline to artists and eclectic collection of high quality art for the public.
+Finally there are art galleries which are themselves businesses and provide a lifeline to artists and eclectic collections of high quality art for the public.
