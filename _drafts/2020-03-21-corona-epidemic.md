@@ -11,7 +11,7 @@ Having said that the virus is going to wipe out a whole year for many artists an
 
 ## Exhibitions cancelled
 
-Already it is clear that many spring and summer art exhibitions have been cancelled due to the virus outbreak.
+Many spring and summer art exhibitions have been cancelled due to the virus outbreak.
 
 ## Craft fairs cancelled
 
