@@ -28,7 +28,7 @@ The Great East Window is considered to be the British Sistine Chapel.
 
 At a time of stress and tension caused by the CoronaVirus pandemic, the Minster featured an art installation which speaks for itself. As the pandemic worsens we all have a lot to hope for. 
 
-I first published this post on 14th March the situation with the pandemic has worsened. Keep safe!
+I first published this post on 14th March but since then the situation with the pandemic has worsened. Keep safe!
 
 ![Anglo-Saxon crving in York](https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1584718341/blog/DSC_0261.jpg){:.img-fluid}
 
