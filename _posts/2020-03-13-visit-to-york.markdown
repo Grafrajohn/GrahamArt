@@ -30,7 +30,7 @@ At a time of stress and tension caused by the CoronaVirus pandemic, the Minster 
 
 I first published this post on 14th March but since then the situation with the pandemic has worsened. Keep safe!
 
-![Anglo-Saxon crving in York](https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1584718341/blog/DSC_0261.jpg){:.img-fluid}
+![Anglo-Saxon carving in York](https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1584718341/blog/DSC_0261.jpg){:.img-fluid}
 
 This carving is from the Anglo-Saxon era and shows how the original site of York Minster was a missionary church to bring the Christian faith to the Anglo-Saxons. One is tempted to say 'Well good luck with that', but the missionaries did succeed eventually. The Anglo-Saxons became devoutly religious and their kings, such as King Aethelberct, became evangelists for Christianity.
 
