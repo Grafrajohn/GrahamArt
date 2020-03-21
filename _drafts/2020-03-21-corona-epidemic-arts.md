@@ -11,11 +11,13 @@ Having said that the virus is going to wipe out a whole year for many artists an
 
 ## Exhibitions cancelled
 
+Artists and craftspersons rely on local exhibitions to show their work to people; but many exhibitions are now closed. For example I was looking forward to this exhibition of linocuts in Beverley Minster.
 
+![any art and craft exhibitons are cancelled in East Yorkshire](https://res.cloudinary.com/dtn9ari2r/image/upload/v1584789409/blog/Screenshot_2020-03-21_at_11.12.56.png){:.img-fluid}
 
 ## Craft fairs cancelled
 
-![Many art exhibitons are cancelled in East Yorkshire](https://res.cloudinary.com/dtn9ari2r/image/upload/v1584788138/blog/Screenshot_2020-03-21_at_10.53.34.png){:.img-fluid}
+![Many art and craft fairs are cancelled in East Yorkshire](https://res.cloudinary.com/dtn9ari2r/image/upload/v1584788138/blog/Screenshot_2020-03-21_at_10.53.34.png){:.img-fluid}
 
 Many spring and summer art exhibitions have been cancelled due to the virus outbreak. The Staithes Art and Heritage Festival for example. As the organisers say on their web site:
 
