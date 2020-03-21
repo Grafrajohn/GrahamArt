@@ -8,7 +8,8 @@ date: '2020-03-21 18:43:33 +0100'
 title: Corona virus and its effects on the arts in East Yorkshire
 description: Corona virus and its effects on the arts in East Yorkshire
 introduction: >-
-  The corona virus epidemic will have a severe effect not just on everyone's life and livelihood, but on the local sarts and crafts scene too.
+  The corona virus epidemic will have a severe effect not just on everyone's
+  life and livelihood, but on the local sarts and crafts scene too.
 image: >-
   https://res.cloudinary.com/dtn9ari2r/image/upload/v1584790009/blog/Screenshot_2020-03-21_at_11.26.30.png
 alt-image: Many arts and crafts events and exhibitions are cancelled in East Yorkshire
@@ -36,7 +37,7 @@ Artists and craftspersons rely on local exhibitions to show their work to people
 
 Many spring and summer art exhibitions have been cancelled due to the virus outbreak. The Staithes Art and Heritage Festival for example. As the organisers say on their web site:
 
-> This is in line with current government advice to avoid unnecessary travel and large gatherings to limit the spread of the Corona Virus. While we are aware that by September the contagion may have peaked and the restrictions may be relaxed, this is far from certain. Even if it were the case, we feel the economic impact of the pandemic will continue for some considerable time to come and this in turn will adversely affect our Festival.
+> _This is in line with current government advice to avoid unnecessary travel and large gatherings to limit the spread of the Corona Virus. While we are aware that by September the contagion may have peaked and the restrictions may be relaxed, this is far from certain. Even if it were the case, we feel the economic impact of the pandemic will continue for some considerable time to come and this in turn will adversely affect our Festival._
 
 Many provincial artists and crafts folk rely on craft fairs to sell prints, paintings and craft items they have made. With the craft fairs probably cancelled for the spring and maybe summer, a whole year is potentially wiped out, leaving only the Xmas period as a ray of hope.
 
@@ -48,6 +49,6 @@ Finally there are art galleries which are themselves businesses and provide a li
 
 In the example here the Pannett Art Gallery in Whitby is now closed. In the words of the owners:
 
-> Our first priority is the health and well-being of our visitors and staff. In light of the latest government advice we have taken the decision to close the Pannett Art Gallery until further notice with immediate effect. If the situation changes at any time we will issue further statements. We trust that you can understand the need for these measures and apologise for any inconvenience this may cause.
+> _Our first priority is the health and well-being of our visitors and staff. In light of the latest government advice we have taken the decision to close the Pannett Art Gallery until further notice with immediate effect. If the situation changes at any time we will issue further statements. We trust that you can understand the need for these measures and apologise for any inconvenience this may cause._
 
 Again I stress that we all understand and agree with the reasons for these cancellations and closures. But it is a catastrophe for the local arts and crafts folk.
