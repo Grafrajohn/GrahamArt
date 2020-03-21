@@ -30,3 +30,5 @@ Many provincial artists and crafts folk rely on craft fairs to sell prints, pain
 ## Galleries closed
 
 Finally there are art galleries which are themselves businesses and provide a lifeline to artists and eclectic collections of high quality art for the public.
+
+![Many art galleries are closed in East Yorkshire](https://res.cloudinary.com/dtn9ari2r/image/upload/v1584790009/blog/Screenshot_2020-03-21_at_11.26.30.png){:.img-fluid}
