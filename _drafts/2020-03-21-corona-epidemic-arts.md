@@ -7,11 +7,13 @@ I thought I would blog about the impact of corona virus on the arts in East York
 
 Of course our first thoughts are with those who might be particularly vulnerable to the virus and the families and loved ones of those for whom it has already had serious or tragic consequences.
 
+We are all now aware of the deadliness of this epidemic - the fatality rate in Italy has reached 8% despite that country's isolation policy and its apparently excellent healthcare system.
+
 Having said that the virus is going to wipe out a whole year for many artists and indeed people in many walks of life. Artists who already live on a threadbare income will suffer hardship as never before.
 
 ## Exhibitions cancelled
 
-Artists and craftspersons rely on local exhibitions to show their work to people; but many exhibitions are now closed. For example I was looking forward to this exhibition of linocuts in Beverley Minster.
+Artists and craftspersons rely on local exhibitions to show their work to people; but many exhibitions are now closed. For example I was looking forward to this exhibition of linocuts in Beverley Minster. It is now postponed.
 
 ![any art and craft exhibitons are cancelled in East Yorkshire](https://res.cloudinary.com/dtn9ari2r/image/upload/v1584789409/blog/Screenshot_2020-03-21_at_11.12.56.png){:.img-fluid}
 
