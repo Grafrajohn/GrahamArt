@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 # Corona Virus pandemic and the visual arts in East Yorkshire
