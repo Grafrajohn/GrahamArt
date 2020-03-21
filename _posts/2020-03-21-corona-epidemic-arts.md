@@ -1,5 +1,18 @@
 ---
 published: false
+layout: post-quick
+categories:
+  - art
+  - coronavirus
+date: '2020-03-21 18:43:33 +0100'
+description: Corona virus effects on the arts and crafts community in East Yorkshire
+introduction: >-
+  The corona virus pandemic has had and will continure to have far reaching
+  consequences for eveyone. Here we look at the effects on arts and crafts in
+  East Yorkshire.
+image: >-
+  https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1584212387/blog/19827511-AC43-4AE5-8F89-A8B8B51FD738.jpg
+alt-image: Corona virus ruins the spring and summer for East Yorkshire arts and crafts
 ---
 # Corona Virus pandemic and the visual arts in East Yorkshire
 
