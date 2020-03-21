@@ -36,8 +36,8 @@ This carving is from the Anglo-Saxon era and shows how the original site of York
 
 ![Viking carving in York](https://res.cloudinary.com/dtn9ari2r/image/upload/v1584718343/blog/DSC_0262.jpg){:.img-fluid}
 
-This carving shows a tree of life as understood by the Anglo-Saxons, a people capable of making elaborate art.  
+This carving shows a tree of life as understood by the Anglo-Saxons, a people capable of making elaborate art. The bird on the right is fascinating don't got think?  
 
 ![Message of hope in York Minster](https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1584718340/blog/DSC_0263.jpg){:.img-fluid}
 
-This figure decorated the wall of the officer's quarters in the Roman military garrison which lays beneath the foundations of York Minster.
+This figure decorated the wall of the officer's quarters in the Roman military garrison which lays beneath the foundations of York Minster. If looks as if the figure gestures to us with outstretched hands.
