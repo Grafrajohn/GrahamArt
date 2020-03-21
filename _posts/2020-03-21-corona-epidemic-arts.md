@@ -11,7 +11,7 @@ introduction: >-
   consequences for eveyone. Here we look at the effects on arts and crafts in
   East Yorkshire.
 image: >-
-  https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1584212387/blog/19827511-AC43-4AE5-8F89-A8B8B51FD738.jpg
+  https://res.cloudinary.com/dtn9ari2r/image/upload/v1584788138/blog/Screenshot_2020-03-21_at_10.53.34.png
 alt-image: Corona virus ruins the spring and summer for East Yorkshire arts and crafts
 ---
 # Corona Virus pandemic and the visual arts in East Yorkshire
