@@ -6,7 +6,7 @@ categories:
   - York
 date: '2020-03-14 18:43:33 +0100'
 title: Visit to York
-description: Reflections on the philosophy of aesthetics
+description: The city of York and its wonderful art
 introduction: >-
   The city of York is always a delightful destination for lovers of history, art
   and architecture
