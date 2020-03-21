@@ -11,10 +11,10 @@ Having said that the virus is going to wipe out a whole year for many artists an
 
 ## Exhibitions cancelled
 
+## Craft fairs cancelled
+
 ![Many art exhibitons are cancelled in East Yorkshire](https://res.cloudinary.com/dtn9ari2r/image/upload/v1584788138/blog/Screenshot_2020-03-21_at_10.53.34.png){:.img-fluid}
 
-Many spring and summer art exhibitions have been cancelled due to the virus outbreak.
-
-## Craft fairs cancelled
+Many spring and summer art exhibitions have been cancelled due to the virus outbreak. The Staithes festival for example.
 
 ## Galleries closed
