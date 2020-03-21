@@ -17,7 +17,9 @@ Having said that the virus is going to wipe out a whole year for many artists an
 
 ![Many art exhibitons are cancelled in East Yorkshire](https://res.cloudinary.com/dtn9ari2r/image/upload/v1584788138/blog/Screenshot_2020-03-21_at_10.53.34.png){:.img-fluid}
 
-Many spring and summer art exhibitions have been cancelled due to the virus outbreak. The Staithes Art and Heritage Festival for example.
+Many spring and summer art exhibitions have been cancelled due to the virus outbreak. The Staithes Art and Heritage Festival for example. As the organisers say on their web site:
+
+> This is in line with current government advice to avoid unnecessary travel and large gatherings to limit the spread of the Corona Virus. While we are aware that by September the contagion may have peaked and the restrictions may be relaxed, this is far from certain. Even if it were the case, we feel the economic impact of the pandemic will continue for some considerable time to come and this in turn will adversely affect our Festival.> We loved with a love that was more than love
 
 Many provincial artists and crafts folk rely on craft fairs to sell prints, paintings and craft items they have made. With the craft fairs probably cancelled for the spring and maybe summer, a whole year is potentially wiped out, leaving only the Xmas period as a ray of hope. 
 
