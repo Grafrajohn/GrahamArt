@@ -28,3 +28,5 @@ Many spring and summer art exhibitions have been cancelled due to the virus outb
 Many provincial artists and crafts folk rely on craft fairs to sell prints, paintings and craft items they have made. With the craft fairs probably cancelled for the spring and maybe summer, a whole year is potentially wiped out, leaving only the Xmas period as a ray of hope. 
 
 ## Galleries closed
+
+Finally there are art galleries which are themselves businesses and provide a lifeline to artists and eclectic collection of high quality art for the public.
