@@ -17,6 +17,11 @@ sections:
   create: all
   match: "**/*"
 - type: directory
+  path: _oil_thumbnails
+  label: Oil thumbnails
+  create: all
+  match: "**/*"
+- type: directory
   path: _print_thumbnails
   label: Print thumbnails
   create: all
@@ -24,11 +29,6 @@ sections:
 - type: directory
   path: _watercolour_thumbnails
   label: Watercolour thumbnails
-  create: all
-  match: "**/*"
-- type: directory
-  path: _oil_thumbnails
-  label: Oil thumbnails
   create: all
   match: "**/*"
 upload_dir: uploads
