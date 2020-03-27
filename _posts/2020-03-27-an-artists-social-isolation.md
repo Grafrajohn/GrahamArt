@@ -21,3 +21,5 @@ On the other hand many artists such as Raphael were social men and women who wou
 So how do we cope with self-isolation? Well actually better than many people because, as long as we still have art materials to hand, we can create. This applies to musicians too - a period of performance inactivity can actually allow creatve reflection on artistic direction.
 
 The real problem for many creatives in the curent crisis is income. We cannot exhibit, sell, perform, teach pupils or do much else. We may be able to create, but even this might be sidelined by the need to earn.
+
+Maybe the internet can help here? There seems to be a growing momentum behind virtual performance and exhibition.
