@@ -22,4 +22,10 @@ So how do we cope with self-isolation? Well actually better than many people bec
 
 The real problem for many creatives in the curent crisis is income. We cannot exhibit, sell, perform, teach pupils or do much else. We may be able to create, but even this might be sidelined by the need to earn.
 
-Maybe the internet can help here? There seems to be a growing momentum behind virtual performance and exhibition. Already musicians are performing in cyber-gigs, to which they invite members of the audience to make a supportive financial contribution. Meanwhile the established online art sellers can still exhibit and ship art throiugh their cyber galleries.
+Maybe the Internet can help here? There seems to be a growing momentum behind virtual performance and exhibition. Already musicians are performing in cyber-gigs, to which they invite members of the audience to make a supportive financial contribution. Meanwhile the established online art sellers can still exhibit and ship art throiugh their cyber galleries. Soa ray of hope there.
+
+What of the mental health aspect of isolation? Creatives are no less vulnerable to this than anyone else. In fact probably more vulnerable. Or are they? To a point creativity enables people to more easily entertain and occupy themselves. It is more difficult to become bored if one has mastered a musical insrument or one of the visual arts. So perhaps creativiy provides us with a pressure valve with which we can more easily survive the current crisis of social isolation. Time will tell.
+
+Artistic discourse can be beneficial to artists at all times but never more so than presently. Fortunately the Internet can help here too. There are many technologies which allow the broadcasting of discussions and virtual meetings where works of art amd art in general can be discussed. This discourse can help us feel connected in challenging times and also allay some of the isolation anxieties from which we may have been suffering.
+
+As the situation develops in north eastern England, I will return to this article with futher thoughts on this developing topic.
