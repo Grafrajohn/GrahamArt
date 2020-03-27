@@ -8,11 +8,11 @@ date: 2020-03-27T00:00:00.000Z
 title: An artist's social isolation
 description: An artist in social isolation
 introduction: >-
-  The corona virus epidemic will have a severe effect not just on everyone's
-  life and livelihood, but on the local sarts and crafts scene too.
+  How should artists deal with the self isolation imposed by the corona virus
+  pandemic?
 image: >-
   https://res.cloudinary.com/dtn9ari2r/image/upload/v1585301087/blog/B5AF2396-7490-46F8-92B8-BADC40D427DE.jpg
-alt-image: Self isolation the easy way
+alt-image: The self-isolaton situation for creatives
 ---
 For some artists such as Van Gogh and Lowry isolation would have come naturally. They were isolated in the lives they led.
 
