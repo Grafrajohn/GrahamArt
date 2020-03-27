@@ -28,4 +28,4 @@ What of the mental health aspect of isolation? Creatives are no less vulnerable 
 
 Artistic discourse can be beneficial to artists at all times but never more so than presently. Fortunately the Internet can help here too. There are many technologies which allow the broadcasting of discussions and virtual meetings where works of art amd art in general can be discussed. This discourse can help us feel connected in challenging times and also allay some of the isolation anxieties from which we may have been suffering.
 
-As the situation develops in north eastern England, I will return to this article with futher thoughts on this developing topic.
+As the situation develops in north eastern England, I will return to this article with further thoughts on this developing topic.
