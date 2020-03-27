@@ -22,4 +22,4 @@ So how do we cope with self-isolation? Well actually better than many people bec
 
 The real problem for many creatives in the curent crisis is income. We cannot exhibit, sell, perform, teach pupils or do much else. We may be able to create, but even this might be sidelined by the need to earn.
 
-Maybe the internet can help here? There seems to be a growing momentum behind virtual performance and exhibition.
+Maybe the internet can help here? There seems to be a growing momentum behind virtual performance and exhibition. Already musicians are performing in cyber-gigs, to which they invite members of the audience to make a supportive financial contribution. Meanwhile the established online art sellers can still exhibit and ship art throiugh their cyber galleries.
