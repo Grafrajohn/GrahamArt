@@ -24,4 +24,4 @@ For people watchers the ideal cafe must be well located. There is not much point
 
 In Hull you might see more tourists than you expect especially around places such as the Ferens Gallery and Maritime Museum. But in other places you'll see fewer tourists. For me the fascination is with the people of Hull themselves. 
 
-![Local people in Hull make for good people watching](https://res.cloudinary.com/dtn9ari2r/image/upload/v1585740484/blog/2017-09-15_13-19-00_204.jpg)
+![Local people in Hull make for good people watching](https://res.cloudinary.com/dtn9ari2r/image/upload/v1585740484/blog/2017-09-15_13-19-00_204.jpg){: .img-fluid}
