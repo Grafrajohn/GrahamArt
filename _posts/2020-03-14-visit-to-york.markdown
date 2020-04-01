@@ -1,19 +1,17 @@
 ---
-layout: post-quick
-published: true
-categories:
-  - art
-  - York
-date: '2020-03-14 18:43:33 +0100'
 title: Visit to York
+date: 2020-03-14 17:43:33 Z
+categories:
+- art
+- York
+layout: post-quick
 description: The city of York and its wonderful art
-introduction: >-
-  The city of York is always a delightful destination for lovers of history, art
-  and architecture
-image: >-
-  https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1584212387/blog/19827511-AC43-4AE5-8F89-A8B8B51FD738.jpg
+introduction: The city of York is always a delightful destination for lovers of history,
+  art and architecture
+image: https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1584212387/blog/19827511-AC43-4AE5-8F89-A8B8B51FD738.jpg
 alt-image: The Great East Window of York Minster
 ---
+
 A visit to the city of York in England is always a pleasure. It is a beautiful city and rightfully one of the most visited destinations in the United Kingdom.
 
 For architecture York is almost incomparable; Medieval, Georgian, Victorian buildings provide a feast for those who appreciate the long architectural history of Western Europe. Many of the buildings are still in active use as cafes, shops and local government offices. The city walls provide a fascinating walk. In particular foreign visitors can see from these medieval walls a panorama of modern British life as within their domain is a thriving business and residential community.

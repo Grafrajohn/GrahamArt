@@ -1,18 +1,16 @@
 ---
-layout: post-quick
-published: true
-categories:
-  - art
-  - paris
-date: '2020-02-13 21:43:33 +0100'
 title: Visit to the Musee d'Orsay in Paris
+date: 2020-02-13 20:43:33 Z
+categories:
+- art
+- paris
+layout: post-quick
 description: Visit to the Musee d'Orsay in Paris
-introduction: >-
-  The Musee d Orsay in Paris is home to some of the loveliest art and scultpure
-  in the world. I was lucky enough to visit the meseum recently.
-image: >-
-  https://res.cloudinary.com/dtn9ari2r/image/upload/v1583263486/blog/DSC_0220.jpg
+introduction: The Musee d Orsay in Paris is home to some of the loveliest art and
+  scultpure in the world. I was lucky enough to visit the meseum recently.
+image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1583263486/blog/DSC_0220.jpg
 ---
+
 I was recently fortunate enough to visit the fine city of Paris including the Musee d'Orsay, which is an art museum located in a former railway station. This works out much better than you might expect.
 
 The railway station used was a large old station from the nineteenth century, designed to accomodate the great steam engines of that era. Consequently is has high arch-shaped roofs which let in plenty of light and also the sheer size of the place somehow enhances many of the great sculptures and paintings displayed there.

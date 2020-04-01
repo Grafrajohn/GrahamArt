@@ -1,10 +1,15 @@
 ---
+title: How to Greener Day
+date: 2019-01-23 21:43:33 Z
+categories:
+- green
+- environment
+- vegan
 layout: post
-title:  "How to Greener Day"
-description: "How to Go Greener Day: a green and environmental discussion day with many interesting speakers."
-date:   2019-01-23 22:43:33 +0100
-categories: green environment vegan
-introduction: I believe in supporting community events so here is an interesting day of green and environmental discussion with some excellent speakers.
+description: 'How to Go Greener Day: a green and environmental discussion day with
+  many interesting speakers.'
+introduction: I believe in supporting community events so here is an interesting day
+  of green and environmental discussion with some excellent speakers.
 h2-1: Learn how you can go greener!
 image1: https://res.cloudinary.com/dtn9ari2r/image/upload/v1548284253/go-greener-day.jpg
 alt-image1: How to Go Greeneer Day
@@ -14,3 +19,4 @@ image2: https://res.cloudinary.com/dtn9ari2r/image/upload/v1548284369/cropped-15
 alt-image2: Spend a day in Beverley, East Yorkshire
 text2: Beverley is an attractive market town in the East Riding of Yorkshire.
 ---
+

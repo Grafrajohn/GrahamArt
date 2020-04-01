@@ -1,17 +1,14 @@
 ---
-layout: post-quick
-published: true
-categories:
-  - art
-  - coronavirus
-date: '2020-03-21 18:43:33 +0100'
 title: Corona virus and its effects on the arts in East Yorkshire
+date: 2020-03-21 17:43:33 Z
+categories:
+- art
+- coronavirus
+layout: post-quick
 description: Corona virus and its effects on the arts in East Yorkshire
-introduction: >-
-  The corona virus epidemic will have a severe effect not just on everyone's
+introduction: The corona virus epidemic will have a severe effect not just on everyone's
   life and livelihood, but on the local arts and crafts scene too.
-image: >-
-  https://res.cloudinary.com/dtn9ari2r/image/upload/v1584790009/blog/Screenshot_2020-03-21_at_11.26.30.png
+image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1584790009/blog/Screenshot_2020-03-21_at_11.26.30.png
 alt-image: Many arts and crafts events and exhibitions are cancelled in East Yorkshire
 ---
 
