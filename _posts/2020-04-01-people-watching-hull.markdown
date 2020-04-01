@@ -14,6 +14,5 @@ alt-image: People watching in Hull
 layout: post-quick
 ---
 
-## A New Post
+As the coronavirus lockdown continues may of us are feeling the stress from not being able to visit the public places we enjoy. Many of us in East Yorkshire are nostalgic for the bustle of the city of Hull.
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
