@@ -5,7 +5,8 @@ published: false
 categories:
 - hull
 - coronavirus
-description: Nostalgia for the art of people watching in Hull
+description: As we endure the corona virus lockdown I'm nostalgic for the art of people
+  watching in Hull
 introduction: With the city of Hull closed in the wake of the corona virus pandemic,
   are we nostalgic for the pleasures of city life?
 image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1585740487/blog/2017-11-27_12-48-51_016.jpg
