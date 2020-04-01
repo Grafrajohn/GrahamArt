@@ -1,16 +1,16 @@
 ---
-title: People Watching Hull
+title: During the CoronaVirus lockdown I'm nostalgic for people watching in Hull
 date: 2020-04-01 00:00:00 Z
 published: false
 categories:
 - hull
 - coronavirus
-layout: post-quick
 description: Nostalgia for the art of people watching in Hull
 introduction: With the city of Hull closed in the wake of the corona virus pandemic,
   are we nostalgic for the pleasures of city life?
 image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1585740487/blog/2017-11-27_12-48-51_016.jpg
 alt-image: People watching in Hull
+layout: post-quick
 ---
 
 ## A New Post
