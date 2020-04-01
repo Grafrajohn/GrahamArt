@@ -20,4 +20,6 @@ First off you need to accessorise yourself for people watching. Ideal accessorie
 
 ![Coffee and cake - the ideal accessories for people watching](https://res.cloudinary.com/dtn9ari2r/image/upload/v1585301087/blog/B5AF2396-7490-46F8-92B8-BADC40D427DE.jpg){: .img-fluid}
 
+For people watchers the ideal cafe must be well located. There is not much point in visiting a cafe where you cannot see anything. Of course what you want to see depends on yourself. For example in Italian cafes I visited in Rome, Florence and Venice I saw more tourists than anything else. It is funny how tourists look and became similarly, with their glazed 'Oh no not more history' look, their over-specced cameras and pointless hats.
+
 
