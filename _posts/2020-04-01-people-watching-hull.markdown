@@ -17,4 +17,6 @@ layout: post-quick
 As the coronavirus lockdown continues may of us are feeling the stress from not being able to visit the public places we enjoy. Many of us in East Yorkshire are already nostalgic for the bustle of the city of Hull. So with that in mind, here are my reflections on the art of people watching in the city.
 
 
+![](){}
+
 
