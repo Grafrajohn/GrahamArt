@@ -16,7 +16,7 @@ layout: post-quick
 
 As the coronavirus lockdown continues may of us are feeling the stress from not being able to visit the public places we enjoy. Many of us in East Yorkshire are already nostalgic for the bustle of the city of Hull. So with that in mind, here are my reflections on the art of people watching in the city.
 
-First off you need to accessorise yourself for people watching. Ideal accessories are coffee and cake. Fortunately Hull is well provided with places which can provide this.
+First off you need to accessorise yourself for people watching. Ideal accessories are coffee and cake. Fortunately Hull is well provided with places which can provide this in a comfortable setting by next to a window.
 
 ![Coffee and cake - the ideal accessories for people watching](https://res.cloudinary.com/dtn9ari2r/image/upload/v1585301087/blog/B5AF2396-7490-46F8-92B8-BADC40D427DE.jpg){: .img-fluid}
 
