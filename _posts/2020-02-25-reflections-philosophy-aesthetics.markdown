@@ -1,6 +1,6 @@
 ---
 title: Reflections on the philosophy of aesthetics
-date: {}
+date: 2020-02-25T00:00:00.000Z
 categories:
   - aesthetics
   - art
