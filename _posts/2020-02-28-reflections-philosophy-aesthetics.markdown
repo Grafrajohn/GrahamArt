@@ -5,16 +5,17 @@ categories: aesthetics art
 date: '2020-02-25 21:45:00 +0100'
 title: Reflections on the philosophy of aesthetics
 description: Reflections on the philosophy of aesthetics
-introduction: >-
+introduction: For over two thousand yers philosophers have asked the question - what is art? Here are my reflections on this debate.
+image: >-
+  https://res.cloudinary.com/dtn9ari2r/image/upload/v1583273033/blog/96E6718D-CE5A-4D47-A191-8FFB7788BFC0.jpg
+---
+## Definition of Art
+
   Since Plato wrote on what we now call the philosophy of aesthetics, many
   philosophers have discussed the nature of art and beauty. They have
   ascertained art and beauty to be two different but related things. What is
   beautiful is not always art, for example a rose. What is art is not always
   beautiful, for example Picasso‘s “Guernica”.
-image: >-
-  https://res.cloudinary.com/dtn9ari2r/image/upload/v1583273033/blog/96E6718D-CE5A-4D47-A191-8FFB7788BFC0.jpg
----
-## Definition of Art
 
 ![Philosophy of aesthetics](https://res.cloudinary.com/dtn9ari2r/image/upload/v1583272469/blog/Crown_Jewels_of_the_United_Kingdom_1952-12-13_1.jpg)
 
