@@ -1,17 +1,14 @@
 ---
 title: Reflections on the philosophy of aesthetics
-date: 2020-02-25T00:00:00.000Z
+date: 2020-02-25 00:00:00 Z
 categories:
-  - aesthetics
-  - art
+- aesthetics
+- art
 layout: post-quick
 description: Reflections on the philosophy of aesthetics
-introduction: >-
-  For over two thousand yers philosophers have asked the question - what is art?
-  Here are my reflections on this debate.
-image: >-
-  https://res.cloudinary.com/dtn9ari2r/image/upload/v1583273033/blog/96E6718D-CE5A-4D47-A191-8FFB7788BFC0.jpg
-published: true
+introduction: For over two thousand yers philosophers have asked the question - what
+  is art? Here are my reflections on this debate.
+image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1583273033/blog/96E6718D-CE5A-4D47-A191-8FFB7788BFC0.jpg
 ---
 
 ## Definition of Art
