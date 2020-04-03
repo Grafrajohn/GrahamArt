@@ -51,6 +51,8 @@ Plato famously thought that art was bad because artists represented things that 
 
 In his “Poetics” Aristotle argued that art is cathartic and in this capacity enables us to safely consider unpalatable things.
 
+Kant thought that through the artist, nature expressed herself. Since human beings are themselves a product of nature, this makes sense to me. This a profound idea and still potentially of great use in our modern world.
+
 It seems to me that when art does represent bad things, it either represents bad things which have already happened or forewarns us of bad things which could happen. Steven Spielberg’s “Schindlers’s List” did the former and George Orwell’s “1984” did the latter. Therefore this representation of the bad is not necessarily harmful. Even bad characters such as Shakespeare’s Falstaff remind and forewarn us of the criminal’s capacity for evil.
 
 In the twentieth century Dickey suggested that our notions of beauty are in fact socially derived more than from philosophical principle. Marxists and Freudians have also moved the appreciation of art away from the purely philosophical. Freud looked for repressed forces in the works of the great masters, and suggested that for example Leonardo was afraid of women. Marx suggested that Greek art was valued because of its origins in a simpler and in many ways better time before capitalism, and also because bourgeois collectors wish to inflate the value of rare Greek sculptures.
