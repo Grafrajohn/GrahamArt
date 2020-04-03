@@ -4,7 +4,7 @@ date: 2020-02-25 20:45:00 Z
 categories:
 - aesthetics
 - art
-layout: post
+layout: post-quick
 description: Reflections on the philosophy of aesthetics
 introduction: For over two thousand yers philosophers have asked the question - what is art? Here are my reflections on this debate.
 image: >-
