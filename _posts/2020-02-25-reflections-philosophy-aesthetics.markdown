@@ -19,7 +19,7 @@ image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1583273033/blog/96E671
   beautiful is not always art, for example a rose. What is art is not always
   beautiful, for example Picasso‘s “Guernica”.
 
-![Philosophy of aesthetics](https://res.cloudinary.com/dtn9ari2r/image/upload/v1583272469/blog/Crown_Jewels_of_the_United_Kingdom_1952-12-13_1.jpg)
+![Philosophy of aesthetics](https://res.cloudinary.com/dtn9ari2r/image/upload/v1583272469/blog/Crown_Jewels_of_the_United_Kingdom_1952-12-13_1.jpg){:.img-fluid}
 
 We must first discuss the definition of art, a problem which has taxed
   philosophers for over two thousand years. I’ll go with the definition which
@@ -46,7 +46,7 @@ This definition distinguishes art from things which are aesthetically pleasing b
 
 ## Definition of Beauty
 
-![Plato](https://res.cloudinary.com/dtn9ari2r/image/upload/v1582116590/blog/800px-Plato_Silanion_Musei_Capitolini_MC1377.jpg)
+![Plato](https://res.cloudinary.com/dtn9ari2r/image/upload/v1582116590/blog/800px-Plato_Silanion_Musei_Capitolini_MC1377.jpg){:.img-fluid}
 
 Socrates and Plato thought that there was a deep underlying set of ideas and
   concepts which defined the world and which were appreciated by the mind. Plato
@@ -67,7 +67,7 @@ Socrates and Plato thought that there was a deep underlying set of ideas and
 
 ## Is art good or bad?
 
-![Picasso's Guernica](https://res.cloudinary.com/dtn9ari2r/image/upload/v1583271948/blog/PicassoGuernica.jpg)
+![Picasso's Guernica](https://res.cloudinary.com/dtn9ari2r/image/upload/v1583271948/blog/PicassoGuernica.jpg){:.img-fluid}
 
 Plato famously thought that art was bad because artists represented things
   that they did not understand, and represented bad things too. They might thus
@@ -103,7 +103,7 @@ Plato famously thought that art was bad because artists represented things
 
 ## The subject in painting
 
-![The tricky subject of the subject in painting](https://res.cloudinary.com/dtn9ari2r/image/upload/v1572463526/blog/DSC_0183.jpg)
+![The tricky subject of the subject in painting](https://res.cloudinary.com/dtn9ari2r/image/upload/v1572463526/blog/DSC_0183.jpg){:.img-fluid}
 
 Recently I have been trying to grapple with the concept of the subject in
   painting, as it has been debated by modern philosophers. More of this when I
