@@ -1,17 +1,16 @@
 ---
-published: true
-layout: post-quick
-categories:
-  - paris
-  - leonardo-da-vinci
-date: '2020-02-24 21:45:00 +0100'
 title: Leonardo Da Vinci Exhibition in Paris
+date: 2020-02-24 20:45:00 Z
+categories:
+- paris
+- leonardo-da-vinci
+layout: post-quick
 description: Leonardo Da Vinci Exhibition in Paris
-image: >-
-  https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1583263321/blog/FE1331EB-ACD0-4EB2-92D5-ECA1B4782F27.jpg
+image: https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1583263321/blog/FE1331EB-ACD0-4EB2-92D5-ECA1B4782F27.jpg
 image-alt: Leonardo Da Vinci Exhibition Paris
 image-caption: Leonardo Da Vinci Exhibition Paris
 ---
+
 Recently I had the privilege of visiting Paris to view the Leonardo Da Vinci Exhibition. This is how it went.
 
 After a pleasant rail journey from Yorkshire to Paris via London we settled into our rooms in the comfortable hotel Le Saint Gregoire near Montparnasse.

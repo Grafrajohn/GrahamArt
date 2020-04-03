@@ -1,13 +1,11 @@
 ---
-layout: post-quick
-published: true
-categories:
-  - paris
-date: 2020-02-24 21:45:00 +0100
 title: People watching in Paris
+date: 2020-02-24 20:45:00 Z
+categories:
+- paris
+layout: post-quick
 description: People watching in the great metropolitan city of Paris
-image: >-
-  https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1583263218/blog/F345B03A-D36E-4F24-B5B2-1982BE7A1A67.jpg
+image: https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1583263218/blog/F345B03A-D36E-4F24-B5B2-1982BE7A1A67.jpg
 image-alt: People watching in Paris
 image-caption: People watching in Paris
 ---

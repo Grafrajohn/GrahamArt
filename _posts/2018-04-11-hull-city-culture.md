@@ -1,12 +1,17 @@
 ---
+title: Hull City of Culture 2017
+date: 2018-04-11 20:43:33 Z
+categories:
+- hull
+- city-of-culture
 layout: post
-title:  "Hull City of Culture 2017"
-description: "Hull City of Culture - a great year in the creative history of the city of Hull"
-introduction: Hull is a culturally growing city and as a cultural centre has had many great moments. Here are a few from 2017, when it was the UK's official city of culture.
-date:   2018-04-11 21:43:33 +0100
-categories: hull city-of-culture
+description: Hull City of Culture - a great year in the creative history of the city
+  of Hull
+introduction: Hull is a culturally growing city and as a cultural centre has had many
+  great moments. Here are a few from 2017, when it was the UK's official city of culture.
 image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1541621356/blog/March_25__2017_at_0647PM.jpg
 ---
+
 <p>Hull is a culturally growing city and as a cultural centre has had many great moments. Here are a few from 2017, when it was the UK's official city of culture.</p>
 <p>An art installation to commemorate those from the city who fell in the two world wars.
 <img class="img-fluid" src="https://res.cloudinary.com/dtn9ari2r/image/upload/v1541621356/blog/March_25__2017_at_0647PM.jpg" alt="Hull art" >
