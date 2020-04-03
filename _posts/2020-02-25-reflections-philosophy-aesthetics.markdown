@@ -1,9 +1,10 @@
 ---
-layout: post
-published: true
-categories: aesthetics art
-date: '2020-02-25 21:45:00 +0100'
 title: Reflections on the philosophy of aesthetics
+date: 2020-02-25 20:45:00 Z
+categories:
+- aesthetics
+- art
+layout: post
 description: Reflections on the philosophy of aesthetics
 introduction: For over two thousand yers philosophers have asked the question - what is art? Here are my reflections on this debate.
 image: >-
@@ -22,10 +23,10 @@ image: >-
 We must first discuss the definition of art, a problem which has taxed
   philosophers for over two thousand years. I’ll go with the definition which
   says that art is that which:
-  
+
   * is created to evoke aesthetic   pleasure
   * has no other purpose
-  
+
 This definition distinguishes art from things which are aesthetically pleasing but which have a purpose,
   such as furniture or well-presented food. Or the British crown jewels, which
   are also aesthetically pleasing, but which were designed for the purpose of
@@ -45,33 +46,33 @@ This definition distinguishes art from things which are aesthetically pleasing b
 ## Definition of Beauty
 
 ![Plato](https://res.cloudinary.com/dtn9ari2r/image/upload/v1582116590/blog/800px-Plato_Silanion_Musei_Capitolini_MC1377.jpg)
-  
+
 Socrates and Plato thought that there was a deep underlying set of ideas and
   concepts which defined the world and which were appreciated by the mind. Plato
   thought that beauty did not come from these deeper concepts but was instead
   derived from the senses.
-  
+
   Later during the Renaissance Alberti suggested
   that beauty was harmony and perfection.
-  
+
   Later still during the
   Enlightenment Cooper suggested that beauty and truth were the same and this
   was innate to people. Hutcheson added that to appreciate beauty both the inner
   intellect and the senses work together.
-  
+
   Surely it is true that
   appreciation of beauty involves the senses and the use of innate concepts
   maybe planted in all of us by nature herself. Mysterious and unknowable.
-  
+
 ## Is art good or bad?
 
 ![Picasso's Guernica](https://res.cloudinary.com/dtn9ari2r/image/upload/v1583271948/blog/PicassoGuernica.jpg)
-  
+
 Plato famously thought that art was bad because artists represented things
   that they did not understand, and represented bad things too. They might thus
   corrupt audiences by introducing them to the thoughts and deeds of bad
   characters.
-  
+
   In his “Poetics” Aristotle argued that art is cathartic and
   in this capacity enables us to safely consider unpalatable things.<br><br>It
   seems to me that when art does represent bad things, it either represents bad
@@ -80,7 +81,7 @@ Plato famously thought that art was bad because artists represented things
   Orwell’s “1984” did the latter. Therefore this representation of the bad is
   not necessarily harmful. Even bad characters such as Shakespeare’s Falstaff
   remind and forewarn us of the criminal’s capacity for evil.
-  
+
   In the
   twentieth century Dickey suggested that our notions of beauty are in fact
   socially derived more than from philosophical principle. Marxists and
@@ -90,7 +91,7 @@ Plato famously thought that art was bad because artists represented things
   suggested that Greek art was valued because of its origins in a simpler and in
   many ways better time before capitalism, and also because bourgeois collectors
   wish to inflate the value of rare Greek sculptures.
-  
+
   The Nazis condemned
   and destroyed ‘degenerate’ art. But their definition of degenerate included
   virtually everyone who disagreed with them and some groups of people who would
@@ -98,7 +99,7 @@ Plato famously thought that art was bad because artists represented things
   century such as Jews, Gypsies, socialists and homosexuals. This raises the
   question of who decides what might be ‘good’ and ‘bad’ in art? Maybe it is
   best to let art be art, and make our own judgements.
-  
+
 ## The subject in painting
 
 ![The tricky subject of the subject in painting](https://res.cloudinary.com/dtn9ari2r/image/upload/v1572463526/blog/DSC_0183.jpg)
