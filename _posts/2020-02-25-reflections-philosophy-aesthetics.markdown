@@ -55,18 +55,10 @@ It seems to me that when art does represent bad things, it either represents bad
 
 In the twentieth century Dickey suggested that our notions of beauty are in fact socially derived more than from philosophical principle. Marxists and Freudians have also moved the appreciation of art away from the purely philosophical. Freud looked for repressed forces in the works of the great masters, and suggested that for example Leonardo was afraid of women. Marx suggested that Greek art was valued because of its origins in a simpler and in many ways better time before capitalism, and also because bourgeois collectors wish to inflate the value of rare Greek sculptures.
 
-The Nazis condemned
-  and destroyed ‘degenerate’ art. But their definition of degenerate included
-  virtually everyone who disagreed with them and some groups of people who would
-  not be considered degenerate in the civil societies of the twenty-first
-  century such as Jews, Gypsies, socialists and homosexuals. This raises the
-  question of who decides what might be ‘good’ and ‘bad’ in art? Maybe it is
-  best to let art be art, and make our own judgements.
+The Nazis condemned and destroyed ‘degenerate’ art. But their definition of degenerate included  virtually everyone who disagreed with them and some groups of people who would not be considered degenerate in the civil societies of the twenty-first century such as Jews, Gypsies, socialists and homosexuals. This raises the question of who decides what might be ‘good’ and ‘bad’ in art? Maybe it is best to let art be art, and make our own judgements.
 
 ## The subject in painting
 
 ![The tricky subject of the subject in painting](https://res.cloudinary.com/dtn9ari2r/image/upload/v1572463526/blog/DSC_0183.jpg){:.img-fluid}
 
-Recently I have been trying to grapple with the concept of the subject in
-  painting, as it has been debated by modern philosophers. More of this when I
-  have made some progress…
+Recently I have been trying to grapple with the concept of the subject in painting, as it has been debated by modern philosophers. More of this when I have made some progress…
