@@ -54,10 +54,4 @@ The activity of people watching must be appraoched in the correct frame of mind,
 
 {% include image.html url="https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1585740493/blog/2017-11-28_12-59-34_513.jpg" description="The House of Fraser - once offered premium people watching in Hull" %}
 
-Sadly the people watching potential of Hull was greatly diminished when House of Fraser closed its doors in 2019. This venue had arguably the best people watching spot in Hull - its venerable Cafe Nero, where a range of coffees and additional succulent delights could be purchased. 
-
-
-
-
-
-
+In an evolving city such as Hull, the opportunities for quality people watching ebb and flow. Recently alas the potential of Hull was greatly diminished when House of Fraser closed its doors in 2019. This venue had arguably the best people watching spot in Hull - its venerable Cafe Nero, where a range of coffees and additional succulent delights could be purchased. 
