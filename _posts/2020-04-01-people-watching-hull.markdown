@@ -29,8 +29,7 @@ For people watchers the ideal cafe must be well located. There is not much point
 
 Never underestimate the value of a city's sidestreets for people watching. Here you will see 
 
-{% include image.html file="https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1585301087/blog/B5AF2396-7490-46F8-92B8-BADC40D427DE.jpg" description="Coffee and cake - the ideal accessories for people watching" %}
-![Local people in Hull make for good people watching](https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1585740480/blog/2017-10-06_13-11-37_158.jpg){: .img-fluid}
+{% include image.html file="https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1585740480/blog/2017-10-06_13-11-37_158.jpg" description="Local people in Hull make for good people watching" %}
 
 In Hull you might see more tourists than you expect especially around places such as the Ferens Gallery and Maritime Museum. But in other places you'll see fewer tourists. For me the people watching fascination is with the people of Hull themselves. 
 
