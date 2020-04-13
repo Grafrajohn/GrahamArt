@@ -36,9 +36,11 @@ So what features in the ideal people watching venue? I would suggest the followi
 * quietness in order not to disrupt the essential musing
 * good windows to maximise observational potential
 
+In my view a public house is not a good venue for people watching. These venues are noisy and alcohol is not the ideal beverage for relaxed observation. However, you may feel differently about this.
+
 {% include image.html url="https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1585740485/blog/2017-09-14_13-05-43_833.jpg" description="Ideal location of a people watching venue - good view of thoroughfares" %}
 
-Having located an  ideal venue, one needs to accessorise oneself for people watching. Ideal accessories are dependent on taste, but for me always include coffee and cake. Fortunately Hull is well served with places which can provide these in a comfortable and peaceful setting next to a good window.
+Having located an ideal venue, one needs to accessorise oneself for people watching. Ideal accessories are dependent on taste, but for me always include coffee and cake. Fortunately Hull is well served with places which can provide these in a comfortable and peaceful setting next to a good window.
 
 {% include image.html url="https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1585301087/blog/B5AF2396-7490-46F8-92B8-BADC40D427DE.jpg" description="Coffee and cake - the ideal accessories for people watching" %}
 
@@ -52,6 +54,16 @@ A good venue may be situated in a district of interest in any town or city. As a
 
 The activity of people watching must be appraoched in the correct frame of mind, otherwise the overall experience will be marred. Stress, worry, sadness are all unwelcome causes of the type of preoccupation which can hinder the people watchers ability to take in what he or she observes. Indeed people watching is similar to meditation in that it takes those who practise it to a higher spiritual plane, and thus provides solace and comfort to the soul. 
 
+With the modern focus on mindfulness, people watching should be a recommended therapy for all those suffering the stresses and anxieties of modern life. There is surely no better way to be mindful than to relax and watch the world go by.
+
 {% include image.html url="https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1585740493/blog/2017-11-28_12-59-34_513.jpg" description="The House of Fraser - once offered premium people watching in Hull" %}
 
 In an evolving city such as Hull, the opportunities for quality people watching ebb and flow. Recently alas the potential of Hull was greatly diminished when House of Fraser closed its doors in 2019. This venue had arguably the best people watching spot in Hull - its venerable Cafe Nero, where a range of coffees and additional succulent delights could be purchased. 
+
+On the positive side, there are still many good people watching venues in Hull. Here are a few of my favourites:
+
+* Cafe Nero opposite the Maritime Museum
+* Any of the cafes at the railway station. Personally I prefer Starbucks
+* Robbie Johnson's Cafe
+
+Wherever your people watching may take you, may your soul find solace
