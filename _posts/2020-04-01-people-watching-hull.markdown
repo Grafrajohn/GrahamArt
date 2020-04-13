@@ -37,8 +37,7 @@ In Hull you might see more tourists than you expect especially around places suc
 
 Nothing creates the ideal mood for people watching like an English bacon sarnie. The traditional flavoursome delicacy with a cup of tea or coffee creates an additional sensory delight to the people watching experience.
 
-{% include image.html file="https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1585301087/blog/B5AF2396-7490-46F8-92B8-BADC40D427DE.jpg" description="Coffee and cake - the ideal accessories for people watching" %}
-![Local people in Hull make for good people watching](https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1585740493/blog/2017-11-28_12-59-34_513.jpg){: .img-fluid}
+{% include image.html file="https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1585740493/blog/2017-11-28_12-59-34_513.jpg" description="The House of Fraser - once offered premium people watching in Hull" %}
 
 Sadly the people watching potential of Hull was greatly diminished when House of Fraser closed its doors in 2019. This venue had arguably the best people watching spot in Hull - its venerable Cafe Nero, where a range of coffees and additional succulent delights could be purchased. 
 
