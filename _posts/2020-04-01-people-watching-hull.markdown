@@ -66,4 +66,4 @@ On the positive side, there are still many good people watching venues in Hull. 
 * Any of the cafes at the railway station. Personally I prefer Starbucks
 * Robbie Johnson's Cafe
 
-Wherever your people watching may take you, may your soul find solace
+Wherever your people watching may take you, may your soul find peace
