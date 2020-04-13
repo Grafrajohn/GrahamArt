@@ -1,7 +1,7 @@
 ---
 title: During the coronavirus lockdown I'm nostalgic for people watching in Hull
 date: {}
-published: false
+published: true
 categories:
   - hull
   - coronavirus
