@@ -33,8 +33,7 @@ Never underestimate the value of a city's sidestreets for people watching. Here 
 
 In Hull you might see more tourists than you expect especially around places such as the Ferens Gallery and Maritime Museum. But in other places you'll see fewer tourists. For me the people watching fascination is with the people of Hull themselves. 
 
-{% include image.html file="https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1585301087/blog/B5AF2396-7490-46F8-92B8-BADC40D427DE.jpg" description="Coffee and cake - the ideal accessories for people watching" %}
-![A bacon sarnie puts the viewer in the ideal mood for people watching](https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1585740468/blog/2017-09-01_13-01-39_412.jpg){: .img-fluid}
+{% include image.html file="https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1585740468/blog/2017-09-01_13-01-39_412.jpg" description="A bacon sarnie puts the viewer in the ideal mood for people watching" %}
 
 Nothing creates the ideal mood for people watching like an English bacon sarnie. The traditional flavoursome delicacy with a cup of tea or coffee creates an additional sensory delight to the people watching experience.
 
