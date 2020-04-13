@@ -1,15 +1,18 @@
 ---
 title: During the coronavirus lockdown I'm nostalgic for people watching in Hull
-date: 2020-04-01 00:00:00 Z
+date: {}
 published: false
 categories:
-- hull
-- coronavirus
-description: As we endure the corona virus lockdown I'm nostalgic for the art of people
+  - hull
+  - coronavirus
+description: >-
+  As we endure the corona virus lockdown I'm nostalgic for the art of people
   watching in Hull
-introduction: With the city of Hull closed in the wake of the corona virus pandemic,
-  are we nostalgic for the pleasures of city life?
-image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1585740487/blog/2017-11-27_12-48-51_016.jpg
+introduction: >-
+  With the city of Hull closed in the wake of the corona virus pandemic, are we
+  nostalgic for the pleasures of city life?
+image: >-
+  https://res.cloudinary.com/dtn9ari2r/image/upload/v1585740487/blog/2017-11-27_12-48-51_016.jpg
 alt-image: People watching in Hull
 layout: post-quick
 ---
@@ -18,7 +21,7 @@ As the coronavirus lockdown continues may of us are feeling the stress from not 
 
 First off you need to accessorise yourself for people watching. Ideal accessories are coffee and cake. Fortunately Hull is well provided with places which can provide this in a comfortable setting by next to a window.
 
-![Coffee and cake - the ideal accessories for people watching](https://res.cloudinary.com/dtn9ari2r/image/upload/v1585301087/blog/B5AF2396-7490-46F8-92B8-BADC40D427DE.jpg){: .img-fluid}
+![Coffee and cake - the ideal accessories for people watching](https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1585301087/blog/B5AF2396-7490-46F8-92B8-BADC40D427DE.jpg){: .img-fluid}
 
 For people watchers the ideal cafe must be well located. There is not much point in visiting a cafe where you cannot see anything. Of course what you want to see depends on yourself. For example in Italian cafes I visited in Rome, Florence and Venice I saw more tourists than anything else. It is funny how tourists look and behave similarly, with their glazed 'Oh no not more history' look, their over-specced cameras and pointless hats.
 
