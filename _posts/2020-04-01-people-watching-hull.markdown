@@ -21,11 +21,13 @@ As the coronavirus lockdown continues may of us are feeling the stress from not 
 
 First off you need to accessorise yourself for people watching. Ideal accessories are coffee and cake. Fortunately Hull is well provided with places which can provide this in a comfortable setting by next to a window.
 
-![Coffee and cake - the ideal accessories for people watching](https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1585301087/blog/B5AF2396-7490-46F8-92B8-BADC40D427DE.jpg){: .img-fluid}
+{% include image.html file="https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1585301087/blog/B5AF2396-7490-46F8-92B8-BADC40D427DE.jpg" description="Coffee and cake - the ideal accessories for people watching" %}
 
 For people watchers the ideal cafe must be well located. There is not much point in visiting a cafe where you cannot see anything. Of course what you want to see depends on yourself. For example in Italian cafes I visited in Rome, Florence and Venice I saw more tourists than anything else. It is funny how tourists look and behave similarly, with their glazed 'Oh no not more history' look, their over-specced cameras and pointless hats.
 
 ![Ideal location of a people watching venue - good view of thoroughfares](https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1585740485/blog/2017-09-14_13-05-43_833.jpg){: .img-fluid}
+
+Never underestimate the value of a city's sidestreets for people watching. Here you will see 
 
 ![Local people in Hull make for good people watching](https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1585740480/blog/2017-10-06_13-11-37_158.jpg){: .img-fluid}
 
