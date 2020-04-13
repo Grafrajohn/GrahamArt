@@ -31,15 +31,13 @@ For people watchers the ideal cafe must be well located. There is not much point
 
 In Hull you might see more tourists than you expect especially around places such as the Ferens Gallery and Maritime Museum. But in other places you'll see fewer tourists. For me the people watching fascination is with the people of Hull themselves. 
 
-
-
 ![A bacon sarnie puts the viewer in the ideal mood for people watching](https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1585740468/blog/2017-09-01_13-01-39_412.jpg){: .img-fluid}
 
 Nothing creates the ideal mood for people watching like an English bacon sarnie. The traditional flavoursome delicacy with a cup of tea or coffee creates an additional sensory delight to the people watching experience.
 
 ![Local people in Hull make for good people watching](https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1585740493/blog/2017-11-28_12-59-34_513.jpg){: .img-fluid}
 
-Sadly the people watching potential of Hull was greatly diminished when House of Fraser closed its doors in 2019. This venue has arguably the best people watching spot in Hull - its venerable Cafe Nero, where a range of coffees and aditional succulent delights could be purchased. 
+Sadly the people watching potential of Hull was greatly diminished when House of Fraser closed its doors in 2019. This venue had arguably the best people watching spot in Hull - its venerable Cafe Nero, where a range of coffees and additional succulent delights could be purchased. 
 
 
 
