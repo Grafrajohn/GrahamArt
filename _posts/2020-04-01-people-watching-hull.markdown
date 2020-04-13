@@ -12,7 +12,7 @@ introduction: >-
   With the city of Hull closed in the wake of the corona virus pandemic, are we
   nostalgic for the pleasures of city life?
 image: >-
-  https://res.cloudinary.com/dtn9ari2r/image/upload/v1585740487/blog/2017-11-27_12-48-51_016.jpg
+  https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1585740487/blog/2017-11-27_12-48-51_016.jpg
 alt-image: People watching in Hull
 layout: post-quick
 ---
