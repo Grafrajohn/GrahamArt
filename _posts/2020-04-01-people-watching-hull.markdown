@@ -1,12 +1,12 @@
 ---
 title: During the coronavirus lockdown I'm nostalgic for people watching in Hull
-date: {}
+date: 2020-04-01T00:00:00.000Z
 published: true
 categories:
   - hull
   - coronavirus
 description: >-
-  As we endure the corona virus lockdown I'm nostalgic for the art of people
+  As we endure the corona virus lockdown I''m nostalgic for the art of people
   watching in Hull
 introduction: >-
   With the city of Hull closed in the wake of the corona virus pandemic, are we
