@@ -50,7 +50,7 @@ A good venue may be situated in a district of interest in any town or city. As a
 
 {% include image.html url="https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1585740480/blog/2017-10-06_13-11-37_158.jpg" description="Local people in Hull make for good people watching" %}
 
-
+The activity of people watching must be appraoched in the correct frame of mind, otherwise the overall experience will be marred. Stress, worry, sadness are all unwelcome causes of the type of preoccupation which can hinder the people watchers ability to take in what he or she observes. Indeed people watching is similar to meditation in that it takes those who practise it to a higher spiritual plane, and thus provides solace and comfort to the soul. 
 
 {% include image.html url="https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1585740493/blog/2017-11-28_12-59-34_513.jpg" description="The House of Fraser - once offered premium people watching in Hull" %}
 
