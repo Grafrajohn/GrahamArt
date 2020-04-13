@@ -42,13 +42,13 @@ Having located an  ideal venue, one needs to accessorise oneself for people watc
 
 {% include image.html url="https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1585301087/blog/B5AF2396-7490-46F8-92B8-BADC40D427DE.jpg" description="Coffee and cake - the ideal accessories for people watching" %}
 
+A sturdier foodstuff might be the traditional English bacon sarnie. I find this to be an ideal accompaniment to lunchtime people watching.
+
+{% include image.html url="https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1585740468/blog/2017-09-01_13-01-39_412.jpg" description="A bacon sarnie puts the viewer in the ideal mood for people watching" %}
+
 A good venue may be situated in a district of interest in any town or city. As a boy I would people watch in a local fish market, which was almost a education in itself. Often a quiet city sidestreet can provide rich people watching opportunity. 
 
 {% include image.html url="https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1585740480/blog/2017-10-06_13-11-37_158.jpg" description="Local people in Hull make for good people watching" %}
-
- 
-
-{% include image.html url="https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1585740468/blog/2017-09-01_13-01-39_412.jpg" description="A bacon sarnie puts the viewer in the ideal mood for people watching" %}
 
 Nothing creates the ideal mood for people watching like an English bacon sarnie. The traditional flavoursome delicacy with a cup of tea or coffee creates an additional sensory delight to the people watching experience.
 
