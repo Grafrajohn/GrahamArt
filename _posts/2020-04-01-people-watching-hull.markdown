@@ -33,6 +33,6 @@ In Hull you might see more tourists than you expect especially around places suc
 
 ![Local people in Hull make for good people watching](https://res.cloudinary.com/dtn9ari2r/image/upload/v1585740484/blog/2017-09-15_13-19-00_204.jpg){: .img-fluid}
 
-![Local people in Hull make for good people watching](https://res.cloudinary.com/dtn9ari2r/image/upload/v1585740468/blog/2017-09-01_13-01-39_412.jpg){: .img-fluid}
+![Local people in Hull make for good people watching](https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1585740493/blog/2017-11-28_12-59-34_513.jpg){: .img-fluid}
 
 
