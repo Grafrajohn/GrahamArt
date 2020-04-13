@@ -17,21 +17,36 @@ alt-image: People watching in Hull
 layout: post-quick
 ---
 
-As the coronavirus lockdown continues may of us are feeling the stress from not being able to visit the public places we enjoy. Many of us in East Yorkshire are already nostalgic for the bustle of the city of Hull. So with that in mind, here are my reflections on the art of people watching in the city.
+As the coronavirus lockdown continues may of us are feeling the stress from not being able to visit the public places we enjoy. I am sure that many of us in East Yorkshire are already nostalgic for the bustle of the city of Hull. So with that in mind, here are my reflections on the art of people-watching in the city.
 
-First off you need to accessorise yourself for people watching. Ideal accessories are coffee and cake. Fortunately Hull is well provided with places which can provide this in a comfortable setting by next to a window.
+What do we mean by people watching? I would say it is the pleasant pastime of watching one's fellow citizens as they go about their various activities, both business and pleasure. One can observe changing fashions, the evolving cultural composition of society, and the general great tapestry of life, to name just a few of the fascinations. This activity enriches the soul by allowing us to be aware of the nature of the society we live in, and the nature of life for our fellow beings.
 
-{% include image.html url="https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1585301087/blog/B5AF2396-7490-46F8-92B8-BADC40D427DE.jpg" description="Coffee and cake - the ideal accessories for people watching" %}
+From where do we actually do our people watching? First off, the ideal venue must be well located. There is not much point in visiting a venue where you cannot see anything or anyone. Of course what you want to see in your people watching depends on yourself.
 
-For people watchers the ideal cafe must be well located. There is not much point in visiting a cafe where you cannot see anything. Of course what you want to see depends on yourself. For example in Italian cafes I visited in Rome, Florence and Venice I saw more tourists than anything else. It is funny how tourists look and behave similarly, with their glazed 'Oh no not more history' look, their over-specced cameras and pointless hats.
+For example in Italian cafes I visited in Rome, Florence and Venice I saw more tourists than anything else. It is funny how tourists look and behave similarly, with their glazed 'Oh no not more history' look, their over-specced cameras and pointless hats.
+
+In Hull you might see more tourists than you expect especially around places such as the Ferens Gallery and Maritime Museum. But in other places you'll see fewer tourists. For me the people watching fascination is with the people of Hull themselves.
+
+So what features in the ideal people watching venue? I would suggest the following:
+
+* good overall location - near busy pedestrian thoroughfares
+* good specific location near the kind of people and culture you like to observe
+* comfortable seats to sit in
+* optional availability of food and beverages
+* quietness in order not to disrupt the essential musing
+* good windows to maximise observational potential
 
 {% include image.html url="https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1585740485/blog/2017-09-14_13-05-43_833.jpg" description="Ideal location of a people watching venue - good view of thoroughfares" %}
 
-Never underestimate the value of a city's sidestreets for people watching. Here you will see 
+Having located an  ideal venue, one needs to accessorise oneself for people watching. Ideal accessories are dependent on taste, but for me always include coffee and cake. Fortunately Hull is well served with places which can provide these in a comfortable and peaceful setting next to a good window.
+
+{% include image.html url="https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1585301087/blog/B5AF2396-7490-46F8-92B8-BADC40D427DE.jpg" description="Coffee and cake - the ideal accessories for people watching" %}
+
+A good venue may be situated in a district of interest in any town or city. As a boy I would people watch in a local fish market, which was almost a education in itself.  
 
 {% include image.html url="https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1585740480/blog/2017-10-06_13-11-37_158.jpg" description="Local people in Hull make for good people watching" %}
 
-In Hull you might see more tourists than you expect especially around places such as the Ferens Gallery and Maritime Museum. But in other places you'll see fewer tourists. For me the people watching fascination is with the people of Hull themselves. 
+ 
 
 {% include image.html url="https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1585740468/blog/2017-09-01_13-01-39_412.jpg" description="A bacon sarnie puts the viewer in the ideal mood for people watching" %}
 
