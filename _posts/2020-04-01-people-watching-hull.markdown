@@ -31,7 +31,7 @@ In Hull you might see more tourists than you expect especially around places suc
 
 ![Local people in Hull make for good people watching](https://res.cloudinary.com/dtn9ari2r/image/upload/v1585740487/blog/2017-11-27_12-48-51_016.jpg){: .img-fluid}
 
-![A bacon sarnie puts the viewer in the ideal mood for people watching](https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1585740493/blog/2017-11-28_12-59-34_513.jpg){: .img-fluid}
+![A bacon sarnie puts the viewer in the ideal mood for people watching](https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1585740468/blog/2017-09-01_13-01-39_412.jpg){: .img-fluid}
 
 Nothing creates the ideal mood for people watching like an English bacon sarnie. The traditional flavoursome delicacy with a cup of tea or coffee creates an additional sensory delight to the people watching experience.
 
