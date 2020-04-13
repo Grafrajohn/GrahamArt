@@ -23,6 +23,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  pages:
+    title: Pages
+    output: false
   watercolour_thumbnails:
     title: Watercolour Thumbnails
     output: false
