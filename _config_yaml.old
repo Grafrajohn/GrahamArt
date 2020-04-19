@@ -28,7 +28,8 @@ collections:
   posts:
     permalink: blog/:categories/:year/:month/:day/:title/
   category:
-    output: true    
+    output: true 
+  pages:
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
 url: https://www.grahamart.com
