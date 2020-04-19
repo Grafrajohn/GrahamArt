@@ -19,7 +19,7 @@ Canaletto lived from 1697 to 1768. He was born and made his reputation in Venice
 
 Canaletto differed from his contemporaries in several ways. He often painted outdoors from life, instead of in the studio as was the norm at the time. He also showed a lot of interest in the places and lives of ordinary people, and in addition to being very beautiful his paintings have a historical documentary value. Canaletto anticipated Impressionism in some of his lively brushwork, and his pictures are in many ways peerless.
 
-{% include image.html url="https://en.wikipedia.org/wiki/Canaletto#/media/File:Canaletto_-_The_Stonemason's_Yard.jpg" description="Canaletto's picture of a Venetian stonemason's yard (Courtesy Wikipedia)" %}
+{% include image.html url="https://res.cloudinary.com/dtn9ari2r/image/upload/v1587321887/blog/1920px-Canaletto_-_The_Stonemason_s_Yard.jpg" description="Canaletto's picture of a Venetian stonemason's yard (Courtesy Wikipedia)" %}
 
 The British aristocracy and merchant classes loved Canaletto's work and he painted many famous houses and landmarks of the United Kingdon to include Northumberland House, Westminster Bridge, Alnwick Castle and Warwick Castle.
 
