@@ -24,21 +24,32 @@ We must first discuss the definition of art, a problem which has taxed philosoph
 
 This definition distinguishes art from things which are aesthetically pleasing but which have a purpose, such as furniture or well-presented food. Or the British crown jewels, which are also aesthetically pleasing, but which were designed for the purpose of coronating and distinguishing the British monarch.
 
-However we soon run into trouble with the above definition of art. It excludes some forms of art such as dance music, which was created to give aesthetic pleasure but has the purpose of facilitating dancing. Also some religious art from the great churches of Europe was commissioned to educate the illiterate about the ways of God and Christ but it may not have been conceived to evoke aesthetic pleasure.
+However we soon run into trouble with the above definition of art. It excludes some forms of art such as dance music, which was created to give aesthetic pleasure but has the purpose of facilitating dancing. Also some religious art from the great churches of Europe was commissioned to educate the illiterate about the ways of God and Christ but it may not have been primarily conceived to evoke aesthetic pleasure.
 
-So let’s try again with our definition of art. If we just say that something was created primarily to give aesthetic pleasure, and may have no other purpose, is that enough? Maybe it is. Primarily is the key word here. Emanuel Kant, no slouch in philosophy, suggested that we abandon efforts to  reach a definition of art since artworks have so little in common that they defy a logical definition.
+So let’s try again with our definition of art. If we just say that art is:
+
+* created primarily to give aesthetic pleasure
+* may have no other purpose
+* may have had a purpose other than aesthetic but that purpose has been superseded by the beauty of the work
+* may sometimes have another secondary purpose
+
+Is that enough? Maybe it is. Primarily is the key word here. Emanuel Kant, no slouch in philosophy, suggested that we abandon efforts to  reach a definition of art since artworks have so little in common that they defy a logical definition. Wittgenstein similarly pointed out the futility of reaching an encompassing definition of art.
 
 ## Definition of Beauty
 
+There seems always to have been some agreement that beauty delights the senses and the opinions of most philosophers settled around this. There has also been a longstanding and fascinating debate as to how the mind and wider social and institutional values influence what is perceived as beautiful.
+
 ![Plato](https://res.cloudinary.com/dtn9ari2r/image/upload/v1582116590/blog/800px-Plato_Silanion_Musei_Capitolini_MC1377.jpg){:.img-fluid}
 
-Socrates and Plato thought that there was a deep underlying set of ideas and concepts which defined the world and which were appreciated by the mind. Plato thought that beauty did not come from these deeper concepts but was instead derived from the senses.
+Socrates and Plato thought that there was a deep underlying set of ideas and concepts which defined the world and which were appreciated by the mind, not the senses. Plato thought that beauty did not come from these deeper concepts but was instead derived from the senses.
 
-Later during the Renaissance Alberti suggested that beauty was harmony and perfection.
+Later during the Renaissance Alberti suggested that beauty was harmony and perfection with rules of mathematics and geometry defining the harmony. This harmony was often inspired by ancient Greek and Roman ideas on art and beauty.
 
 Later still during the Enlightenment Cooper suggested that beauty and truth were the same and this was innate to people. Hutcheson added that to appreciate beauty both the inner intellect and the senses work together.
 
-Surely it is true that appreciation of beauty involves the senses and the use of innate concepts  maybe planted in all of us by nature herself. Mysterious and unknowable.
+In the twentieth century thinkers such as Dewey decide that notions of beauty are socially derived and Dickie suggests that they are derived from the wisdom of our institutions.
+
+It is likely true that appreciation of beauty involves our senses and the use of innate concepts planted in all of us by nature herself or by society. But what forces would cause these concepts to form in society in the first place? Mysterious and unknowable.
 
 ## Is art good or bad?
 
@@ -50,11 +61,19 @@ In his “Poetics” Aristotle argued that art is cathartic and in this capacity
 
 It seems to me that when art does represent bad things, it either represents bad things which have already happened or forewarns us of bad things which could happen. Steven Spielberg’s “Schindlers’s List” did the former and George Orwell’s “1984” did the latter. Therefore this representation of the bad is not necessarily harmful. Even bad characters such as Shakespeare’s Falstaff remind and forewarn us of the criminal’s capacity for evil.
 
+The Nazis condemned and destroyed ‘degenerate’ art. But their definition of degenerate included virtually everyone who disagreed with them and some groups of people who would not be considered degenerate in the civil societies of the twenty-first century such as Jews, Gypsies, socialists and homosexuals. This raises the question of who decides what might be ‘good’ and ‘bad’ in art? Maybe it is best to let art be art, and make our own judgements.
+
+## Does nature express herself through art?
+
 Kant thought that through the artist, nature expressed herself. Since human beings are themselves a product of nature, this makes sense to me. This a profound idea and still potentially of great use in our modern world.
 
-In the twentieth century Dickey suggested that our notions of beauty are in fact socially derived more than from philosophical principle. Marxists and Freudians have also moved the appreciation of art away from the purely philosophical. Freud looked for repressed forces in the works of the great masters, and suggested that for example Leonardo was afraid of women. Marx suggested that Greek art was valued because of its origins in a simpler and in many ways better time before capitalism, and also because bourgeois collectors wish to inflate the value of rare Greek sculptures.
+## Modern philosophy of aesthetics
 
-The Nazis condemned and destroyed ‘degenerate’ art. But their definition of degenerate included  virtually everyone who disagreed with them and some groups of people who would not be considered degenerate in the civil societies of the twenty-first century such as Jews, Gypsies, socialists and homosexuals. This raises the question of who decides what might be ‘good’ and ‘bad’ in art? Maybe it is best to let art be art, and make our own judgements.
+In the twentieth century Dickie suggested that our notions of beauty are in fact socially derived more than from philosophical principle. 
+
+Marxists and Freudians have also moved the appreciation of art away from the purely philosophical. Freud looked for repressed forces in the works of the great masters, and suggested that for example Leonardo was afraid of women. Marx suggested that Greek art was valued because of its origins in a simpler and in many ways better time before capitalism, and also because bourgeois collectors wish to inflate the value of rare Greek sculptures.
+
+Since the middle of the twentieth century discussion of beauty was often absent from discussion of art, and conventional beauty was not considered to be a necessary attribute of the work of art.
 
 ## The subject in painting
 
