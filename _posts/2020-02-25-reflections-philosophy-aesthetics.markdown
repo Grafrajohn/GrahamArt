@@ -85,6 +85,10 @@ Since the middle of the twentieth century discussion of beauty was often absent 
 
 ![The tricky subject of the subject in painting](https://res.cloudinary.com/dtn9ari2r/image/upload/v1572463526/blog/DSC_0183.jpg){:.img-fluid}
 
-Recently I have been trying to grapple with the concept of the subject in painting, as it has been debated by modern philosophers. Lacan thought that children, aided by language and the concept of 'I' or 'me', form a false self-image early in life. This self-image is reinforced by contemporary culture and ideology which gives the individual a false sense of an independent self. Althusser adapted Lacan's ideas about self in his theory of ideology; ideology was derived from the same false sense of independence - but here from social and economic constraints. 
+Recently I have been trying to grapple with the concept of the subject in painting, as it has been debated by modern philosophers. 
+
+Foucault began this debate when he noticed that Renaissance paintings often presented the subject, such as a monarch, as the omnipresent centre of the scene. Raphael took this further in some of his pictures which used perspective to give the viewer the impression that they were part of, and could step into, some major event such as a debate between great philosophers or an important biblical event. This flattered Raphael's patrons who were of course religious leaders and aristocrats. The position of the viewer in relation to the painting by implication gave the impression to the viewer that they were master of the scene and even of the world.
+
+Lacan thought that children, aided by language and the concept of 'I' or 'me', form a false self-image early in life. This self-image is reinforced by contemporary culture and ideology which gives the individual a false sense of an independent self. Althusser adapted Lacan's ideas about self in his theory of ideology; ideology was derived from the same false sense of independence - but here from social and economic constraints. 
 
 In the context of art this is claimed to create alienation from what is real in life and art, and allow for the production of art which alienates and is often kitsch.
