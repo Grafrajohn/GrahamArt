@@ -81,8 +81,10 @@ Marxists and Freudians have also moved the appreciation of art away from the pur
 
 Since the middle of the twentieth century discussion of beauty was often absent from discussion of art, and conventional beauty was not considered to be a necessary attribute of the work of art.
 
-## The subject in painting
+## The subject in painting and modern aesthetic theory
 
 ![The tricky subject of the subject in painting](https://res.cloudinary.com/dtn9ari2r/image/upload/v1572463526/blog/DSC_0183.jpg){:.img-fluid}
 
-Recently I have been trying to grapple with the concept of the subject in painting, as it has been debated by modern philosophers. More of this when I have made some progress…
+Recently I have been trying to grapple with the concept of the subject in painting, as it has been debated by modern philosophers. Lacan thought that children, aided by language and the concept of 'I' or 'me', form a false self-image early in life. This self-image is reinforced by contemporary culture and ideology which gives the individual a false sense of an independent self. Althusser adapted Lacan's ideas about self in his theory of ideology; ideology was derived from the same false sense of independence - but here from social and economic constraints. 
+
+In the context of art this is claimed to create alienation from what is real in life and art, and allow for the production of art which alienates and is often kitsch.
