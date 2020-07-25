@@ -45,11 +45,15 @@ Socrates and Plato thought that there was a deep underlying set of ideas and con
 
 Later during the Renaissance Alberti suggested that beauty was harmony and perfection with rules of mathematics and geometry defining the harmony. This harmony was often inspired by ancient Greek and Roman ideas on art and beauty.
 
-Later still during the Enlightenment Cooper suggested that beauty and truth were the same and this was innate to people. Hutcheson added that to appreciate beauty both the inner intellect and the senses work together.
+Later still during the Enlightenment Anthony Cooper, Earl of Shaftesbury, suggested that beauty and truth were the same and this was innate to people. Hutcheson added that to appreciate beauty both the inner intellect and the senses work together.
 
 In the twentieth century thinkers such as Dewey decide that notions of beauty are socially derived and Dickie suggests that they are derived from the wisdom of our institutions.
 
-It is likely true that appreciation of beauty involves our senses and the use of innate concepts planted in all of us by nature herself or by society. But what forces would cause these concepts to form in society in the first place? Mysterious and unknowable.
+It is likely true that appreciation of beauty involves our senses and the use of innate concepts planted in all of us by nature herself or by society. But what forces would cause these concepts to form in society in the first place? Mysterious and unknowable? Or simply the dominant thinking of the time?
+
+It is apparent that each age is accompanied by an ideology which either determines the nature of that age as Hegel suggested, or is determined by the social and economic interests which are created in turn by the material conditions of the means of production, as Marx thought. The very fact that most art of the Renaissance period was commissioned by wealthy religious or aristocratic patrons tells us a lot about the ideology of those times and who dominated. Obviously artists had to conform to the expected moral and social standards, which amongst other things determined the dominant notions of beauty. On the other hand the art of Andy Warhol emerged from counter-culture galleries in New York - a paradoxical combination of on the one hand capitalism and its commercialised culture and on the other hand a simultaneous reaction against it. Pop Art seemed to be at odds with the previous art movement of abstract expressionism.
+
+In the post-modern era in which we now live some argue that there is no dominant cultural narrative; there are instead a number of quite different narratives which tend to reflect the economic, social and lifestyle interests of those who follow them. In the post-modern era is anything and everything beautiful or has beauty itself become a redundant concept in art?
 
 ## Is art good or bad?
 
@@ -63,9 +67,11 @@ It seems to me that when art does represent bad things, it either represents bad
 
 The Nazis condemned and destroyed ‘degenerate’ art. But their definition of degenerate included virtually everyone who disagreed with them and some groups of people who would not be considered degenerate in the civil societies of the twenty-first century such as Jews, Gypsies, socialists and homosexuals. This raises the question of who decides what might be ‘good’ and ‘bad’ in art? Maybe it is best to let art be art, and make our own judgements.
 
+There does seem to be a consensus that art which lies or deceives is inferior art, and that art which holds a window to some truth whether trivial or profound, is superior art. Cooper was maybe right; good art does seem to bear a relationship to truth. 'Alternative' art presents a version of truth which may conflict with the mainstream version of truth, so of course we can then ask what is the truth? In their book 'The Social Construction of Reality' Berger and Luckmann point out that truth or reality may itself be socially constructed. So when deciding which art is good and true, who defines what the 'truth' is. Is there some innate character to the soul which allows us all, as human beings, to know what truth is? To think this would be to say that Josef Stalin and Jesus of Nazareth both held in their minds a common set of truths. Difficult isn't it? After reflection it still seems to me that most people across cultures might be able to recognise certain basic human truths and that art might often reflect these truths.
+
 ## Does nature express herself through art?
 
-Kant thought that through the artist, nature expressed herself. Since human beings are themselves a product of nature, this makes sense to me. This a profound idea and still potentially of great use in our modern world.
+Kant thought that through the artist, nature expressed herself. Since human beings are themselves a product of nature, this makes sense to me. This a profound idea and still potentially of great use in our modern world. For example it may be that as our society and its underlying technologies become more complicated, and social and economic change take us further from the simple tribal life in which we evolved, the apparent chaos of modern art might be the reaction of artists to a society in which our souls feel constrained. Modern art might be a primal scream against the increasingly complex world we are building.
 
 ## Modern philosophy of aesthetics
 
