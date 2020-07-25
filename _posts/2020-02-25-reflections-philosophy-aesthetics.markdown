@@ -47,6 +47,8 @@ Later during the Renaissance Alberti suggested that beauty was harmony and perfe
 
 Later still during the Enlightenment Anthony Cooper, Earl of Shaftesbury, suggested that beauty and truth were the same and this was innate to people. Hutcheson added that to appreciate beauty both the inner intellect and the senses work together.
 
+Kant was the first philosopher to break with the idea that beauty can be defined objectively; he suggested that beauty was a subjective appreciation. 
+
 In the twentieth century thinkers such as Dewey decide that notions of beauty are socially derived and Dickie suggests that they are derived from the wisdom of our institutions.
 
 It is likely true that appreciation of beauty involves our senses and the use of innate concepts planted in all of us by nature herself or by society. But what forces would cause these concepts to form in society in the first place? Mysterious and unknowable? Or simply the dominant thinking of the time?
