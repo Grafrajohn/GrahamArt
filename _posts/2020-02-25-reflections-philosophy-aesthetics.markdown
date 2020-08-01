@@ -6,7 +6,7 @@ categories:
 - art
 layout: post-quick
 description: Reflections on the philosophy of aesthetics
-introduction: For over two thousand yers philosophers have asked the question - what
+introduction: For over two thousand years philosophers have asked the question - what
   is art? Here are my reflections on this debate.
 image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1583273033/blog/96E6718D-CE5A-4D47-A191-8FFB7788BFC0.jpg
 ---
