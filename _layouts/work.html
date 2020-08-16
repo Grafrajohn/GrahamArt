@@ -20,7 +20,7 @@ layout: default
       <p>{{ page.artistnote2 }}</p>
       <p>{{ page.artistnote3 }}</p>
       <h2 class="h2-smaller">Further Information</h2>
-      <p>{% if page.link-text %}{{ page.link-text }}{% else %}For further information {% endif %} <a href="{{ page.link-info }}" target="_blank">click here</a> (opens a new browser window)</p>
+      <p>For further information <a href="{{ page.link-info }}" target="_blank">{{ page.link-text }}</a> (opens a new browser window)</p>
       {% if page.sale-url %}
       <p>
         To support my work you can buy a print or other merchandise based on this painting, and have it delivered to you! Visit my retailer - 
