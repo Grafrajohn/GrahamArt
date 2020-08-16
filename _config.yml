@@ -17,6 +17,7 @@ collections:
   posts:
     title: Posts
     output: true
+    permalink: blog/:categories/:year/:month/:day/:title/
   print_thumbnails:
     title: Print Thumbnails
     output: false
