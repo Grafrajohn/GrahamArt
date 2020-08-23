@@ -20,18 +20,17 @@ We must first discuss the definition of art, a problem which has taxed philosoph
   * is created to evoke aesthetic pleasure
   * has no other purpose
 
-This definition distinguishes art from things which are aesthetically pleasing but which have a purpose, such as furniture or well-presented food. Or the British crown jewels, which are also aesthetically pleasing, but which were designed for the purpose of coronating and distinguishing the British monarch.
+This definition distinguishes art from things which are aesthetically pleasing but which have a purpose, such as furniture or well-presented food. Or the British crown jewels, which are also aesthetically pleasing, but which were designed for the purpose of coronating and distinguishing the British monarch. Adding aethetically pleasing elements to prctical items is called decorative art.
 
 ![Philosophy of aesthetics](https://res.cloudinary.com/dtn9ari2r/image/upload/v1583272469/blog/Crown_Jewels_of_the_United_Kingdom_1952-12-13_1.jpg){:.img-fluid}
 
 However we soon run into trouble with the above definition of art. It excludes some forms of art such as dance music, which is created to give aesthetic pleasure but has as possibly its primary purpose the facilitation of dancing. Also some religious art from the great churches of Europe was commissioned to educate the illiterate about the ways of God and Christ and may not have been primarily conceived to evoke aesthetic pleasure.
 
-So let’s try again with our definition of art. If we just say that art is:
+So let’s try again with our definition of art. If we just say that art is that which:
 
-* created primarily to give aesthetic pleasure, or
-* may have had a purpose other than aesthetic but that purpose has been superseded by the beauty of the work
-
-* may have no other purpose
+* is created primarily to give aesthetic pleasure, or
+* may originally have had a purpose other than aesthetic but that purpose has been superseded by the aesthetics of the work so it now primarily gives aesthetic pleasure
+* usually has no other purpose
 * may sometimes have another secondary purpose
 
 Is that enough? Maybe it is. Primarily is the key word here. Emanuel Kant, no slouch in philosophy, suggested that we abandon efforts to reach a definition of art since artworks have so little in common that they defy a logical definition. Wittgenstein similarly pointed out the futility of reaching an encompassing definition of art.
