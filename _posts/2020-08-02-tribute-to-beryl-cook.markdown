@@ -13,14 +13,11 @@ alt-image: Beryl Cook's paintings were memorable and life-affirming
 layout: post-quick
 ---
 
-As the coronavirus lockdown continues may of us are feeling the stress from not being able to visit the public places we enjoy. Many of us in East Yorkshire are already nostalgic for the bustle of the city of Hull. So with that in mind, here are my reflections on the art of people watching in the city.
+Years ago I remember seeing a TV programme about a middle aged woman who had begun painting as a hobby, and had become renowned as a painter with an interesting and instantly recongisable style. Her name was Beryl Cook and her work soon regularly featured in the British National Portrait Gallery in London.
 
-First off you need to accessorise yourself for people watching. Ideal accessories are coffee and cake. Fortunately Hull is well provided with places which can provide this in a comfortable setting by next to a window.
 
 {% include image.html url="/images/bird.jpg" description="Bird" %}
 
-For people watchers the ideal cafe must be well located. There is not much point in visiting a cafe where you cannot see anything. Of course what you want to see depends on yourself. For example in Italian cafes I visited in Rome, Florence and Venice I saw more tourists than anything else. It is funny how tourists look and behave similarly, with their glazed 'Oh no not more history' look, their over-specced cameras and pointless hats.
 
-In Hull you might see more tourists than you expect especially around places such as the Ferens Gallery and Maritime Museum. But in other places you'll see fewer tourists. For me the people watching fascination is with the people of Hull themselves. 
 
 {% include image.html url="/images/bird.jpg" description="Bird" %}
