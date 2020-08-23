@@ -1,19 +1,24 @@
 ---
 title: Is painting an intellectual or manual pursuit?
 date: 2020-08-23 21:14:00 Z
-published: false
+published: true
 categories:
 - painting
 - fine-art
 description: Is painting an intellectual or a manual pursuit?
 introduction: Recently I wondered if painting is in fact a combination of the intellectual and the manual and began to read about this in works of philosophy and art history.
-image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1598215824/blog/Leon_Battista_Alberti_2.jpghttps://res.cloudinary.com/dtn9ari2r/image/upload/v1585740487/blog/2017-11-27_12-48-51_016.jpg
+image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1598215824/blog/Leon_Battista_Alberti_2.jpg
 alt-image: Alberti: Renaissance man and art thinker
 layout: post-quick
 ---
 
-Years ago I remember seeing a TV programme about a middle aged woman who had begun painting as a hobby, and had become renowned as a painter with an interesting and instantly recongisable style. Her name was Beryl Cook and her work soon regularly featured in the British National Portrait Gallery in London.
+As far as we know Leon Battista Alberti wrote the first theoretical book on painting. It seems he had the intention of raising painting to the same lofty status as music and poetry. At the time he wrote his famous book or treatise, 1435, painting was seen as a manual craft such as carpentry.
 
+Alberti thought that the painter needed to create a good painting as follows:
+
+* Create a convincing three-dimensional space in the picture
+* Model light and shadow to create bodies that look three-dimensional
+* Place figures in various poses to create a compelling narrative
 
 {% include image.html url="/images/bird.jpg" description="Bird" %}
 
