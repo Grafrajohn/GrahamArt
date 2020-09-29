@@ -43,7 +43,7 @@ There seems always to have been some agreement that beauty delights the senses a
 
 ![Plato](https://res.cloudinary.com/dtn9ari2r/image/upload/v1582116590/blog/800px-Plato_Silanion_Musei_Capitolini_MC1377.jpg){:.img-fluid}
 
-Socrates and Plato thought that there was a deep underlying set of ideas and concepts which defined the world and which were appreciated by the mind, not the senses. Plato thought that beauty did not originate in these deeper concepts but was instead derived from the senses.
+Socrates and Plato thought that there was a deep underlying set of ideas and concepts which defined the world and which were appreciated by the mind, not the senses. Plato thought that beauty did not originate in these deeper concepts but was instead derived from the senses working in conjunction with them.
 
 Later during the Renaissance Alberti suggested that beauty was harmony and perfection with rules of mathematics and geometry defining the harmony. This harmony was often inspired by ancient Greek and Roman ideas on art and beauty.
 
@@ -57,9 +57,13 @@ It is likely true that appreciation of beauty involves our senses and the use of
 
 It is apparent that each age is accompanied by an ideology which either determines the nature of that age as Hegel suggested, or is determined by the social and economic interests which are created in turn by the material conditions of the means of production, as Marx thought. The very fact that most art of the Renaissance period was commissioned by wealthy religious or aristocratic patrons tells us a lot about the ideology of those times and who dominated. Obviously artists had to conform to the expected moral and social standards, which amongst other things determined the dominant notions of beauty. 
 
-On the other hand the art of Andy Warhol emerged from counter-culture galleries in New York - a paradoxical combination of on the one hand capitalism and its commercialised culture and on the other hand a simultaneous reaction against it. Pop Art seemed to be at odds with the previous art movement of abstract expressionism, which was ironically backed by the CIA in its role of protector of the capitalist free enterprise system.
+In the twentieth century modern art challenged conventional notions of beauty and reflected the views of philosophers that traditional notions of art were collapsing. Picasso's Cubism and de Koonig and others' Abstract Expressionism in particular made public and intellectuals alike re-evaluate art. Was beauty now an outmoded concept? Many thought so.
 
-In the post-modern era in which we now live some argue that there is no dominant cultural narrative; there are instead a number of quite different narratives which tend to reflect the economic, social and lifestyle interests of those who follow them. In the post-modern era is anything and everything beautiful or has beauty itself become a redundant concept in art?
+In the 1960s the art of Andy Warhol emerged from counter-culture galleries in New York - a paradoxical combination of on the one hand capitalism and its commercialised culture and on the other hand, supposedly, a simultaneous reaction against it. Pop Art seemed to be at odds with the previous art movement of abstract expressionism, which was ironically backed by the CIA in its role of protector of the free enterprise system. Pop Art seemed to try and make the ordinary beautiful - a can of soup or a page from a comic book. In some ways it succeeded in forcing a re-evaluation of beauty. It also gave many people a lot of fun and often hinted that some of the art of the time had become too self-obsessed and humourless. 
+
+In the post-modern era in which we now live some argue that there is no dominant cultural narrative; there are instead a number of quite different narratives which tend to reflect the economic, social and lifestyle interests of those who follow them. Therefore in post-modernism is anything and everything beautiful or has beauty itself become a relative and incidental concept in art?
+
+Some philosophers such as Roger Scruton insist that beauty is still important in aesthetics. Maybe a little beauty now and again does no harm and if anything goes, then beauty in works of art has as much right to exist as anything else. 
 
 ## Is art good or bad?
 
@@ -69,15 +73,15 @@ Plato famously thought that art was bad because artists represented things that 
 
 In his “Poetics” Aristotle argued that art is cathartic and in this capacity enables us to safely consider unpalatable things.
 
-It seems to me that when art does represent bad things, it either represents bad things which have already happened or forewarns us of bad things which could happen. Steven Spielberg’s “Schindlers’s List” did the former and George Orwell’s “1984” did the latter. Therefore this representation of the bad is not necessarily harmful. Even bad characters such as Shakespeare’s Falstaff remind and forewarn us of the criminal’s capacity for evil.
+Perhaps when art does represent bad things, it either represents bad things which have already happened or forewarns us of bad things which could happen. Steven Spielberg’s “Schindlers’s List” did the former and George Orwell’s “1984” did the latter. Therefore this representation of the bad is not necessarily harmful. Even bad characters such as Shakespeare’s Falstaff remind and forewarn us of the criminal’s capacity for evil.
 
-The Nazis condemned and destroyed ‘degenerate’ art. But their definition of degenerate included virtually everyone who disagreed with them and some groups of people who would not be considered degenerate in the civil societies of the twenty-first century such as Jews, Gypsies, socialists and homosexuals. This raises the question of who decides what might be ‘good’ and ‘bad’ in art? Maybe it is best to let art be art, and make our own judgements.
+The Nazis condemned and destroyed ‘degenerate’ art. But their definition of degenerate included virtually everyone who disagreed with them and some groups of people who would not be considered degenerate in the civil societies of the twenty-first century such as Jews, Gypsies, socialists and homosexuals. This raises the question of who decides what might be ‘good’ and ‘bad’ in art? Maybe it is best to let art be art, and make our own personal judgements.
 
 There does seem to be a longstanding consensus that art which lies or deceives is inferior art, and that art which holds a window to some truth whether trivial or profound, is superior art. Cooper was maybe right; good art does seem to bear a relationship to truth. 'Alternative' art presents a version of truth which may conflict with the mainstream version of truth, so of course we can then ask what is the truth? In their book 'The Social Construction of Reality' Berger and Luckmann point out that truth or reality may itself be socially constructed. So when deciding which art is good and true, who decides what 'true' is and how. Is there some innate nature of the soul which allows us all, as human beings, to know what truth is? To think this would be to say that Josef Stalin and Jesus of Nazareth both held in their minds a common set of truths. Difficult isn't it? After reflection it still seems to me that most people across cultures might be able to recognise certain basic human and cross-cultural truths and that 'good' art might often reflect these truths.
 
 ## Does nature express herself through art?
 
-Kant thought that through the artist, nature expressed herself. Since human beings are themselves a product of nature, this makes sense to me. This is a profound idea and still potentially of great use in our modern world. For example it may be that as our society and its underlying technologies become more complicated, and social and economic change take us further from the simple tribal life in which we evolved, the apparent chaos of modern art might be the reaction of artists to a society in which our souls feel constrained. Modern art might be a primal scream against the increasingly constricting world we are building.
+Kant thought that through the artist, nature expressed herself. Since human beings are themselves a product of nature, this makes sense. This is a profound idea and still potentially of great use in our modern world. For example it may be that as our society and its underlying technologies become more complicated, and social and economic change takes us further from the simple tribal life in which we evolved, the apparent chaos of modern art might be the reaction of artists to a society in which our souls feel constrained. Modern art might be a primal scream against the increasingly constricting world we are building.
 
 ## Modern philosophy of aesthetics
 
@@ -91,7 +95,7 @@ Since the middle of the twentieth century discussion of beauty was often absent 
 
 ![The tricky subject of the subject in painting](https://res.cloudinary.com/dtn9ari2r/image/upload/v1572463526/blog/DSC_0183.jpg){:.img-fluid}
 
-Recently I have been trying to grapple with the concept of the subject in painting, as it has been debated by modern philosophers. 
+Recently aestheticians have been trying to grapple with the concept of the subject in painting, as it has been debated by modern continental philosophers. 
 
 Foucault began this debate when he noticed that Renaissance paintings often presented the subject, such as a monarch, as the omnipresent centre of the scene. One thinks of portraits of Henry VIII. Raphael took this further in some of his pictures which used perspective to give the viewer the impression that they were part of, and could step into, some major event such as a debate between great philosophers or an important biblical event. This flattered Raphael's patrons who were of course religious leaders and aristocrats. The position of the viewer in relation to the painting by implication gave the impression to the viewer that they were master of the scene and even by extension of the world.
 
@@ -99,4 +103,4 @@ Lacan thought that children, aided by language and the concept of 'I' or 'me', f
 
 In the context of art this is claimed to create alienation from what is real in life and art, and allow for the production of art which further alienates and is often kitsch. If good art and truth are indeed connected then any thinking which separates people from the truth will result in the creation of bad art.
 
-In my view to be aware of oneself is surely a human facet. For over two thousand years philosophers have debated the nature of the self, the mind and body, and our soul's place in the objective external world. The longevity of this debate and its modern parallel, the debate amongst scientists about consciousness, suggests that the self is not a false illusion but a fascinating real phenomenon.
+Surely to be aware of oneself is surely a human facet. For over two thousand years philosophers have debated the nature of the self, the mind and body, and our soul's place in the objective external world. The longevity of this debate and its modern parallel, the debate amongst scientists about consciousness, suggests that the self is not a false illusion but a fascinating real phenomenon.
