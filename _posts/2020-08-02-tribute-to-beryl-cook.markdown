@@ -10,8 +10,7 @@ description: Beryl cook is still fondly remembered for her lively and insightful
 introduction: >-
   Beryl Cook entralled the British art scene with her humourous and insightful
   folk art. Here we celebrate her most memorable work.
-image: >-
-  https://res.cloudinary.com/dtn9ari2r/image/upload/v1585740487/blog/2017-11-27_12-48-51_016.jpg
+image: 'https://upload.wikimedia.org/wikipedia/en/6/69/Cook-Tea.jpg'
 alt-image: Beryl Cook's paintings were memorable and life-affirming
 layout: post-quick
 ---
