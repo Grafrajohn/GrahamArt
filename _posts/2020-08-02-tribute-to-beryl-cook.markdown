@@ -16,10 +16,12 @@ alt-image: Beryl Cook's paintings were memorable and life-affirming
 layout: post-quick
 ---
 
-Years ago I remember seeing a TV programme about a middle aged woman who had begun painting as a hobby, and had become renowned as a painter with an interesting and instantly recongisable style. Her name was Beryl Cook and her work soon regularly featured in the British National Portrait Gallery in London.
+Years ago I remember seeing a TV programme about a middle aged woman who ran a guest house and had begun painting as a hobby. She became renowned as a painter with an interesting and instantly recongisable style. Her name was Beryl Cook and her work soon regularly featured in the British National Portrait Gallery in London.
 
 
 {% include image.html url="https://upload.wikimedia.org/wikipedia/en/6/69/Cook-Tea.jpg" description="Tea in the garden by Beryl Cook" %}
+
+Beryl's work was instantly recognisable and had tremendous character. All of her images still true today, as she captured the archtypes of English humdrum life.
 
 
 
