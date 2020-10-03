@@ -27,6 +27,4 @@ The technical proficiency of Beryl's work was often overlooked; she composed her
 
 A great sense of humour is in evidence from the above picture too. A bunch of middle-class middle-aged hipsters enjoy a tea party naked. Beryl shows great respect for the characters portrayed here, not seeking to pass any judgement on them.
 
-{% include image.html url="/images/bird.jpg" description="Bird" %}
-
 Beryl received a lot of recognition during her lifetime as a folk artist, but in my opinion she deserves and will duly receive recognition as a major period artist who brought humour to her observations. She may one day be seen as an artist similar to William Hogarth, who documented the life and people of her time in a rapidly changing society.
