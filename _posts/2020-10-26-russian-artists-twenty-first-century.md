@@ -1,5 +1,17 @@
 ---
 published: false
+date: 2020-10-26T00:00:00.000Z
+categories:
+  - art
+  - russia
+layout: post-quick
+description: Russian art in the early twenty-first century
+introduction: >-
+  Russian art features some exciting artists making fascinating figurative art
+  quite unlike anything else
+image: >-
+  https://res.cloudinary.com/dtn9ari2r/image/upload/v1585301087/blog/B5AF2396-7490-46F8-92B8-BADC40D427DE.jpg
+alt-image: The self-isolaton situation for creatives
 ---
 ## Russian art in the twenty first century has come a long way since socialist realism
 
@@ -11,5 +23,6 @@ Russians have never lost touch with their history. They have a lot of history to
 
 So, who are the Russian artists whose work reflects the proud splendour of their past? Here are a few of my picks.
 
+## Pavel Pokidyshev
 
-
+## Olga Suvorova
