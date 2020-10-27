@@ -1,6 +1,6 @@
 ---
 published: false
-date: 2020-10-26T00:00:00.000Z
+date: {}
 categories:
   - art
   - russia
@@ -26,6 +26,8 @@ So, who are the Russian artists whose work reflects the proud splendour of their
 ## Pavel Pokidyshev
 
 This St Petersburgh artist makes incredible work, instantly recognisable. His works seem to be a sort of painterly mashup of Russian history and nature.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uw_WGGBpqro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Olga Suvorova
 
