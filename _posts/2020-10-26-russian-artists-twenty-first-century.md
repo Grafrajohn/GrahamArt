@@ -1,6 +1,6 @@
 ---
 published: false
-date: {}
+date: 2020-10-25 19:40:00 Z
 categories:
   - art
   - russia
