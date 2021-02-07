@@ -12,7 +12,7 @@ introduction: >-
   quite unlike anything else
 image: >-
   https://res.cloudinary.com/dtn9ari2r/image/upload/v1612738574/blog/Triennal_of_russian_contemporary_art.jpg
-alt-image: The self-isolaton situation for creatives
+alt-image: Russian contemporary art
 ---
 ## Russian art in the twenty first century has come a long way since socialist realism
 
