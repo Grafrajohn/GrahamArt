@@ -11,7 +11,7 @@ introduction: >-
   Russian art features some exciting artists making fascinating figurative art
   quite unlike anything else
 image: >-
-  https://res.cloudinary.com/dtn9ari2r/image/upload/v1585301087/blog/B5AF2396-7490-46F8-92B8-BADC40D427DE.jpg
+  https://res.cloudinary.com/dtn9ari2r/image/upload/v1612738574/blog/Triennal_of_russian_contemporary_art.jpg
 alt-image: The self-isolaton situation for creatives
 ---
 ## Russian art in the twenty first century has come a long way since socialist realism
