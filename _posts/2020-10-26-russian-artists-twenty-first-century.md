@@ -6,6 +6,7 @@ categories:
   - russia
 layout: post-quick
 description: Russian art in the early twenty-first century
+h1: Russia's artists find their feet and look back to their long history 
 introduction: >-
   Russian art features some exciting artists making fascinating figurative art
   quite unlike anything else

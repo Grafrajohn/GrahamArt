@@ -9,6 +9,7 @@ description: Leonardo Da Vinci Exhibition in Paris
 image: https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1583263321/blog/FE1331EB-ACD0-4EB2-92D5-ECA1B4782F27.jpg
 image-alt: Leonardo Da Vinci Exhibition Paris
 image-caption: Leonardo Da Vinci Exhibition Paris
+h1: A visit to the once in a lifetime Leonardo Exhibition in Le Louvre, Paris
 ---
 
 Recently I had the privilege of visiting Paris to view the Leonardo Da Vinci Exhibition. This is how it went.

@@ -7,6 +7,7 @@ categories:
   - british-artist
   - women-artists
 description: Beryl cook is still fondly remembered for her lively and insightful paintings
+h1: Beryl Cook captured many quintessential aspects of the British character
 introduction: >-
   Beryl Cook enthralled the British art scene with her humourous and insightful
   folk art. Here we celebrate her work.
