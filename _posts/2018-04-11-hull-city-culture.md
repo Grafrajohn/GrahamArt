@@ -1,6 +1,6 @@
 ---
 title: Hull City of Culture 2017
-date: 2018-04-11 20:43:33 Z
+date: 2017-04-11 20:43:33 Z
 categories:
 - hull
 - city-of-culture
