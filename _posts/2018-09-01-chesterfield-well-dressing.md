@@ -10,6 +10,7 @@ description: Chesterfield Well Dressing - a pagan custom updated for faith in a 
 introduction: Chesterfield Well Dressing - a pagan custom updated for faith in a modern
   age
 image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1541540176/blog/20180907_130121223_iOS.jpg
+h1: Christianity adapts the ancient pagan tradition of Well Dressing
 ---
 
 <h2>The Derbyshire tradition of well dressing</h2>

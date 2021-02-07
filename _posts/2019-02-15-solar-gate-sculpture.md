@@ -7,6 +7,7 @@ categories:
 layout: post
 description: Futuristic Solar Gate sculpture in the city of Hull changes as the sun
   moves through the day
+h1: Hull Queen's Gardens is host to some unusual artworks
 introduction: This 10 metre foot tall sculpture is made out of stainless steel. The
   ambitious sculpture will be complemented by 16 plates which reflect light onto the
   main work and bring it to life differently at different times.

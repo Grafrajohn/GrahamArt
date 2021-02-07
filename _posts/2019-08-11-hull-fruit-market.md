@@ -7,6 +7,7 @@ categories:
 - fruit-market
 layout: post
 description: Hull Fruit Market - fine arts on display
+h1: The renaissance of Hull Fruit Market is a remarkable feature of the city's urban regeneration
 introduction: Hull Fruit Market is a district of Hull which, once almost derelict,
   has been redeveloped into an arts, cafe and entertainment district in the city of
   Hull.

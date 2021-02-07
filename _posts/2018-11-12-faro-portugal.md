@@ -7,6 +7,7 @@ categories:
 - art
 layout: post
 description: Visit to the beautiful, lively and historic city of Faro, Portugal
+h1: Faro - Portugal's hidden gem of a city
 introduction: I spent some time recently in Faro, Portugal, a city which has its fair
   share of beautiful things.
 h2-1: Faro Old City
