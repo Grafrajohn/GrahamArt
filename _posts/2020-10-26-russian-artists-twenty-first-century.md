@@ -5,6 +5,7 @@ categories:
   - art
   - russia
 layout: post-quick
+title: Russian Art in the Twenty First Century
 description: Russian art in the early twenty-first century
 h1: Russia's artists find their feet and look back to their long history 
 introduction: >-
