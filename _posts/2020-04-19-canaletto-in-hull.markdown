@@ -6,6 +6,7 @@ categories:
 - hull
 - Canaletto
 description: A lot of people do not realise that the Ferens Gallery in Hull has a fabulous masterpiece by the Italian master Canaletto
+h1: A Canaletto in Hull - catch it while you can; once it's gone it's gone
 introduction: Canaletto died on this day - 19th April - in 1768. The Ferens Gallery has one of his masterpieces.
 image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1587319804/blog/EVzyYCQU8AoFLsz.jpg
 alt-image: A typical Canaletto view of Venice

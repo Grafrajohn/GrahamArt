@@ -6,6 +6,7 @@ categories:
 - paris
 layout: post-quick
 description: Visit to the Musee d'Orsay in Paris
+h1: The Parisians make a gem of an art museum from an old railway station 
 introduction: The Musee d Orsay in Paris is home to some of the loveliest art and
   scultpure in the world. I was lucky enough to visit the meseum recently.
 image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1583263486/blog/DSC_0220.jpg

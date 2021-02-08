@@ -7,6 +7,7 @@ categories:
 layout: post
 description: Beverley Flower Festival delights audiences in the historic church of
   St Mary
+h1: Beverley continues its strong tradition of floral displays 
 introduction: Beverley Flower Festival delights audiences in the historic church of
   St Mary
 image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1541539398/blog/20180808_184737905_iOS.jpg

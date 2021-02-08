@@ -1,11 +1,12 @@
 ---
-title: An artist's social isolation
+title: An artist's COVID social isolation
 date: 2020-03-27 00:00:00 Z
 categories:
 - art
 - coronavirus
 layout: post-quick
-description: An artist in social isolation
+description: An artist in enforced COVID social isolation
+h1: COVID social isolation - how do creative people cope?
 introduction: How should artists deal with the self isolation imposed by the corona
   virus pandemic?
 image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1585301087/blog/B5AF2396-7490-46F8-92B8-BADC40D427DE.jpg

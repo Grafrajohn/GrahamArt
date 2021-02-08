@@ -1,5 +1,5 @@
 ---
-title: How to Greener Day
+title: How to Go Greener Day
 date: 2019-01-23 21:43:33 Z
 categories:
 - green
@@ -8,6 +8,7 @@ categories:
 layout: post
 description: 'How to Go Greener Day: a green and environmental discussion day with
   many interesting speakers.'
+h1: Beverley Toll Gavel Church hosts an environmental day of discussion and thought
 introduction: I believe in supporting community events so here is an interesting day
   of green and environmental discussion with some excellent speakers.
 h2-1: Learn how you can go greener!

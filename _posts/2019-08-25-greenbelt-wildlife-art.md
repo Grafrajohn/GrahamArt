@@ -8,6 +8,7 @@ categories:
 layout: post
 description: Christian activists raise awareness of the plight of wild and domestic
   creatures
+h1: Thought provoking creative activities highlight the plight of nature at the Greenbelt Festival 2019 
 introduction: The Greenbelt Festival has always prided itself in putting the environment
   at the centre of its programme. Here a Christian wildlife charity makes a point
   about the devastation of the marine environment by industrial fishing and the warping

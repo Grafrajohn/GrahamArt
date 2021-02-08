@@ -6,6 +6,7 @@ categories:
 - coronavirus
 layout: post-quick
 description: Corona virus and its effects on the arts in East Yorkshire
+h1: COVID arts and crafts calamity in East Yorkshire
 introduction: The corona virus epidemic will have a severe effect not just on everyone's
   life and livelihood, but on the local arts and crafts scene too.
 image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1584790009/blog/Screenshot_2020-03-21_at_11.26.30.png

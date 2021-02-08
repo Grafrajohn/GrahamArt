@@ -1,17 +1,18 @@
 ---
-published: false
+published: true
 date: 2020-10-25 19:40:00 Z
 categories:
   - art
   - russia
 layout: post-quick
 description: Russian art in the early twenty-first century
+h1: Russia's artists find their feet and look back to their long history 
 introduction: >-
   Russian art features some exciting artists making fascinating figurative art
   quite unlike anything else
 image: >-
-  https://res.cloudinary.com/dtn9ari2r/image/upload/v1585301087/blog/B5AF2396-7490-46F8-92B8-BADC40D427DE.jpg
-alt-image: The self-isolaton situation for creatives
+  https://res.cloudinary.com/dtn9ari2r/image/upload/v1612738574/blog/Triennal_of_russian_contemporary_art.jpg
+alt-image: Russian contemporary art
 ---
 ## Russian art in the twenty first century has come a long way since socialist realism
 

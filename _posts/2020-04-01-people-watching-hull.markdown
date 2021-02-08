@@ -8,6 +8,7 @@ categories:
 description: >-
   As we endure the corona virus lockdown I''m nostalgic for the art of people
   watching in Hull
+h1: People watching in Hull - an activity which became difficult as the COVID pandemic ravaged the city in 2020
 introduction: >-
   With the city of Hull closed in the wake of the corona virus pandemic, are we
   nostalgic for the pleasures of city life?

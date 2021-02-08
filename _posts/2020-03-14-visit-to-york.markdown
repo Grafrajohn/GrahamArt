@@ -6,6 +6,7 @@ categories:
 - York
 layout: post-quick
 description: The city of York and its wonderful art
+h1: York Minster and its beautiful windows reveal hidden secrets from the craftsmen of the past
 introduction: The city of York is always a delightful destination for lovers of history,
   art and architecture
 image: https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1584212387/blog/19827511-AC43-4AE5-8F89-A8B8B51FD738.jpg
@@ -18,7 +19,7 @@ For architecture York is almost incomparable; Medieval, Georgian, Victorian buil
 
 Of particular interest to me is the medieval York Minster, which has in its stained glass windows one of the great British and international masterpieces - the Great East Window. This is the largest medieval stained glass window in the world. It is also awesomely beautiful and complex. The last restoration of the window cost someting like £18 million and took 12 years, which is testimony to how important it is considered to be by the British government.
 
-Interestingly the window has been repaired by medieaval craftsmen who signed their names and dates of birth on the glass. But medieaval craftsmen were supposed to be illiterate weren't they? Maybe not.
+Interestingly the window has been repaired by medieval craftsmen who signed their names and dates of birth on the glass. But medieaval craftsmen were supposed to be illiterate weren't they? Maybe not.
 
 The Great East Window is considered to be the British Sistine Chapel.
 
