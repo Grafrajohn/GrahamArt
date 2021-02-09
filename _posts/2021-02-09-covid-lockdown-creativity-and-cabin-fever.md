@@ -31,3 +31,5 @@ If money is stressing you then try ecommerce! There is some money to be made on 
 Finally avoid the use of alcohol or other dampeners to try and control cabin fever. This can get you into bad habits for the future. 
 
 If you are lucky enough to have good friends and family then call them a lot - conversation is very therapeutic.
+
+Remember everyone else is in the same boat. Good luck.
