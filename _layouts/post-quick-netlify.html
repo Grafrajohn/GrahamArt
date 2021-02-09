@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<article class="container" style="padding-top: 10px;">
+
+    <time>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</time>
+
+    {% if page.image %}   
+    <div class="offset-1 col-10 text-center">     
+        <figure class="figure text-center">
+            <img class="figure-img img-fluid" src="{{ page.thumbnail }}" alt="{{ page.alt-image }}" />
+            <figcaption class="figure-caption">{{ page.alt-image }}</figcaption>
+        </figure>         
+    </div>
+    {% endif %}   
+
+    {{ body }}
+
+</article>
