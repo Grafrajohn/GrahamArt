@@ -16,4 +16,12 @@ This is not good for anyone but especially not for creatives.
 
 So what do we do? Well here is my strategy.
 
-* Read arty books. You may well have a collection of them built up over the years. I inherited my father’s 1980s and 1990s coffee table books. The 80s and 90s were the golden age of the coffee table art book before the Internet and multimedia killed them off. There is nothing better than leafing through a book of Gaugin/Hopper (amend as necessary).
+Read arty books. You may well have a collection of them built up over the years. I inherited my father’s 1980s and 1990s coffee table books. The 80s and 90s were the golden age of the coffee table art book before the Internet and multimedia killed them off. There is nothing better than leafing through a book of Gaugin/Hopper (amend as necessary).
+
+Go to Zoom meetings. All of the arts organisations are having them. Some are free and some require a ticket. But there is enough conversation going on in cyberspace.
+
+Don't think too much. Confined to our homes we can adopt the habit of filling the interaction gap by reflecting on ourselves. But this can be a bad habit and is a cause of the infamous cabin fever.
+
+Go out for a walk every day or night. Walking, even past the closed cafes and shops, at least brings some variety into your sensory input.
+
+Meditate and practice mindfulness. Mindfulness and meditation is very good for you and allows you to clear your mnd. If you really can clear your mind completely then I envy you. But even clearing some of the clutter is a step forward.
