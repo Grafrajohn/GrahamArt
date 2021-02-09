@@ -25,3 +25,9 @@ Don't think too much. Confined to our homes we can adopt the habit of filling th
 Go out for a walk every day or night. Walking, even past the closed cafes and shops, at least brings some variety into your sensory input.
 
 Meditate and practice mindfulness. Mindfulness and meditation is very good for you and allows you to clear your mnd. If you really can clear your mind completely then I envy you. But even clearing some of the clutter is a step forward.
+
+If money is stressing you then try ecommerce! There is some money to be made on the Internet if you know where your customers are and what they want. Whatever you are selling it can be sold online. Performances can be sold on ticketing sites such as EventBrite. Paintings can be sold on Facebook. Music can be sold via iTunes and Google Play. YouTube and Patreon carry subscripton content from which you can earn income. Online art markets allow the upload of paintings and photography. Just about anything can be sold on eBay; one guy even put his soul on there. I know from first hand experience that selling online is very difficult. But it can be done.
+
+Finally avoid the use of alcohol or other dampeners to try and control cabin fever. This can get you into bad habits for the future. 
+
+If you are lucky enough to have good friends and family then call them a lot - conversation is very therapeutic.
