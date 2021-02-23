@@ -12,3 +12,5 @@ introduction: This work is ostensibly about a joust but is actually about
   civilisations of Greece, Rome, Egypt and beyond.
 ---
 Spectacle. Coliseums, amphitheaters and pyramids all show the human taste for spectacle. Hollywood, the World Series, the World Cup, the Olympics all show our modern craving for it too.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iFewmrlpDUg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
