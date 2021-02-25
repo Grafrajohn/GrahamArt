@@ -54,3 +54,9 @@ Popular in Paris apparently, this artist mixes fashion and other elements into c
 This artist explores new approaches to painting and has exhibited around the world.
 
 ![Installation view, Vyacheslav Mikhailov | Courtesy of ERARTA](https://img.theculturetrip.com/1440x/smart/images/56-294187-screen-shot-2014-12-11-at-10.05.35.png "Installation view, Vyacheslav Mikhailov | Courtesy of ERARTA")
+
+## Maxim Kantor
+
+This intellectual artist explores the problems brought by globalisation.
+
+![Maxim Kantor - Mensa, 1984, courtesy milanoarteexpo.com](https://d16kd6gzalkogb.cloudfront.net/magazine_images/Maxim-Kantor-via-research.nd_.edu_.jpg "Maxim Kantor - Mensa, 1984, courtesy milanoarteexpo.com")
