@@ -1,19 +1,17 @@
 ---
+h1: Russia's artists find their feet and look back to their long history
+layout: post-quick
 published: true
+title: Russian Art in the Twenty First Century
 date: 2020-10-25 19:40:00 Z
 categories:
   - art
   - russia
-layout: post-quick
-title: Russian Art in the Twenty First Century
 description: Russian art in the early twenty-first century
-h1: Russia's artists find their feet and look back to their long history 
-introduction: >-
-  Russian art features some exciting artists making fascinating figurative art
-  quite unlike anything else
-image: >-
-  https://res.cloudinary.com/dtn9ari2r/image/upload/v1612738574/blog/Triennal_of_russian_contemporary_art.jpg
+image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1612738574/blog/Triennal_of_russian_contemporary_art.jpg
 alt-image: Russian contemporary art
+introduction: Russian art features some exciting artists making fascinating
+  figurative art quite unlike anything else
 ---
 ## Russian art in the twenty first century has come a long way since socialist realism
 
@@ -36,3 +34,9 @@ This St Petersburgh artist makes incredible work, instantly recognisable. His wo
 This St Petersburgh artist paints incredible colourful paintings drawn from the rich imperial history of her home city.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hMeS_0uj5fU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Anna Parkina
+
+This artist reminds me of some of the old Soviet propaganda posters, and mixes images of femininity and modernity in the form of aviation.
+
+![Anna Parkina](https://img.theculturetrip.com/1440x/smart/images/56-294163-cover-dmitry-shorin.jpg "Anna Parkina - Angel No 6 - image courtesy theculturetrip.com")
