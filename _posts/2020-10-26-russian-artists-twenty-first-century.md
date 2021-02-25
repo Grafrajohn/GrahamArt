@@ -40,3 +40,9 @@ This St Petersburgh artist paints incredible colourful paintings drawn from the 
 This artist reminds me of some of the old Soviet propaganda posters, and mixes images of femininity and modernity in the form of aviation.
 
 ![Dmitry Shorin](https://img.theculturetrip.com/1440x/smart/images/56-294163-cover-dmitry-shorin.jpg "Dmitry Shorin - Angel No 6 - image courtesy theculturetrip.com")
+
+## Marina Federovna
+
+Popular in Paris apparently, this artist mixes fashion and other elements into compelling paintings.
+
+![Don’t forget to buy milk, Marina Federovna | Courtesy of ERARTA](https://img.theculturetrip.com/1440x/smart/images/56-294176-screen-shot-2014-12-11-at-09.52.27.png "Don’t forget to buy milk, Marina Federovna | Courtesy of ERARTA")
