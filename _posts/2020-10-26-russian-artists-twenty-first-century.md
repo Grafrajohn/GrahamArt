@@ -35,8 +35,8 @@ This St Petersburgh artist paints incredible colourful paintings drawn from the 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hMeS_0uj5fU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Anna Parkina
+## Dmitry Shorin
 
 This artist reminds me of some of the old Soviet propaganda posters, and mixes images of femininity and modernity in the form of aviation.
 
-![Anna Parkina](https://img.theculturetrip.com/1440x/smart/images/56-294163-cover-dmitry-shorin.jpg "Anna Parkina - Angel No 6 - image courtesy theculturetrip.com")
+![Dmitry Shorin](https://img.theculturetrip.com/1440x/smart/images/56-294163-cover-dmitry-shorin.jpg "Dmitry Shorin - Angel No 6 - image courtesy theculturetrip.com")
