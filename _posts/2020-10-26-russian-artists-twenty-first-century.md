@@ -19,7 +19,7 @@ Many people when thinking of Russian art tend to think of Constructivism in the 
 
 However after the death of Stalin, Russian art began to open up and as long as artists did not criticise the Soviet system they were able to make art which was figurative and interesting. The Soviet education and training system for artists appears to have been the equal of any in the world, and has left Russia with a community of well-trained artists.
 
-In July 1988 there was a Sothebys auction of art which caused great controversy by converting Soviet art into money. Rock stars such as David Bowie and Elton John bought work. Shortly afterwards the Soviet system collapsed.
+In July 1988 there was a Sothebys auction of art which caused great controversy by converting Soviet art into money. Rock stars such as David Bowie and Elton John bought work. Shortly afterwards the Soviet system collapsed and Russian artists had to scramble for their living outside of the old communist system which, whatever their flaws, provided them with real and metaphorical space to work in
 
 Russians have never lost touch with their history. They have a lot of history to look back on, and do not have to avoid the appalling legacies which European imperialist countries have such as colonial exploitation, slavery or genocide. This in my opinion makes Russian art interesting, as the Russians freely mix references to their history and culture into their art in a way that is rarely seen in Europe or the USA.
 
