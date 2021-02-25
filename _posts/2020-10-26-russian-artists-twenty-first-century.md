@@ -41,22 +41,22 @@ This St Petersburgh artist paints incredible colourful paintings drawn from the 
 
 This artist reminds me of some of the old Soviet propaganda posters, and mixes images of femininity and modernity in the form of aviation.
 
-![Dmitry Shorin](https://img.theculturetrip.com/1440x/smart/images/56-294163-cover-dmitry-shorin.jpg "Dmitry Shorin - Angel No 6 - image courtesy theculturetrip.com")
+![Dmitry Shorin](https://img.theculturetrip.com/1440x/smart/images/56-294163-cover-dmitry-shorin.jpg "Dmitry Shorin - Angel No 6 - image courtesy theculturetrip.com"){: .img-fluid}
 
 ## Marina Federovna
 
 Popular in Paris apparently, this artist mixes fashion and other elements into compelling paintings.
 
-![Don’t forget to buy milk, Marina Federovna | Courtesy of ERARTA](https://img.theculturetrip.com/1440x/smart/images/56-294176-screen-shot-2014-12-11-at-09.52.27.png "Don’t forget to buy milk, Marina Federovna | Courtesy of ERARTA")
+![Don’t forget to buy milk, Marina Federovna, Courtesy of ERARTA](https://img.theculturetrip.com/1440x/smart/images/56-294176-screen-shot-2014-12-11-at-09.52.27.png "Don’t forget to buy milk, Marina Federovna | Courtesy of ERARTA"){: .img-fluid}
 
 ## Vyacheslav Mikhailov
 
 This artist explores new approaches to painting and has exhibited around the world.
 
-![Installation view, Vyacheslav Mikhailov | Courtesy of ERARTA](https://img.theculturetrip.com/1440x/smart/images/56-294187-screen-shot-2014-12-11-at-10.05.35.png "Installation view, Vyacheslav Mikhailov | Courtesy of ERARTA")
+![Installation view, Vyacheslav Mikhailov, Courtesy of ERARTA](https://img.theculturetrip.com/1440x/smart/images/56-294187-screen-shot-2014-12-11-at-10.05.35.png "Installation view, Vyacheslav Mikhailov | Courtesy of ERARTA"){: .img-fluid}
 
 ## Maxim Kantor
 
 This intellectual artist explores the problems brought by globalisation.
 
-![Maxim Kantor - Mensa, 1984, courtesy milanoarteexpo.com](https://d16kd6gzalkogb.cloudfront.net/magazine_images/Maxim-Kantor-via-research.nd_.edu_.jpg "Maxim Kantor - Mensa, 1984, courtesy milanoarteexpo.com")
+![Maxim Kantor - Mensa, 1984, courtesy milanoarteexpo.com](https://d16kd6gzalkogb.cloudfront.net/magazine_images/Maxim-Kantor-via-research.nd_.edu_.jpg "Maxim Kantor - Mensa, 1984, courtesy milanoarteexpo.com"){: .img-fluid}
