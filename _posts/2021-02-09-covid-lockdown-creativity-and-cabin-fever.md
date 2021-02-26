@@ -12,13 +12,13 @@ introduction: Creativity thrives on the interaction between the artist and
 ---
 A few people have emailed me and asked how I cope with the COVID pandemic, since I am often out and about blogging on the subject of culture.
 
-## Isolation
+## COVID Isolation
 
 Well, let us say that interaction with society feeds all of us with ideas and breaks the vicious circle of isolation. But now we are told we cannot interact and we must all to varying degrees socially distance or even self-isolate.
 
 This is not good for anyone but especially not for creatives or naturally gregarious people. I confess I am not gregarious but I am, as you can see from this website, creative.
 
-## How to cope with isolation
+## How to cope with COVID isolation
 
 So what do we do? Well here is my strategy for creatives.
 
