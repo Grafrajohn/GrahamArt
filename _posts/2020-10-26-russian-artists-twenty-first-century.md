@@ -29,13 +29,17 @@ So, who are the Russian artists whose work reflects the proud splendour of their
 
 This St Petersburgh artist makes incredible work, instantly recognisable. His works seem to be a sort of painterly mashup of Russian history and nature.
 
+<div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uw_WGGBpqro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Olga Suvorova
 
 This St Petersburgh artist paints incredible colourful paintings drawn from the rich imperial history of her home city.
 
+<div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hMeS_0uj5fU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Dmitry Shorin
 
