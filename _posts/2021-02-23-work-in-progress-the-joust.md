@@ -15,4 +15,6 @@ Many people email me to ask where I get the ideas for my paintings. So I reply t
 
 Spectacle. Ancient coliseums, amphitheaters and pyramids all show the persistent human taste for spectacle. Hollywood, the World Series, the World Cup, the Olympics all show our modern craving for it too.
 
+<div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iFewmrlpDUg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
