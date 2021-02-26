@@ -11,6 +11,8 @@ introduction: This work is ostensibly about a joust but is actually about
   spectacle, which human beings have sought since the days of the ancient
   civilisations of Greece, Rome, Egypt and beyond.
 ---
-Spectacle. Coliseums, amphitheaters and pyramids all show the human taste for spectacle. Hollywood, the World Series, the World Cup, the Olympics all show our modern craving for it too.
+Many people email me to ask where I get the ideas for my paintings. So I reply that I get the ideas from life and my personal interests, or things that strike me as interesting. So for all of those who ask, here is an example.
+
+Spectacle. Ancient coliseums, amphitheaters and pyramids all show the persistent human taste for spectacle. Hollywood, the World Series, the World Cup, the Olympics all show our modern craving for it too.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iFewmrlpDUg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
