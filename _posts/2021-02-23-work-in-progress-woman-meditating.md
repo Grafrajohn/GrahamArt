@@ -13,4 +13,6 @@ A lot of people email me asking about how I paint and what are my techniques. So
 
 A woman sits down, assumes a comfortable position and throws back her head to meditate on a spring day. I hope you enjoy the video.
 
+<div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MFLXoXiTuZ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
