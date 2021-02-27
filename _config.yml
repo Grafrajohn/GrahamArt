@@ -49,7 +49,7 @@ permalink: pretty
 # How many articles do you wish to appear on the front page:
 paginate: 3
 # Plugins
-plugins: [jekyll-paginate]
+# plugins: [jekyll-paginate]
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude:
 - README.markdown
