@@ -1,7 +1,7 @@
 ---
 layout: post-quick-netlify
 title: Work in progress - 'Woman Meditating'
-date: 2021-02-26T22:36:20.174Z
+date: 2021-02-25T22:36:20.174Z
 categories: oils meditation
 description: Oil painting - a woman meditates in the gentle light of a spring or autumn day.
 image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1614120007/blog/DSC_0005-small.png
