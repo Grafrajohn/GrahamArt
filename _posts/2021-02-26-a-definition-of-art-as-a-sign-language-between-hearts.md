@@ -13,11 +13,11 @@ introduction: For a while now I have been surveying the wisdom of the philosophy
   such as Wittgenstein theorised that art works perfectly well without a
   definition.
 ---
-It can Stein says that we all know at when we see it
+Wittgenstein said that we all know art when we see it.
 
-However this seems to me to be an unsatisfactory way to approach a definition of art.  However I do appreciate that the object shins least in recent times the definition of that happy if any valid objections us.  So is there a way to actually do fine art?
+However this seems to be an unsatisfactory way to approach a definition of art.  Appreciating that the objections least in recent times the definition of that happy if any valid objections us.  So is there a way to actually define fine art?
 
-I suggest that there might be a way to define that by looking at the processor created it.
+I suggest that there might be a way to define that by looking at the process of creating it.
 
 What if we looked at the language of signs and dipped into the discipline of senility to see this could be helpful in defining that.
 
