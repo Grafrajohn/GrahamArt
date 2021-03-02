@@ -15,13 +15,13 @@ introduction: For a while now I have been surveying the wisdom of the philosophy
 ---
 Wittgenstein said that we all know art when we see it.
 
-However this seems to be an unsatisfactory way to approach a definition of art.  Appreciating that the objections least in recent times the definition of that happy if any valid objections us.  So is there a way to actually define fine art?
+However this seems to be an unsatisfactory way to approach a definition of art.  Appreciating that the objections least in recent times the definition of that happy if any valid objections us. So is there a way to actually define fine art?
 
-I suggest that there might be a way to define that by looking at the process of creating it.
+I suggest that there might be a way to define art by looking at the process of creating it.
 
 What if we looked at the language of signs and dipped into the discipline of senility to see this could be helpful in defining that.
 
-In addition lay what if we say that that is the communication process between Hans.  But basically through at one that can communicate with another.
+In addition lay what if we say that that is the communication process between Hans. But basically through at one that can communicate with another.
 
 Wittgenstein famously said the following about art:
 
@@ -29,8 +29,8 @@ Wittgenstein famously said the following about art:
 * we all know art when we see it
 * art works quite well without a definition
 
-In its way this view is quite fun but I and a lot of other people find it troubling. After all if we all now art when we see it then surely it must be possible to define it.
+In its way this view is quite fun but a lot of people find it troubling. Surely if we all know art when we see it then surely it must be possible to define it.
 
-I thought about this and it seems to me that trying to define art through its end result may indeed be impossible, especially nowadays where even artists cannot agree on what art actually is.
+I thought about this and it seems that trying to define art through its end result may indeed be impossible, especially nowadays where even artists cannot agree on what art actually is.
 
-So how about defining art as a means of communication, and everything that is the result of this mode of communication is art. Let me explain further.
+So how about defining art as a means of communication, and everything that is the result of this mode of communication is art. Let's explain this further.
