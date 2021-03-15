@@ -1,35 +1,41 @@
 ---
 title: Girona, Spain - city of the arts
 date: 2019-10-27 20:45:00 Z
-categories:
-- girona
-- spain
-- art
-layout: post
+categories: girona spain art
+layout: post-quick-netlify
 description: Art and culture in Girona, Spain
 introduction: Girona is an ancient city in the Catalonia region of Spain. The city
   has long had a flourishing arts and culture scene and the many works from this long
   history can be seen in its excellent museums.
-h2-1: Roman mosaic
-image1: https://res.cloudinary.com/dtn9ari2r/image/upload/v1572463526/blog/DSC_0285.jpg
-alt-image1: Roman mosaic in Girona Spain
-text1: This Roman mosaic might be related to chariot races.
-h2-2: Medieval Christian art
-image2: https://res.cloudinary.com/dtn9ari2r/image/upload/v1572463526/blog/DSC_0183.jpg
-alt-image2: Medieval Christian painting
-text2: This painting shows the influence of Christianity and Byzantium on the late
+alt-image: Roman mosaic
+image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1572463526/blog/DSC_0285.jpg
+---
+## The beutiful city of Girona, in the Catalonia region of Spain
+
+Girona is not a city on the popular tourist map of Spain but it is delightful for lovers of history and cilture.
+
+## Roman mosaic in Girona
+
+Archaeologists think that this Roman mosaic might be related to chariot races. It was once part of a large mosaic which showed a complete panorama of a chariot race - the drivers, the audience, the Roman VIPS and the chariot stadium itself. The Romans settled Girona and many remnants of their civilisation still survive in the city.
+
+## Medieval Christian art
+
+![Medieval Christian painting](https://res.cloudinary.com/dtn9ari2r/image/upload/v1572463526/blog/DSC_0183.jpg "Medieval Christian painting"){: .img-fluid}
+
+This painting shows the influence of Christianity and Byzantium on the late
   medieval painting style. Note the Byzantine style gold halos around the heads of
   the figures.
-h2-3: Relief sculpture
-image3: https://res.cloudinary.com/dtn9ari2r/image/upload/v1572463524/blog/DSC_0286.jpg
-alt-image3: Relief sculpture
-text3: Christian relief sculpture of a type very common in ancient and medieval times.
-  Sculpture such as this adorns many churches and crypts from the ancient to the medieval
-  period.
-h2-4: The only place where flies are popular
-image4: https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1572463524/blog/DSC_0216.jpg
-alt-image4: Girona flies
-text4: Girona is a place where flies are popular because a plague of them beat off
-  French invaders.
+
+## Relief sculpture
+
+![Relief sculpture](https://res.cloudinary.com/dtn9ari2r/image/upload/v1572463524/blog/DSC_0286.jpg "MRelief sculpture"){: .img-fluid}
+
+Christian relief sculpture of a type very common in ancient and medieval times. Sculpture such as this adorns many churches and crypts from the ancient to the medieval period in Girona.
+
+## The only place where flies are popular
+
+![Girona flies](https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1572463524/blog/DSC_0216.jpg "Girona flies"){: .img-fluid}
+
+Girona is a place where flies are popular. A plague of them emerged from the tomb of St Narcis, the patron saint of the city, to beat off French invaders in 1286. Consequently there are sculptures and paintings of flies around the city.
 ---
 
