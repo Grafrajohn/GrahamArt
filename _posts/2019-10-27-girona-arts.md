@@ -10,9 +10,11 @@ introduction: Girona is an ancient city in the Catalonia region of Spain. The
   city has long had a flourishing arts and culture scene and the many works from
   this long history can be seen in its excellent museums.
 ---
-## The beutiful city of Girona, in the Catalonia region of Spain
+## The beautiful city of Girona, in the Catalonia region of Spain
 
-Girona is not a city on the popular tourist map of Spain but it is delightful for lovers of history and cilture.
+Girona is a city which does not always feature on the popular tourist map of Spain but it is delightful for lovers of history and culture.
+
+Built on hills, the city has many narrow winding streets with period buildings and hidden treasures such as its cathedral. The producers of the smash hit TV series 'Game of Thrones' immediately saw its potential and used it for many of the famous series locations, especially the mysterious city of Braavos. Aria Stark trained here as a 'faceless one' under the magical tutelage of Jaqen H'ghar, disciple of the Many-Faced God.
 
 ## Roman mosaic in Girona
 
