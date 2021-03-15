@@ -14,7 +14,13 @@ introduction: Girona is an ancient city in the Catalonia region of Spain. The
 
 Girona is a city which does not always feature on the popular tourist map of Spain but it is delightful for lovers of history and culture.
 
-Built on hills, the city has many narrow winding streets with period buildings and hidden treasures such as its cathedral. The producers of the smash hit TV series 'Game of Thrones' immediately saw its potential and used it for many of the famous series locations, especially the mysterious city of Braavos. Aria Stark trained here as a 'faceless one' under the magical tutelage of Jaqen H'ghar, disciple of the Many-Faced God.
+Built on hills, the city has many narrow winding streets with period buildings and hidden treasures such as its cathedral. The producers of the smash hit TV series 'Game of Thrones' immediately saw its potential and used it for many of the famous series locations, especially the mysterious city of Braavos. Arya Stark trained here as a 'faceless one' under the magical tutelage of Jaqen H'ghar, disciple of the Many-Faced God.
+
+But the real-life architecture of Girona is just as interesting as anything fictional.
+
+![Girona's Roman baths](https://res.cloudinary.com/dtn9ari2r/image/upload/v1615838976/blog/DSC_0272.jpg "Girona's Roman baths"){: .img-fluid}
+
+Any self respecting Roman city had its bath house and Girona is no different. 
 
 ## Roman mosaic in Girona
 
