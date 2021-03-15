@@ -15,6 +15,6 @@ layout: default
 
     {{ content }}
 
-    <time>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</time>
+    <time>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% else %} {{Graham}} {% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</time>
 
 </article>
