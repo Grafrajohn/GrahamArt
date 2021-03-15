@@ -1,18 +1,26 @@
 ---
+layout: post-quick-netlify
 title: Girona, Spain - city of the arts
 date: 2019-10-27 20:45:00 Z
 categories: girona spain art
-layout: post-quick-netlify
 description: Art and culture in Girona, Spain
-introduction: Girona is an ancient city in the Catalonia region of Spain. The city
-  has long had a flourishing arts and culture scene and the many works from this long
-  history can be seen in its excellent museums.
-alt-image: Roman mosaic
 image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1572463526/blog/DSC_0285.jpg
+alt-image: Roman mosaic
+introduction: Girona is an ancient city in the Catalonia region of Spain. The
+  city has long had a flourishing arts and culture scene and the many works from
+  this long history can be seen in its excellent museums.
 ---
-## The beutiful city of Girona, in the Catalonia region of Spain
+## The beautiful city of Girona, in the Catalonia region of Spain
 
-Girona is not a city on the popular tourist map of Spain but it is delightful for lovers of history and cilture.
+Girona is a city which does not always feature on the popular tourist map of Spain but it is delightful for lovers of history and culture.
+
+Built on hills, the city has many narrow winding streets with period buildings and hidden treasures such as its cathedral. The producers of the smash hit TV series 'Game of Thrones' immediately saw its potential and used it for many of the famous series locations, especially the mysterious city of Braavos. Arya Stark trained here as a 'faceless one' under the magical tutelage of Jaqen H'ghar, disciple of the Many-Faced God.
+
+But the real-life architecture of Girona is just as interesting as anything fictional.
+
+![Girona's Roman baths](https://res.cloudinary.com/dtn9ari2r/image/upload/v1615838976/blog/DSC_0272.jpg "Girona's Roman baths"){: .img-fluid}
+
+Any self respecting Roman city had its bath house and Girona is no different. 
 
 ## Roman mosaic in Girona
 
@@ -28,7 +36,7 @@ This painting shows the influence of Christianity and Byzantium on the late
 
 ## Relief sculpture
 
-![Relief sculpture](https://res.cloudinary.com/dtn9ari2r/image/upload/v1572463524/blog/DSC_0286.jpg "MRelief sculpture"){: .img-fluid}
+![Relief sculpture](https://res.cloudinary.com/dtn9ari2r/image/upload/v1572463524/blog/DSC_0286.jpg "Relief sculpture"){: .img-fluid}
 
 Christian relief sculpture of a type very common in ancient and medieval times. Sculpture such as this adorns many churches and crypts from the ancient to the medieval period in Girona.
 
@@ -37,5 +45,4 @@ Christian relief sculpture of a type very common in ancient and medieval times. 
 ![Girona flies](https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1572463524/blog/DSC_0216.jpg "Girona flies"){: .img-fluid}
 
 Girona is a place where flies are popular. A plague of them emerged from the tomb of St Narcis, the patron saint of the city, to beat off French invaders in 1286. Consequently there are sculptures and paintings of flies around the city.
----
 
