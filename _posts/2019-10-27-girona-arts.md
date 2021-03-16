@@ -34,6 +34,10 @@ Any self respecting Roman city had its bath house and Girona is no different. Th
 
 The city's cathedral sits on top of a steep hill with popular cafes at the bottom which sell delicious snacks and beverages. The many steep steps at the front of the cathedral require a certain amount of physical fitness to negotiate!
 
+In addition to the cathedral there are several more historic and beautiful churches, each with centuries of history behind it.
+
+![Girona church](https://res.cloudinary.com/dtn9ari2r/image/upload/v1615838906/blog/DSC_0256.jpg "Girona church"){: .img-fluid}
+
 ### City walls
 
 ![Girona city walls](https://res.cloudinary.com/dtn9ari2r/image/upload/v1615838956/blog/DSC_0263.jpg "Girona city walls"){: .img-fluid}
