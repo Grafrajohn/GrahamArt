@@ -78,6 +78,8 @@ Girona had a thriving medieval Jewish community which was alas expelled in 1492,
 
 ![Girona city museum](https://res.cloudinary.com/dtn9ari2r/image/upload/v1615838788/blog/DSC_0195.jpg "Girona city museum"){: .img-fluid}
 
+The city museum is packed with artefacts from over two millennia of history: pre-Roman, Roman, Medieval, Renaissance and so forth. The museum itself is in a historic building.
+
 ## Catalonian separatism
 
 ![Catalonian separatism](https://res.cloudinary.com/dtn9ari2r/image/upload/v1615838672/blog/DSC_0164.jpg "Catalonian separatism"){: .img-fluid}
