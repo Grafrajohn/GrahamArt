@@ -16,9 +16,9 @@ As we endure the COVID lockdown I thought I would look back to happier times and
 
 Girona is a city which does not always feature on the popular tourist map of Spain but it is delightful for lovers of history and culture. From the United Kingdom the city can be reached by numerous direct flights from the airports of London, Manchester, Birmingham, East Midlands and Leeds-Bradford.
 
-Built on hills, the city has many narrow winding streets with period buildings and hidden treasures such as its cathedral. The producers of the smash hit TV series 'Game of Thrones' immediately saw its potential and used it for many of the famous series locations, especially the mysterious city of Braavos. Arya Stark trained here as a 'faceless one' under the magical tutelage of Jaqen H'ghar, disciple of the Many-Faced God.
+Built on hills, the city has many narrow winding streets with period buildings and hidden treasures such as its cathedral. The producers of the smash hit TV series 'Game of Thrones' immediately saw its potential and used it for many of the famous series locations, especially the mysterious city of Braavos. Arya Stark, a major character in the series, trained here as a 'faceless one' under the magical tutelage of Jaqen H'ghar, disciple of the Many-Faced God.
 
-But the real-life architecture of Girona is just as interesting as anything fictional.
+But the real-life architecture and history of Girona is just as interesting as anything fictional.
 
 ## Architecture in Girona
 
@@ -63,6 +63,10 @@ Christian relief sculpture of a type very common in ancient and medieval times. 
 ![Girona flies](https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1572463524/blog/DSC_0216.jpg "Girona flies"){: .img-fluid}
 
 Girona is a place where flies are popular. A plague of them emerged from the tomb of St Narcis, the patron saint of the city, to beat off French invaders in 1286. Consequently there are sculptures and paintings of flies around the city.
+
+## Jewish Museum
+
+Girona had a thriving medieval Jewish community which was alas expelled in 1492, and before that there was violence against the Jews as the monarchs of Catholic Spain sought to prevent the conversion of Christians to Judaism. Despite this much of the Jewish quarter still remains and some of its synagogue survived the succeeding years to become a modern day tourist attraction and museum. It is well worth a visit and gives a fascinating glimpse into the medieval lives of the Spanish Jews.
 
 ## Catalonian separatism
 
