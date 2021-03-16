@@ -44,6 +44,8 @@ In addition to the cathedral there are several more historic and beautiful churc
 
 A lot of Girona's old city walls are intact and walking along them affords a great view of the city and numerous photo opportunities.
 
+![Girona city walls](https://res.cloudinary.com/dtn9ari2r/image/upload/v1615838921/blog/DSC_0259.jpg "Girona city walls"){: .img-fluid}
+
 ## Art and culture
 
 ### Roman mosaics
