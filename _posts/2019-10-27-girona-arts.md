@@ -74,6 +74,10 @@ Girona is a place where flies are popular. A plague of them emerged from the tom
 
 Girona had a thriving medieval Jewish community which was alas expelled in 1492, and before that there was violence against the Jews as the monarchs of Catholic Spain sought to prevent the conversion of Christians to Judaism. Despite this much of the Jewish quarter still remains and some of its synagogue survived the succeeding years to become a modern day tourist attraction and museum. It is well worth a visit and gives a fascinating glimpse into the medieval lives of the Spanish Jews.
 
+## City Museum
+
+![Girona city museum](https://res.cloudinary.com/dtn9ari2r/image/upload/v1615838788/blog/DSC_0195.jpg "Girona city museum"){: .img-fluid}
+
 ## Catalonian separatism
 
 ![Catalonian separatism](https://res.cloudinary.com/dtn9ari2r/image/upload/v1615838672/blog/DSC_0164.jpg "Catalonian separatism"){: .img-fluid}
