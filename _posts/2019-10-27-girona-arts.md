@@ -73,3 +73,7 @@ Girona had a thriving medieval Jewish community which was alas expelled in 1492,
 ![Catalonian separatism](https://res.cloudinary.com/dtn9ari2r/image/upload/v1615838672/blog/DSC_0164.jpg "Catalonian separatism"){: .img-fluid}
 
 In Girona one cannot help but notice the popular support for separatism. It is not the place of this blog to comment on such a contentious matter but the Catalonian flag was displayed in almost every street that we walked in. Apartments, shops, restaurants; it is obvious that support for the separatist movement is widespread.
+
+## ...in conclusion
+
+When lockdown lifts Girona is a great place to reacquaint with the history, culture and pleasant climate of Spain.
