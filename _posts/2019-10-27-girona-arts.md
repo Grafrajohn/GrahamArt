@@ -45,3 +45,13 @@ Christian relief sculpture of a type very common in ancient and medieval times. 
 ![Girona flies](https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1572463524/blog/DSC_0216.jpg "Girona flies"){: .img-fluid}
 
 Girona is a place where flies are popular. A plague of them emerged from the tomb of St Narcis, the patron saint of the city, to beat off French invaders in 1286. Consequently there are sculptures and paintings of flies around the city.
+
+## City walls
+
+![Girona city walls](https://res.cloudinary.com/dtn9ari2r/image/upload/v1615838956/blog/DSC_0263.jpg "Girona city walls"){: .img-fluid}
+
+## Catalonian separatism
+
+![Catalonian separatism](https://res.cloudinary.com/dtn9ari2r/image/upload/v1615838672/blog/DSC_0164.jpg "Catalonian separatism"){: .img-fluid}
+
+In Girona one cannot help but notice the popular support for separatism. It is not the place of this blog to comment on such a contentious matter but the Catalonian flag was displayed in almost every street that we walked in. Apartments, shops, restaurants; it is obvious that support for the separatist movement is widespread.
