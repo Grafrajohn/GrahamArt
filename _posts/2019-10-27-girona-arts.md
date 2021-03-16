@@ -86,6 +86,10 @@ The city museum is packed with artefacts from over two millennia of history: pre
 
 In Girona one cannot help but notice the popular support for separatism. It is not the place of this blog to comment on such a contentious matter but the Catalonian flag was displayed in almost every street that we walked in. Apartments, shops, restaurants; it is obvious that support for the separatist movement is widespread.
 
+## Food and hotels
+
+The city is well served by hotels and restaurants where visitors can enjoy a relaxing meal and a drink outside in the gentle afternoon or evening breezes. 
+
 ## ...in conclusion
 
 When lockdown lifts Girona is a great place to reacquaint with the history, culture and pleasant climate of Spain.
