@@ -3,7 +3,7 @@ layout: post-quick-netlify
 title: Girona - Spanish - city of the arts
 date: 2019-10-27 20:45:00 Z
 categories: girona spain art
-description: Art and culture in Girona, Spain
+description: Art, culture and history in Girona, Spain
 image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1572463526/blog/DSC_0285.jpg
 alt-image: Roman mosaic in Girona
 introduction: Girona is an ancient city in the Catalonia region of Spain. The
@@ -50,7 +50,7 @@ A lot of Girona's old city walls are intact and walking along them affords a gre
 
 ### Roman mosaics
 
-Archaeologists think that the above Roman mosaic might be related to chariot races. It was once part of a large mosaic which showed a complete panorama of a chariot race - the drivers, the audience, the Roman VIPs and the chariot stadium itself. This mosaic is one of several which have been found and restored by archaeologists.
+Archaeologists think that the Roman mosaic at the top of this page might be related to chariot races. It was once part of a large mosaic which showed a complete panorama of a chariot race - the drivers, the audience, the Roman VIPs and the chariot stadium itself. This mosaic is one of several which have been found and restored by archaeologists.
 
 ### Medieval Christian art
 
@@ -68,11 +68,11 @@ Christian relief sculpture of a type very common in ancient and medieval times. 
 
 ![Girona flies](https://res.cloudinary.com/dtn9ari2r/image/upload/a_exif/v1572463524/blog/DSC_0216.jpg "Girona flies"){: .img-fluid}
 
-Girona is a place where flies are popular. A plague of them emerged from the tomb of St Narcis, the patron saint of the city, to beat off French invaders in 1286. Consequently there are sculptures and paintings of flies around the city.
+Girona is a place where flies are popular. A plague of them emerged from the tomb of St Narcis, the patron saint of the city, to beat off French invaders in 1286. Consequently there are sculptures and paintings of flies around the city. I am glad to report that while in Girona I found no flies in my soup.
 
 ## Jewish Museum
 
-Girona had a thriving medieval Jewish community which was alas expelled in 1492, and before that there was violence against the Jews as the monarchs of Catholic Spain sought to prevent the conversion of Christians to Judaism. Despite this much of the Jewish quarter still remains and some of its synagogue survived the succeeding years to become a modern day tourist attraction and museum. It is well worth a visit and gives a fascinating glimpse into the medieval lives of the Spanish Jews.
+Girona had a thriving medieval Jewish community which was alas expelled in 1492, and before that there was violence against the local Jews, including a massacre, as the monarchs of Catholic Spain gave orders to prevent the conversion of Christians to Judaism. Despite this, much of the Jewish quarter still remains and some of its synagogue survived the succeeding years to become a modern day tourist attraction and museum. It is well worth a visit and gives a fascinating glimpse into the medieval lives of the Spanish Jews.
 
 ## City Museum
 
