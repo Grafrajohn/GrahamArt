@@ -5,7 +5,7 @@ date: 2019-10-27 20:45:00 Z
 categories: girona spain art
 description: Art and culture in Girona, Spain
 image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1572463526/blog/DSC_0285.jpg
-alt-image: Roman mosaic
+alt-image: Roman mosaic in Girona
 introduction: Girona is an ancient city in the Catalonia region of Spain. The
   city has long had a flourishing arts and culture scene and the many works from
   this long history can be seen in its excellent museums.
