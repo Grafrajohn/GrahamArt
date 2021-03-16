@@ -14,7 +14,7 @@ introduction: Girona is an ancient city in the Catalonia region of Spain. The
 
 As we endure the COVID lockdown I thought I would look back to happier times and in particular a visit to the Spanish city of Girona.
 
-Girona is a city which does not always feature on the popular tourist map of Spain but it is delightful for lovers of history and culture.
+Girona is a city which does not always feature on the popular tourist map of Spain but it is delightful for lovers of history and culture. From the United Kingdom the city can be reached by numerous direct flights from the airports of London, Manchester, Birmingham, East Midlands and Leeds-Bradford.
 
 Built on hills, the city has many narrow winding streets with period buildings and hidden treasures such as its cathedral. The producers of the smash hit TV series 'Game of Thrones' immediately saw its potential and used it for many of the famous series locations, especially the mysterious city of Braavos. Arya Stark trained here as a 'faceless one' under the magical tutelage of Jaqen H'ghar, disciple of the Many-Faced God.
 
@@ -46,9 +46,17 @@ Christian relief sculpture of a type very common in ancient and medieval times. 
 
 Girona is a place where flies are popular. A plague of them emerged from the tomb of St Narcis, the patron saint of the city, to beat off French invaders in 1286. Consequently there are sculptures and paintings of flies around the city.
 
+## Cathedral
+
+![Girona cathedral](https://res.cloudinary.com/dtn9ari2r/image/upload/v1615838697/blog/DSC_0171.jpg "Girona cathedral"){: .img-fluid}
+
+The city's cathedral sits on top of a steep hill with popular cafes at the bottom which sell delicious snacks and beverages. The many steep steps at the front of the cathedral require a certain amount of physical fitness to negotiate!
+
 ## City walls
 
 ![Girona city walls](https://res.cloudinary.com/dtn9ari2r/image/upload/v1615838956/blog/DSC_0263.jpg "Girona city walls"){: .img-fluid}
+
+A lot of Girona's old city walls are intact and walking along them affords a great view of the city and numerous photo opportunities.
 
 ## Catalonian separatism
 
