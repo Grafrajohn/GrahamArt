@@ -1,6 +1,6 @@
 ---
 layout: post-quick-netlify
-title: Girona - Spanish - city of the arts
+title: Girona - Spanish city of the arts
 date: 2019-10-27 20:45:00 Z
 categories: girona spain art
 description: Art, culture and history in Girona, Spain
