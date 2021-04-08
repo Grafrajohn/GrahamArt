@@ -27,3 +27,5 @@ The painting is inspired by an early medieval painting sheen below.
 ![Hanseatic League - Europe's first trading block](https://res.cloudinary.com/dtn9ari2r/image/upload/v1601128680/blog/Stadtrecht_P.Schiffrecht.MHG.ajb.jpg "Hanseatic League - Europe's first trading block"){: .img-fluid}
 
 My painting attempts to bring in the many modern scientific and technological developments which have occurred since the medieval picture was painted! These include robotics, civil engineering, business, agriculture, telecommunications, flight, and containerization of shipping to name but a few.
+
+![Work in progress - Hanseatic Gold](https://res.cloudinary.com/dtn9ari2r/image/upload/v1617898344/blog/DSC_0021_3.jpg "Work in progress - Hanseatic Gold"){: .img-fluid}
