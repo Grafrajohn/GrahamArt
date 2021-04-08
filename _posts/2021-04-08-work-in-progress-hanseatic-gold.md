@@ -1,7 +1,7 @@
 ---
 layout: post-quick-netlify
 title: Work in progress - Hanseatic Gold
-date: 2021-06-07T15:24:41.728Z
+date: 2021-04-08T15:47:10.131Z
 categories: oils in-progress
 description: The Hanseatic League is a modern day revival of the old medieval
   trading league which existed to promote trade and international friendship
