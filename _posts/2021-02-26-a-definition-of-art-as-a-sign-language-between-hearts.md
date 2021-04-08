@@ -1,7 +1,7 @@
 ---
 layout: post-quick-netlify
 title: A definition of art as a sign language between hearts
-date: 2022-04-30T18:12:11.373Z
+date: 2022-05-30T18:12:11.373Z
 categories: aesthetics art philosophy
 description: An attempt at a definition of art as a language of signs between hearts
 image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1583273033/blog/96E6718D-CE5A-4D47-A191-8FFB7788BFC0.jpg
