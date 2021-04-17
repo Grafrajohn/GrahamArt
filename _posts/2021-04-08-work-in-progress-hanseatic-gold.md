@@ -10,14 +10,14 @@ description: The Hanseatic League is a modern day revival of the old medieval
   carried goods of all kinds between a variety of ports including Lubeck in
   Germany and Beverley in North Eastern England. This painting reflects the
   modern Hanseatic League and is for an upcoming exhibition in Riga, in summer
-  2021, called 'Hansetic Gold'. This exhibition may or may not go ahead due to
-  the COVID pandemic.
+  2021, called 'Hansetic Gold'. This exhibition will now be online due to the
+  COVID pandemic.
 image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1617896259/blog/DSC_0016_2.jpg
 alt-image: Hanseatic League - Hanseatic Gold work in progress
 introduction: >-
   This painting is my attempt to capture the spirit of the modern Hanseatic
-  League for an upcoming exhibition - 'Hanseatic Gold' - which alas may not now
-  happen due to the COVID-19 pandemic.
+  League for an upcoming exhibition - 'Hanseatic Gold' - which has gone online
+  due to the COVID-19 pandemic.
 
 
   Nevertheless I will complete the painting so at least some people can enjoy it.
