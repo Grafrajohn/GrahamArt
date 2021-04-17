@@ -48,6 +48,12 @@ nav {
     color: white;
 }
 
+.welcome {
+	color:tomato;
+	font-family: 'Rancho', cursive;
+	font-size: 1em;	
+}
+
 main {
 	margin-top: 20px;
 }
