@@ -12,7 +12,7 @@ body {
 
 html, body {
 	min-height: 100%;
-	font-family: 'Poppins', sans-serif;
+	font-family: Georgia, serif;
 }
 
 h1 {font-size: 1.8em;}
@@ -49,8 +49,7 @@ nav {
 }
 
 .welcome {
-	color:tomato;
-	font-family: 'Rancho', cursive;
+	color:salmon;
 	font-size: 2em;	
 }
 
