@@ -39,9 +39,9 @@ nav {
 }
 
 .navbar-brand {
-	/*font-family: 'Amatic';*/
 	font-family: 'Rancho', cursive;
 	font-size: 2.1em;
+	color: orange;
 }
 
 .navbar-dark .navbar-nav .nav-link {
