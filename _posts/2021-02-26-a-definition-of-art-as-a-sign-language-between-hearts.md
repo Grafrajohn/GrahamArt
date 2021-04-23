@@ -8,7 +8,7 @@ image: https://res.cloudinary.com/dtn9ari2r/image/upload/v1583273033/blog/96E671
 alt-image: Art as a sign language between hearts
 introduction: For a while now I have been surveying the wisdom of the philosophy
   of aesthetics to see if I can understand exactly what is the accepted
-  definition of art.  I find that there is no universally accepted definition of
+  definition of art. I find that there is no universally accepted definition of
   art, even after 2400 years of philosophical debate. Indeed some philosophers
   such as Wittgenstein theorised that art works perfectly well without a
   definition.
