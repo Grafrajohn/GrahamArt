@@ -109,6 +109,11 @@ main {
 	list-style-type: none;
   }
 
+.blog {
+    width:100%;
+    max-width:600px;	
+}  
+
 .footer_body {
     position: absolute;
     bottom: 0;

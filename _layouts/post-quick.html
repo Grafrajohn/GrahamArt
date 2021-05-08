@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<article class="container" style="padding-top: 10px;">
+<article class="container blog" style="padding-top: 10px;">
 
     <h1 class="h1-smaller">{% if page.h1 %}{{ page.h1 }}{% else %}{{ page.title }}{% endif %}</h1>
     <time>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</time>
