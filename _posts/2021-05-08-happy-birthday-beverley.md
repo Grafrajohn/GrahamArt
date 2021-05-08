@@ -19,3 +19,5 @@ The market town of Beverley is 1300 years old today. Founded by St John, the tow
 At the heart of the town was always its minister. A religious, educational and musical centre, it still dominates the skyscape of the town.
 
 In the Minster is a statue of St John.
+
+![](https://res.cloudinary.com/dtn9ari2r/image/upload/v1620509555/blog/BD0A1D1C-2C89-4248-80FA-61CFF5613E75.jpg)
