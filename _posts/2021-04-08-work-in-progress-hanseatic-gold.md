@@ -28,4 +28,4 @@ The painting is inspired by an early medieval painting sheen below.
 
 My painting attempts to bring in the many modern scientific and technological developments which have occurred since the medieval picture was painted! These include robotics, civil engineering, business, agriculture, telecommunications, flight, and containerization of shipping to name but a few.
 
-![Work in progress - Hanseatic Gold](https://res.cloudinary.com/dtn9ari2r/image/upload/v1617898344/blog/DSC_0021_3.jpg "Work in progress - Hanseatic Gold"){: .img-fluid}
+![Work in progress - Hanseatic Gold](https://res.cloudinary.com/dtn9ari2r/image/upload/v1620518405/blog/45EE27F4-740B-4BF4-9C91-80E45A81B3C2.jpg "Work in progress - Hanseatic Gold"){: .img-fluid}
